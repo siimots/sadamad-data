@@ -5,55 +5,25 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 2674,
-        "sadama_nimi": "ABAJA SADAM (EHITAMISEL)",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+3724525000;+3724525108",
-        "omanik_epost": "vald@saaremaavald.ee",
-        "koduleht": "www.saaremaavald.ee",
+        "sadama_nimi": "ABAJA SADAM",
+        "omanik": "Mittetulundusühing ABAJA PUHKEALA",
+        "omanik_telefon": "+37256647711",
+        "omanik_epost": "taavi@ait.ee",
+        "koduleht": "www.abaja.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
+        "max_pikkus": "6.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5"
+        "max_sygavus": "0.3"
       },
-      "geometry": { "type": "Point", "coordinates": [22.01672, 58.36951] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 53,
-        "sadama_nimi": "ABRUKA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Kaarel Niine",
-        "sadamakapteni_telefon": "+3724555774",
-        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
-        "max_pikkus": "40.0",
-        "max_laius": "20.0",
-        "max_sygavus": "2.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [22.52766, 58.16261] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 710,
-        "sadama_nimi": "ADMIRALI VÄIKESADAM",
-        "omanik": "Osaühing Skandia Arendus",
-        "omanik_telefon": "+3725118420",
-        "omanik_epost": "marko.puusepp@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Juhannes Puusepp",
-        "sadamakapteni_telefon": "+3725118420",
-        "sadamakapteni_epost": "marko@paatsalu.ee",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.6"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.67816, 58.52978] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.01783,
+          58.36965
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -71,25 +41,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.9"
       },
-      "geometry": { "type": "Point", "coordinates": [24.75797, 59.57113] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2662,
-        "sadama_nimi": "AHOI JÕESADAM",
-        "omanik": "Hillar Lipp",
-        "omanik_telefon": "+3724544180;+3725183187",
-        "omanik_epost": "hillarlipp@hot.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Hillar Lipp",
-        "sadamakapteni_telefon": "+3724544180;+3725183187",
-        "sadamakapteni_epost": "hillarlipp@hot.ee",
-        "max_pikkus": "15.0",
-        "max_laius": "4.0",
-        "max_sygavus": "1.2"
-      },
-      "geometry": { "type": "Point", "coordinates": [22.38256, 58.22561] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75797,
+          59.57113
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -107,25 +65,85 @@
         "max_laius": "3.1",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [27.43404, 59.00742] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43404,
+          59.00742
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2659,
-        "sadama_nimi": "ALLIKLEPA SADAM",
-        "omanik": "Alliklepa Sadam OÜ",
-        "omanik_telefon": "+3725258735",
-        "omanik_epost": "info@alliklepasadam.ee",
-        "koduleht": "www.alliklepasadam.ee",
-        "sadamakapteni_nimi": "Märt Rask",
-        "sadamakapteni_telefon": "+3725258735",
-        "sadamakapteni_epost": "info@alliklepasadam.ee",
-        "max_pikkus": "12.2",
+        "sadamaregister": 2662,
+        "sadama_nimi": "AHOI JÕESADAM",
+        "omanik": "Hillar Lipp",
+        "omanik_telefon": "+3724544180;+3725183187",
+        "omanik_epost": "hillarlipp@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Hillar Lipp",
+        "sadamakapteni_telefon": "+3724544180;+3725183187",
+        "sadamakapteni_epost": "hillarlipp@hot.ee",
+        "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "2.3"
+        "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [23.79363, 59.28508] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.38256,
+          58.22561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 53,
+        "sadama_nimi": "ABRUKA SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Kaarel Niine",
+        "sadamakapteni_telefon": "+3724555774",
+        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
+        "max_pikkus": "40.0",
+        "max_laius": "20.0",
+        "max_sygavus": "2.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.52766,
+          58.16261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 710,
+        "sadama_nimi": "ADMIRALI VÄIKESADAM",
+        "omanik": "Osaühing Skandia Arendus",
+        "omanik_telefon": "+3725118420",
+        "omanik_epost": "marko.puusepp@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Juhannes Puusepp",
+        "sadamakapteni_telefon": "+3725118420",
+        "sadamakapteni_epost": "marko@paatsalu.ee",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67816,
+          58.52978
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -143,7 +161,13 @@
         "max_laius": "2.5",
         "max_sygavus": "0.6"
       },
-      "geometry": { "type": "Point", "coordinates": [26.87929, 59.45721] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.87929,
+          59.45721
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -161,79 +185,37 @@
         "max_laius": "6.0",
         "max_sygavus": "1.4"
       },
-      "geometry": { "type": "Point", "coordinates": [21.8939, 58.30184] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8939,
+          58.30184
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 150,
-        "sadama_nimi": "BEKKERI SADAM",
-        "omanik": "OÜ Tallinna Bekkeri Sadam",
-        "omanik_telefon": "+3726201600",
-        "omanik_epost": "info@tallinnbekkerport.com",
-        "koduleht": "www.tallinnbekkerport.com",
-        "sadamakapteni_nimi": "Gunnar Kellamov",
-        "sadamakapteni_telefon": "+37256921417",
-        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
-        "max_pikkus": "170.0",
-        "max_laius": "25.0",
-        "max_sygavus": "7.9"
+        "sadamaregister": 2659,
+        "sadama_nimi": "ALLIKLEPA SADAM",
+        "omanik": "Alliklepa Sadam OÜ",
+        "omanik_telefon": "+3725258735",
+        "omanik_epost": "info@alliklepasadam.ee",
+        "koduleht": "www.alliklepasadam.ee",
+        "sadamakapteni_nimi": "Märt Rask",
+        "sadamakapteni_telefon": "+3725258735",
+        "sadamakapteni_epost": "info@alliklepasadam.ee",
+        "max_pikkus": "12.2",
+        "max_laius": "4.0",
+        "max_sygavus": "2.3"
       },
-      "geometry": { "type": "Point", "coordinates": [24.66752, 59.45473] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 151,
-        "sadama_nimi": "DIRHAMI SADAM",
-        "omanik": "MELLSON GRUPP OÜ",
-        "omanik_telefon": "+3724797221",
-        "omanik_epost": "info@portdirham.ee",
-        "koduleht": "www.dirhami.ee",
-        "sadamakapteni_nimi": "Jaanus Sadam",
-        "sadamakapteni_telefon": "+37253039129",
-        "sadamakapteni_epost": "info@morobell.ee",
-        "max_pikkus": "90.0",
-        "max_laius": "12.0",
-        "max_sygavus": "3.7"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.50085, 59.21139] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 450,
-        "sadama_nimi": "EISMA SADAM",
-        "omanik": "Mittetulundusühing EISMA SADAM",
-        "omanik_telefon": "+37253452487",
-        "omanik_epost": "info@eismasadam.ee",
-        "koduleht": "www.eismasadam.ee",
-        "sadamakapteni_nimi": "Kaarel Einpalu",
-        "sadamakapteni_telefon": "+37253452487",
-        "sadamakapteni_epost": "kapten@eismasadam.ee",
-        "max_pikkus": "10.0",
-        "max_laius": "3.0",
-        "max_sygavus": "2.2"
-      },
-      "geometry": { "type": "Point", "coordinates": [26.30425, 59.56929] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 152,
-        "sadama_nimi": "HAAPSALU VESKIVIIGI",
-        "omanik": "ANKRUPOI OÜ",
-        "omanik_telefon": "+3726710100",
-        "omanik_epost": "aivar@ieg.ee; valdo.kivi@ieg.ee; ieg@ieg.ee",
-        "koduleht": "www.veskiviigi.ee",
-        "sadamakapteni_nimi": "Valdo Kivi",
-        "sadamakapteni_telefon": "+3725652887",
-        "sadamakapteni_epost": "valdo.kivi@ieg.ee",
-        "max_pikkus": "18.0",
-        "max_laius": "5.0",
-        "max_sygavus": "2.1"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.5275, 58.958] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79363,
+          59.28508
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -251,43 +233,85 @@
         "max_laius": "3.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [22.44657, 58.8067] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.44657,
+          58.8067
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2259,
-        "sadama_nimi": "HARA SADAM",
-        "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724724354",
-        "omanik_epost": "vv@laanenigula.ee",
-        "koduleht": "www.laanenigula.ee",
-        "sadamakapteni_nimi": "Esko Juhani Väli-Tainio",
-        "sadamakapteni_telefon": "+37253334996",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.7"
+        "sadamaregister": 151,
+        "sadama_nimi": "DIRHAMI SADAM",
+        "omanik": "MELLSON GRUPP OÜ",
+        "omanik_telefon": "+3724797221",
+        "omanik_epost": "info@portdirham.ee",
+        "koduleht": "www.dirhami.ee",
+        "sadamakapteni_nimi": "Jaanus Sadam",
+        "sadamakapteni_telefon": "+37253039129",
+        "sadamakapteni_epost": "info@morobell.ee",
+        "max_pikkus": "90.0",
+        "max_laius": "12.0",
+        "max_sygavus": "3.7"
       },
-      "geometry": { "type": "Point", "coordinates": [23.52865, 59.08978] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50085,
+          59.21139
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2114,
-        "sadama_nimi": "HARA SADAM",
-        "omanik": "Mittetulundusühing Hara Sadam",
-        "omanik_telefon": "+37256900433;+3725021000",
-        "omanik_epost": "tarvi.velstrom@mail.ee ; sadam@harasadam.ee",
-        "koduleht": "www.harasadam.ee  https://www.facebook.com/Hara-Sadam-167468077115937/",
-        "sadamakapteni_nimi": "Tarvi Velström",
-        "sadamakapteni_telefon": "+372;+3725021000",
-        "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "3.0"
+        "sadamaregister": 152,
+        "sadama_nimi": "HAAPSALU VESKIVIIGI",
+        "omanik": "ANKRUPOI OÜ",
+        "omanik_telefon": "+3726710100",
+        "omanik_epost": "aivar@ieg.ee; valdo.kivi@ieg.ee; ieg@ieg.ee",
+        "koduleht": "www.veskiviigi.ee",
+        "sadamakapteni_nimi": "Valdo Kivi",
+        "sadamakapteni_telefon": "+3725652887",
+        "sadamakapteni_epost": "valdo.kivi@ieg.ee",
+        "max_pikkus": "18.0",
+        "max_laius": "5.0",
+        "max_sygavus": "2.1"
       },
-      "geometry": { "type": "Point", "coordinates": [25.6126, 59.58814] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5275,
+          58.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 450,
+        "sadama_nimi": "EISMA SADAM",
+        "omanik": "Mittetulundusühing EISMA SADAM",
+        "omanik_telefon": "+37253452487",
+        "omanik_epost": "info@eismasadam.ee",
+        "koduleht": "www.eismasadam.ee",
+        "sadamakapteni_nimi": "Kaarel Einpalu",
+        "sadamakapteni_telefon": "+37253452487",
+        "sadamakapteni_epost": "kapten@eismasadam.ee",
+        "max_pikkus": "10.0",
+        "max_laius": "3.0",
+        "max_sygavus": "2.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.30425,
+          59.56929
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -305,61 +329,85 @@
         "max_laius": "3.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [22.84188, 59.00223] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84188,
+          59.00223
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 154,
-        "sadama_nimi": "HELTERMAA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus@saarteliinid.ee",
-        "max_pikkus": "118.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.7"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.04833, 58.86667] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 159,
-        "sadama_nimi": "JAAGUPI SADAM",
-        "omanik": "Häädemeeste Vallavalitsus",
-        "omanik_telefon": "+3724448890",
-        "omanik_epost": "toomas.abel@haademeeste.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Kaido Vaik",
-        "sadamakapteni_telefon": "+3725120485",
-        "sadamakapteni_epost": "kaido@wetmen.eu",
+        "sadamaregister": 2259,
+        "sadama_nimi": "HARA SADAM",
+        "omanik": "Lääne-Nigula Vallavalitsus",
+        "omanik_telefon": "+3724724354",
+        "omanik_epost": "vv@laanenigula.ee",
+        "koduleht": "www.laanenigula.ee",
+        "sadamakapteni_nimi": "Esko Juhani Väli-Tainio",
+        "sadamakapteni_telefon": "+37253334996",
+        "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [24.45833, 58.03667] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52865,
+          59.08978
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 158,
-        "sadama_nimi": "HUNDIPEA SADAM",
-        "omanik": "Veeteede Amet",
-        "omanik_telefon": "+3726205600",
-        "omanik_epost": "eva@vta.ee",
-        "koduleht": "www.vta.ee",
-        "sadamakapteni_nimi": "Martin Kaarjärv",
-        "sadamakapteni_telefon": "+3726205707;+3725243842",
-        "sadamakapteni_epost": "martin.kaarjarv@vta.ee",
-        "max_pikkus": "130.0",
-        "max_laius": "30.0",
-        "max_sygavus": "8.0"
+        "sadamaregister": 2114,
+        "sadama_nimi": "HARA SADAM",
+        "omanik": "Mittetulundusühing Hara Sadam",
+        "omanik_telefon": "+37256900433;+3725021000",
+        "omanik_epost": "tarvi.velstrom@mail.ee ; sadam@harasadam.ee",
+        "koduleht": "www.harasadam.ee  https://www.facebook.com/Hara-Sadam-167468077115937/",
+        "sadamakapteni_nimi": "Tarvi Velström",
+        "sadamakapteni_telefon": "+372;+3725021000",
+        "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "3.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.71883, 59.46] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6126,
+          59.58814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 150,
+        "sadama_nimi": "BEKKERI SADAM",
+        "omanik": "OÜ Tallinna Bekkeri Sadam",
+        "omanik_telefon": "+3726201600",
+        "omanik_epost": "info@tallinnbekkerport.com",
+        "koduleht": "www.tallinnbekkerport.com",
+        "sadamakapteni_nimi": "Gunnar Kellamov",
+        "sadamakapteni_telefon": "+37256921417",
+        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
+        "max_pikkus": "170.0",
+        "max_laius": "25.0",
+        "max_sygavus": "7.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66752,
+          59.45473
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -377,25 +425,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [27.18205, 58.98261] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1939,
-        "sadama_nimi": "JÕE PAADISADAM",
-        "omanik": "mittetulundusühing Paadisadam Jõe",
-        "omanik_telefon": "+3725123433",
-        "omanik_epost": "paadisadam@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "ANDRES MÄGI",
-        "sadamakapteni_telefon": "+3725123433",
-        "sadamakapteni_epost": "paadisadam@gmail.com",
-        "max_pikkus": "7.0",
-        "max_laius": "2.5",
-        "max_sygavus": "1.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [26.74011, 58.37218] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18205,
+          58.98261
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -413,7 +449,61 @@
         "max_laius": "3.0",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [24.29428, 58.36914] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29428,
+          58.36914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1939,
+        "sadama_nimi": "JÕE PAADISADAM",
+        "omanik": "mittetulundusühing Paadisadam Jõe",
+        "omanik_telefon": "+3725123433",
+        "omanik_epost": "paadisadam@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "ANDRES MÄGI",
+        "sadamakapteni_telefon": "+3725123433",
+        "sadamakapteni_epost": "paadisadam@gmail.com",
+        "max_pikkus": "7.0",
+        "max_laius": "2.5",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.74011,
+          58.37218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 158,
+        "sadama_nimi": "HUNDIPEA SADAM",
+        "omanik": "Veeteede Amet",
+        "omanik_telefon": "+3726205600",
+        "omanik_epost": "eva@vta.ee",
+        "koduleht": "www.vta.ee",
+        "sadamakapteni_nimi": "Martin Kaarjärv",
+        "sadamakapteni_telefon": "+3726205707;+3725243842",
+        "sadamakapteni_epost": "martin.kaarjarv@vta.ee",
+        "max_pikkus": "130.0",
+        "max_laius": "30.0",
+        "max_sygavus": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71883,
+          59.46
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -431,7 +521,37 @@
         "max_laius": "3.0",
         "max_sygavus": "1.8"
       },
-      "geometry": { "type": "Point", "coordinates": [22.20007, 57.98928] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.20007,
+          57.98928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 159,
+        "sadama_nimi": "JAAGUPI SADAM",
+        "omanik": "Häädemeeste Vallavalitsus",
+        "omanik_telefon": "+3724448890",
+        "omanik_epost": "toomas.abel@haademeeste.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Kaido Vaik",
+        "sadamakapteni_telefon": "+3725120485",
+        "sadamakapteni_epost": "kaido@wetmen.eu",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45833,
+          58.03667
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -449,25 +569,13 @@
         "max_laius": "4.0",
         "max_sygavus": "2.1"
       },
-      "geometry": { "type": "Point", "coordinates": [25.2784, 59.52014] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 163,
-        "sadama_nimi": "KAKUMÄE SADAM",
-        "omanik": "Haven Management OÜ",
-        "omanik_telefon": "+37253700023",
-        "omanik_epost": "marina@havenk.com",
-        "koduleht": "www.havenk.com",
-        "sadamakapteni_nimi": "Rein Raudsalu",
-        "sadamakapteni_telefon": "+3725022877",
-        "sadamakapteni_epost": "sadam@lennusadam.eu",
-        "max_pikkus": "30.0",
-        "max_laius": "9.0",
-        "max_sygavus": "3.8"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.60697, 59.45111] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2784,
+          59.52014
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -485,25 +593,13 @@
         "max_laius": "2.0",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.05648, 58.92096] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 165,
-        "sadama_nimi": "KALASADAM (EHITAMISEL)",
-        "omanik": "AS Pro Kapital Eesti",
-        "omanik_telefon": "+3726144920",
-        "omanik_epost": "prokapital@prokapital.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "35.0",
-        "max_laius": "8.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.75014, 59.44675] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.05648,
+          58.92096
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -521,25 +617,37 @@
         "max_laius": "1.5",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [23.26902, 58.45426] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.26902,
+          58.45426
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 167,
-        "sadama_nimi": "KALEVI JAHTKLUBI",
-        "omanik": "Kalevi Jahtklubi",
-        "omanik_telefon": "+3726239154;+37253010450",
-        "omanik_epost": "info@kjk.ee",
-        "koduleht": "www.kjk.ee",
-        "sadamakapteni_nimi": "Andres Tamm",
-        "sadamakapteni_telefon": "+372531010450",
-        "sadamakapteni_epost": "sadam@kjk.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "5.0",
-        "max_sygavus": "3.8"
+        "sadamaregister": 165,
+        "sadama_nimi": "KALASADAM (EHITAMISEL)",
+        "omanik": "AS Pro Kapital Eesti",
+        "omanik_telefon": "+3726144920",
+        "omanik_epost": "prokapital@prokapital.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "35.0",
+        "max_laius": "8.0",
+        "max_sygavus": "3.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.83012, 59.46633] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75014,
+          59.44675
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -557,7 +665,37 @@
         "max_laius": "3.1",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [27.16596, 58.6727] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16596,
+          58.6727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 167,
+        "sadama_nimi": "KALEVI JAHTKLUBI",
+        "omanik": "Kalevi Jahtklubi",
+        "omanik_telefon": "+3726239154;+37253010450",
+        "omanik_epost": "info@kjk.ee",
+        "koduleht": "www.kjk.ee",
+        "sadamakapteni_nimi": "Andres Tamm",
+        "sadamakapteni_telefon": "+37253010450",
+        "sadamakapteni_epost": "sadam@kjk.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "5.0",
+        "max_sygavus": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83012,
+          59.46633
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -575,7 +713,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.25274, 58.66839] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.25274,
+          58.66839
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -593,7 +737,37 @@
         "max_laius": "6.0",
         "max_sygavus": "1.4"
       },
-      "geometry": { "type": "Point", "coordinates": [27.16722, 58.66852] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16722,
+          58.66852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 163,
+        "sadama_nimi": "KAKUMÄE SADAM",
+        "omanik": "Haven Management OÜ",
+        "omanik_telefon": "+37253700023",
+        "omanik_epost": "marina@havenk.com",
+        "koduleht": "www.havenk.com",
+        "sadamakapteni_nimi": "Rein Raudsalu",
+        "sadamakapteni_telefon": "+3725022877",
+        "sadamakapteni_epost": "sadam@lennusadam.eu",
+        "max_pikkus": "30.0",
+        "max_laius": "9.0",
+        "max_sygavus": "3.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60697,
+          59.45111
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -611,7 +785,37 @@
         "max_laius": "2.4",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [26.96939, 58.891] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.96939,
+          58.891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 154,
+        "sadama_nimi": "HELTERMAA SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Andrus Maide",
+        "sadamakapteni_telefon": "+3725043888",
+        "sadamakapteni_epost": "andrus@saarteliinid.ee",
+        "max_pikkus": "118.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.04833,
+          58.86667
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -620,16 +824,22 @@
         "sadama_nimi": "KÄRDLA SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee; Merike.reede@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Härm Liina",
-        "sadamakapteni_telefon": "+5187580",
+        "sadamakapteni_nimi": "Liina Härm",
+        "sadamakapteni_telefon": "+3725187580",
         "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "9.0",
         "max_sygavus": "3.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.75433, 59.01033] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75433,
+          59.01033
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -647,7 +857,13 @@
         "max_laius": "2.5",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [26.42309, 59.54732] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.42309,
+          59.54732
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -655,7 +871,7 @@
         "sadamaregister": 1403,
         "sadama_nimi": "KARLOVA PAADISADAM",
         "omanik": "Seto Line Reisid OÜ",
-        "omanik_telefon": "+3725247153",
+        "omanik_telefon": "+3725037616",
         "omanik_epost": "info@setoline.ee",
         "koduleht": "www.setoline.ee",
         "sadamakapteni_nimi": "Toomas Oks",
@@ -665,7 +881,13 @@
         "max_laius": "10.0",
         "max_sygavus": "1.9"
       },
-      "geometry": { "type": "Point", "coordinates": [26.74611, 58.36889] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.74611,
+          58.36889
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -683,7 +905,13 @@
         "max_laius": "8.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.73833, 58.24] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.73833,
+          58.24
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -701,7 +929,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.75"
       },
-      "geometry": { "type": "Point", "coordinates": [22.84895, 58.78198] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84895,
+          58.78198
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -709,9 +943,9 @@
         "sadamaregister": 204,
         "sadama_nimi": "KASTNA VÄIKESADAM",
         "omanik": "Pärnu Linnavalitsus",
-        "omanik_telefon": "+37253325088",
-        "omanik_epost": "alo.tomson@parnu.ee",
-        "koduleht": "-",
+        "omanik_telefon": "+3724448200",
+        "omanik_epost": "linnavalitsus@parnu.ee",
+        "koduleht": "www.parnu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
@@ -719,7 +953,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.91004, 58.32434] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91004,
+          58.32434
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -737,7 +977,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.6"
       },
-      "geometry": { "type": "Point", "coordinates": [22.06, 58.04333] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.06,
+          58.04333
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -745,9 +991,9 @@
         "sadamaregister": 206,
         "sadama_nimi": "KAVARU SADAM",
         "omanik": "Pärnu Linnavalitsus",
-        "omanik_telefon": "+37253325088",
-        "omanik_epost": "alo.tomson@parnu.ee",
-        "koduleht": "-",
+        "omanik_telefon": "+3724448200",
+        "omanik_epost": "linnavalitsus@parnu.ee",
+        "koduleht": "www.parnu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
@@ -755,7 +1001,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [24.19342, 58.26956] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19342,
+          58.26956
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -767,13 +1019,19 @@
         "omanik_epost": "kommunaal@viimsivv.ee",
         "koduleht": "www.viimsivald.ee",
         "sadamakapteni_nimi": "Viktor Palmet",
-        "sadamakapteni_telefon": "+3725128188",
-        "sadamakapteni_epost": "kapten@parnusadam.ee",
+        "sadamakapteni_telefon": "+3724471700",
+        "sadamakapteni_epost": "kapten@parnusadam.eu",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [25.012, 59.63717] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.012,
+          59.63717
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -791,7 +1049,13 @@
         "max_laius": "3.5",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [24.8392, 59.5558] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8392,
+          59.5558
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -809,7 +1073,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.44327, 58.632] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.44327,
+          58.632
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -827,7 +1097,13 @@
         "max_laius": "15.0",
         "max_sygavus": "3.5"
       },
-      "geometry": { "type": "Point", "coordinates": [24.02078, 58.14131] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02078,
+          58.14131
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -845,7 +1121,13 @@
         "max_laius": "3.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.54813, 58.77165] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54813,
+          58.77165
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -863,25 +1145,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.7"
       },
-      "geometry": { "type": "Point", "coordinates": [23.07399, 58.59601] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1207,
-        "sadama_nimi": "KÕIGUSTE SADAM",
-        "omanik": "MTÜ Kõiguste Marina",
-        "omanik_telefon": "+3725580970",
-        "omanik_epost": "koigustemarina@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Niklas John Alexander Jansson",
-        "sadamakapteni_telefon": "+3725580970",
-        "sadamakapteni_epost": "espumeru@mailasail.com",
-        "max_pikkus": "23.9",
-        "max_laius": "4.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [22.9715, 58.36971] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.07399,
+          58.59601
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -899,7 +1169,37 @@
         "max_laius": "4.0",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [25.08994, 59.50556] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.08994,
+          59.50556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1207,
+        "sadama_nimi": "KÕIGUSTE SADAM",
+        "omanik": "MTÜ Kõiguste Marina",
+        "omanik_telefon": "+3725580970",
+        "omanik_epost": "koigustemarina@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Niklas John Alexander Jansson",
+        "sadamakapteni_telefon": "+3725580970",
+        "sadamakapteni_epost": "espumeru@mailasail.com",
+        "max_pikkus": "23.9",
+        "max_laius": "4.0",
+        "max_sygavus": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9715,
+          58.36971
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -917,7 +1217,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [27.21847, 58.5552] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.21847,
+          58.5552
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -935,7 +1241,13 @@
         "max_laius": "5.5",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.46433, 58.993] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.46433,
+          58.993
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -953,7 +1265,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [28.08602, 59.45157] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.08602,
+          59.45157
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -971,7 +1289,13 @@
         "max_laius": "20.0",
         "max_sygavus": "4.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.39654, 58.57366] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39654,
+          58.57366
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -989,25 +1313,13 @@
         "max_laius": "3.5",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.95467, 58.3628] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 300,
-        "sadama_nimi": "KUNDA SADAM",
-        "omanik": "Kunda Sadam AS",
-        "omanik_telefon": "+3723229955",
-        "omanik_epost": "info@kundasadam.ee",
-        "koduleht": "www.kundasadam.ee",
-        "sadamakapteni_nimi": "Eiki Orgmets",
-        "sadamakapteni_telefon": "+3723229861",
-        "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
-        "max_pikkus": "150.0",
-        "max_laius": "30.0",
-        "max_sygavus": "8.6"
-      },
-      "geometry": { "type": "Point", "coordinates": [26.5415, 59.52117] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95467,
+          58.3628
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1025,7 +1337,13 @@
         "max_laius": "4.0",
         "max_sygavus": "2.3"
       },
-      "geometry": { "type": "Point", "coordinates": [22.47167, 58.245] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.47167,
+          58.245
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1043,7 +1361,13 @@
         "max_laius": "2.5",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [24.0222, 59.28848] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0222,
+          59.28848
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1061,7 +1385,13 @@
         "max_laius": "10.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [27.41806, 58.33869] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41806,
+          58.33869
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1079,7 +1409,37 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.67663, 58.52721] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67663,
+          58.52721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 300,
+        "sadama_nimi": "KUNDA SADAM",
+        "omanik": "Kunda Sadam AS",
+        "omanik_telefon": "+3723229955",
+        "omanik_epost": "info@kundasadam.ee",
+        "koduleht": "www.kundasadam.ee",
+        "sadamakapteni_nimi": "Eiki Orgmets",
+        "sadamakapteni_telefon": "+3723229861",
+        "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
+        "max_pikkus": "150.0",
+        "max_laius": "30.0",
+        "max_sygavus": "8.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5415,
+          59.52117
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1097,7 +1457,13 @@
         "max_laius": "2.2",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [22.25369, 58.14604] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25369,
+          58.14604
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1115,25 +1481,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.1221, 58.234] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 308,
-        "sadama_nimi": "LAHESUU SADAM",
-        "omanik": "Lahesuu Sadama aktsiaselts",
-        "omanik_telefon": "+3725167657",
-        "omanik_epost": "info@lahesuu.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Gregor Elm",
-        "sadamakapteni_telefon": "+37253432489",
-        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
-        "max_pikkus": "160.0",
-        "max_laius": "35.0",
-        "max_sygavus": "4.1"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.70301, 59.4571] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1221,
+          58.234
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1151,43 +1505,37 @@
         "max_laius": "3.4",
         "max_sygavus": "0.4"
       },
-      "geometry": { "type": "Point", "coordinates": [22.69626, 59.06894] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.69626,
+          59.06894
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 311,
-        "sadama_nimi": "LEHTMA SADAM",
-        "omanik": "Aktsiaselts Direct Consulting",
-        "omanik_telefon": "+3726030700;+2725255861",
-        "omanik_epost": "tonu@ulemistearimaja.ee",
+        "sadamaregister": 308,
+        "sadama_nimi": "LAHESUU SADAM",
+        "omanik": "Lahesuu Sadama aktsiaselts",
+        "omanik_telefon": "+3725167657",
+        "omanik_epost": "info@lahesuu.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Marek Kiiver",
-        "sadamakapteni_telefon": "+3724622711",
-        "sadamakapteni_epost": "lehtmasadama@dagomar.hiiumaa.ee",
-        "max_pikkus": "130.0",
-        "max_laius": "16.0",
-        "max_sygavus": "4.2"
+        "sadamakapteni_nimi": "Gregor Elm",
+        "sadamakapteni_telefon": "+37253432489",
+        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
+        "max_pikkus": "160.0",
+        "max_laius": "35.0",
+        "max_sygavus": "4.1"
       },
-      "geometry": { "type": "Point", "coordinates": [22.69833, 59.06833] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 312,
-        "sadama_nimi": "LENNUSADAM",
-        "omanik": "Sihtasutus Eesti Meremuuseum",
-        "omanik_telefon": "+3726411408",
-        "omanik_epost": "info@meremuuseum.ee",
-        "koduleht": "https://meremuuseum.ee/lennusadam/jahisadam/",
-        "sadamakapteni_nimi": "Rein Raudsalu",
-        "sadamakapteni_telefon": "+3725022877",
-        "sadamakapteni_epost": "sadam@lennusadam.eu",
-        "max_pikkus": "90.0",
-        "max_laius": "30.0",
-        "max_sygavus": "7.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.737, 59.45517] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70301,
+          59.4571
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1205,7 +1553,61 @@
         "max_laius": "6.0",
         "max_sygavus": "1.4"
       },
-      "geometry": { "type": "Point", "coordinates": [24.86656, 59.55139] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86656,
+          59.55139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 312,
+        "sadama_nimi": "LENNUSADAM",
+        "omanik": "Sihtasutus Eesti Meremuuseum",
+        "omanik_telefon": "+3726411408",
+        "omanik_epost": "info@meremuuseum.ee",
+        "koduleht": "https://meremuuseum.ee/lennusadam/jahisadam/",
+        "sadamakapteni_nimi": "Rein Raudsalu",
+        "sadamakapteni_telefon": "+3725022877",
+        "sadamakapteni_epost": "sadam@lennusadam.eu",
+        "max_pikkus": "90.0",
+        "max_laius": "30.0",
+        "max_sygavus": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.737,
+          59.45517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 311,
+        "sadama_nimi": "LEHTMA SADAM",
+        "omanik": "Aktsiaselts Direct Consulting",
+        "omanik_telefon": "+3726030700;+2725255861",
+        "omanik_epost": "tonu@ulemistearimaja.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Marek Kiiver",
+        "sadamakapteni_telefon": "+3724622711",
+        "sadamakapteni_epost": "lehtmasadama@dagomar.hiiumaa.ee",
+        "max_pikkus": "130.0",
+        "max_laius": "16.0",
+        "max_sygavus": "4.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.69833,
+          59.06833
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1217,13 +1619,19 @@
         "omanik_epost": "kommunaal@viimsivv.ee",
         "koduleht": "www.viimsivald.ee",
         "sadamakapteni_nimi": "Viktor Palmet",
-        "sadamakapteni_telefon": "+3725128188",
-        "sadamakapteni_epost": "kapten@parnusadam.ee",
+        "sadamakapteni_telefon": "+3724471700",
+        "sadamakapteni_epost": "kapten@parnusadam.eu",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [24.86714, 59.55088] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86714,
+          59.55088
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1241,7 +1649,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [24.29, 58.33] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29,
+          58.33
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1259,25 +1673,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.26661, 58.27933] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 318,
-        "sadama_nimi": "LOHUSALU SADAM",
-        "omanik": "AS Nordic Contractors",
-        "omanik_telefon": "+3726272020",
-        "omanik_epost": "nordiccontractors@nordiccontractors.com",
-        "koduleht": "www.lohusalu.ee",
-        "sadamakapteni_nimi": "VALDO TAUMANN",
-        "sadamakapteni_telefon": "+3725082478",
-        "sadamakapteni_epost": "lohusalu@lohusalu.ee",
-        "max_pikkus": "20.0",
-        "max_laius": "5.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.20358, 59.40281] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26661,
+          58.27933
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1295,25 +1697,37 @@
         "max_laius": "4.0",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [27.05417, 58.94389] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.05417,
+          58.94389
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 321,
-        "sadama_nimi": "LOKSA SADAM",
-        "omanik": "MARSALIS SHIPYARD OÜ",
-        "omanik_telefon": "+3725091383",
-        "omanik_epost": "erich.reimets@marsalis.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Einar Kukk",
-        "sadamakapteni_telefon": "+6224079",
-        "sadamakapteni_epost": "einar.kukk@gmail.com",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.5"
+        "sadamaregister": 318,
+        "sadama_nimi": "LOHUSALU SADAM",
+        "omanik": "AS Nordic Contractors",
+        "omanik_telefon": "+3726272020",
+        "omanik_epost": "nordiccontractors@nordiccontractors.com",
+        "koduleht": "www.lohusalu.ee",
+        "sadamakapteni_nimi": "VALDO TAUMANN",
+        "sadamakapteni_telefon": "+3725082478",
+        "sadamakapteni_epost": "lohusalu@lohusalu.ee",
+        "max_pikkus": "20.0",
+        "max_laius": "5.0",
+        "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [25.69883, 59.5835] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.20358,
+          59.40281
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1331,7 +1745,13 @@
         "max_laius": "3.5",
         "max_sygavus": "1.7"
       },
-      "geometry": { "type": "Point", "coordinates": [22.11884, 58.17302] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.11884,
+          58.17302
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1349,25 +1769,37 @@
         "max_laius": "2.5",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.27395, 58.48966] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27395,
+          58.48966
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 324,
-        "sadama_nimi": "LÕUNARANNA SADAM",
-        "omanik": "Lõunaranna Investeeringud OÜ",
-        "omanik_telefon": "+3725036640",
-        "omanik_epost": "olaf@lounaranna.ee",
-        "koduleht": "www.lounaranna.ee",
-        "sadamakapteni_nimi": "Olaf Orgse",
-        "sadamakapteni_telefon": "+3725036640",
-        "sadamakapteni_epost": "olaf@lounaranna.ee",
-        "max_pikkus": "17.0",
-        "max_laius": "5.0",
-        "max_sygavus": "2.2"
+        "sadamaregister": 321,
+        "sadama_nimi": "LOKSA SADAM",
+        "omanik": "MARSALIS SHIPYARD OÜ",
+        "omanik_telefon": "+3725091383",
+        "omanik_epost": "erich.reimets@marsalis.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Einar Kukk",
+        "sadamakapteni_telefon": "+6224079",
+        "sadamakapteni_epost": "einar.kukk@gmail.com",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.31667, 58.54167] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.69883,
+          59.5835
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1385,7 +1817,37 @@
         "max_laius": "3.0",
         "max_sygavus": "0.6"
       },
-      "geometry": { "type": "Point", "coordinates": [23.47664, 58.87098] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47664,
+          58.87098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 324,
+        "sadama_nimi": "LÕUNARANNA SADAM",
+        "omanik": "Lõunaranna Investeeringud OÜ",
+        "omanik_telefon": "+3725036640",
+        "omanik_epost": "olaf@lounaranna.ee",
+        "koduleht": "www.lounaranna.ee",
+        "sadamakapteni_nimi": "Olaf Orgse",
+        "sadamakapteni_telefon": "+3725036640",
+        "sadamakapteni_epost": "olaf@lounaranna.ee",
+        "max_pikkus": "17.0",
+        "max_laius": "5.0",
+        "max_sygavus": "2.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.31667,
+          58.54167
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1393,7 +1855,7 @@
         "sadamaregister": 3934,
         "sadama_nimi": "LUUNJA JÕESADAM",
         "omanik": "Sihtasutus Luunja Jõesadam",
-        "omanik_telefon": "+3725166213",
+        "omanik_telefon": "+3727417319",
         "omanik_epost": "sadam@luunja.ee",
         "koduleht": "www.luunja.ee",
         "sadamakapteni_nimi": "Tarvo Laas",
@@ -1403,7 +1865,13 @@
         "max_laius": "10.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.88225, 58.35449] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.88225,
+          58.35449
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1421,25 +1889,13 @@
         "max_laius": "3.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [26.72785, 59.51989] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 309,
-        "sadama_nimi": "MANILAIU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus@saarteliinid.ee",
-        "max_pikkus": "45.0",
-        "max_laius": "13.0",
-        "max_sygavus": "3.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.12533, 58.222] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72785,
+          59.51989
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1457,7 +1913,37 @@
         "max_laius": "1.7",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.66487, 58.51761] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66487,
+          58.51761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 309,
+        "sadama_nimi": "MANILAIU SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Andrus Maide",
+        "sadamakapteni_telefon": "+3725043888",
+        "sadamakapteni_epost": "andrus@saarteliinid.ee",
+        "max_pikkus": "45.0",
+        "max_laius": "13.0",
+        "max_sygavus": "3.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12533,
+          58.222
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1475,25 +1961,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [27.47517, 58.23741] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 327,
-        "sadama_nimi": "MEERUSE SADAM",
-        "omanik": "OÜ Tallinna Bekkeri Sadam",
-        "omanik_telefon": "+3726201600",
-        "omanik_epost": "info@tallinnbekkerport.com",
-        "koduleht": "www.tallinnbekkerport.com",
-        "sadamakapteni_nimi": "Gunnar Kellamov",
-        "sadamakapteni_telefon": "+37256921417",
-        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
-        "max_pikkus": "140.0",
-        "max_laius": "24.0",
-        "max_sygavus": "6.3"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.67227, 59.45088] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47517,
+          58.23741
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1511,7 +1985,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.02283, 58.30454] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02283,
+          58.30454
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1529,7 +2009,37 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [26.98734, 58.77622] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.98734,
+          58.77622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 327,
+        "sadama_nimi": "MEERUSE SADAM",
+        "omanik": "OÜ Tallinna Bekkeri Sadam",
+        "omanik_telefon": "+3726201600",
+        "omanik_epost": "info@tallinnbekkerport.com",
+        "koduleht": "www.tallinnbekkerport.com",
+        "sadamakapteni_nimi": "Gunnar Kellamov",
+        "sadamakapteni_telefon": "+37256921417",
+        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
+        "max_pikkus": "140.0",
+        "max_laius": "24.0",
+        "max_sygavus": "6.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67227,
+          59.45088
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1547,25 +2057,13 @@
         "max_laius": "18.0",
         "max_sygavus": "4.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.12717, 57.949] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 52,
-        "sadama_nimi": "MIIDURANNA SADAM",
-        "omanik": "aktsiaselts Miiduranna Sadam",
-        "omanik_telefon": "+3726054314",
-        "omanik_epost": "kapten@miidurannasadam.ee",
-        "koduleht": "www.miidurannasadam.ee",
-        "sadamakapteni_nimi": "Henn Noor",
-        "sadamakapteni_telefon": "+3725247406",
-        "sadamakapteni_epost": "kapten@miidurannasadam.ee",
-        "max_pikkus": "196.0",
-        "max_laius": "32.0",
-        "max_sygavus": "12.3"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.81606, 59.49939] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.12717,
+          57.949
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1583,25 +2081,13 @@
         "max_laius": "5.0",
         "max_sygavus": "2.8"
       },
-      "geometry": { "type": "Point", "coordinates": [22.12423, 57.9495] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 319,
-        "sadama_nimi": "MUNALAIU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus@saarteliinid.ee",
-        "max_pikkus": "45.0",
-        "max_laius": "13.0",
-        "max_sygavus": "3.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.118, 58.22917] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.12423,
+          57.9495
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1619,7 +2105,37 @@
         "max_laius": "5.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.57613, 58.23002] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.57613,
+          58.23002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 319,
+        "sadama_nimi": "MUNALAIU SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Andrus Maide",
+        "sadamakapteni_telefon": "+3725043888",
+        "sadamakapteni_epost": "andrus@saarteliinid.ee",
+        "max_pikkus": "45.0",
+        "max_laius": "13.0",
+        "max_sygavus": "3.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.118,
+          58.22917
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1637,25 +2153,37 @@
         "max_laius": "10.0",
         "max_sygavus": "1.1"
       },
-      "geometry": { "type": "Point", "coordinates": [26.94996, 58.84722] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.94996,
+          58.84722
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 326,
-        "sadama_nimi": "NAISSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
-        "max_pikkus": "60.0",
-        "max_laius": "15.0",
-        "max_sygavus": "3.5"
+        "sadamaregister": 52,
+        "sadama_nimi": "MIIDURANNA SADAM",
+        "omanik": "aktsiaselts Miiduranna Sadam",
+        "omanik_telefon": "+3726054314",
+        "omanik_epost": "kapten@miidurannasadam.ee",
+        "koduleht": "www.miidurannasadam.ee",
+        "sadamakapteni_nimi": "Henn Noor",
+        "sadamakapteni_telefon": "+3725247406",
+        "sadamakapteni_epost": "kapten@miidurannasadam.ee",
+        "max_pikkus": "196.0",
+        "max_laius": "32.0",
+        "max_sygavus": "12.3"
       },
-      "geometry": { "type": "Point", "coordinates": [24.55415, 59.55627] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81606,
+          59.49939
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1673,7 +2201,61 @@
         "max_laius": "3.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.03181, 58.8247] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03181,
+          58.8247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 326,
+        "sadama_nimi": "NAISSAARE SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Jaanus Jürivete",
+        "sadamakapteni_telefon": "+37253328095",
+        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "max_pikkus": "60.0",
+        "max_laius": "15.0",
+        "max_sygavus": "3.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55415,
+          59.55627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 6155,
+        "sadama_nimi": "NARVA-JÕESUU KALURISADAM",
+        "omanik": "Narva-Jõesuu Linnavalitsus",
+        "omanik_telefon": "+37258503008",
+        "omanik_epost": "sadam@narva-joesuu.ee",
+        "koduleht": "www.njsadam.ee",
+        "sadamakapteni_nimi": "Deniss Uglanov",
+        "sadamakapteni_telefon": "+37258503008",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.06548,
+          59.4593
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1686,12 +2268,18 @@
         "koduleht": "www.njsadam.ee",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "dennisea@mail.ru, narvasadamkapten@gmai.com",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
         "max_sygavus": "2.7"
       },
-      "geometry": { "type": "Point", "coordinates": [28.04549, 59.46464] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.04549,
+          59.46464
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1704,12 +2292,18 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "dennisea@mail.ru, narvasadamkapten@gmai.com",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "18.0",
         "max_laius": "7.0",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [28.17308, 59.34438] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17308,
+          59.34438
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1722,30 +2316,18 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "dennisea@mail.ru, narvasadamkapten@gmai.com",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [28.20627, 59.38318] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 210,
-        "sadama_nimi": "MUUGA SADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "ts@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ain Klaus",
-        "sadamakapteni_telefon": "+37256489700",
-        "sadamakapteni_epost": "a.klaus@ts.ee",
-        "max_pikkus": "300.0",
-        "max_laius": "48.0",
-        "max_sygavus": "16.9"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.96667, 59.5] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.20627,
+          59.38318
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1763,7 +2345,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [22.38129, 58.22942] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.38129,
+          58.22942
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1781,7 +2369,13 @@
         "max_laius": "25.0",
         "max_sygavus": "3.8"
       },
-      "geometry": { "type": "Point", "coordinates": [22.39601, 58.21336] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.39601,
+          58.21336
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1799,7 +2393,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [25.16046, 59.53146] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.16046,
+          59.53146
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1817,7 +2417,13 @@
         "max_laius": "9.0",
         "max_sygavus": "4.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.73533, 59.455] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73533,
+          59.455
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1835,7 +2441,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.66363, 59.24679] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66363,
+          59.24679
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1853,7 +2465,13 @@
         "max_laius": "8.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.78598, 59.57693] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78598,
+          59.57693
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1871,7 +2489,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [25.97593, 58.39842] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.97593,
+          58.39842
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1889,7 +2513,13 @@
         "max_laius": "3.1",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [26.9794, 58.77762] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9794,
+          58.77762
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1907,25 +2537,37 @@
         "max_laius": "5.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.0937, 58.5624] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0937,
+          58.5624
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 336,
-        "sadama_nimi": "ORJAKU SADAM",
-        "omanik": "Sihtasutus Hiiumaa Sadamad",
-        "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee; Merike.reede@hiiumaa.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Romet Keskla",
-        "sadamakapteni_telefon": "+56881400",
-        "sadamakapteni_epost": "orjaku@hiiumaa.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "6.0",
-        "max_sygavus": "2.7"
+        "sadamaregister": 210,
+        "sadama_nimi": "MUUGA SADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Ain Klaus",
+        "sadamakapteni_telefon": "+37256489700",
+        "sadamakapteni_epost": "a.klaus@ts.ee",
+        "max_pikkus": "300.0",
+        "max_laius": "48.0",
+        "max_sygavus": "16.9"
       },
-      "geometry": { "type": "Point", "coordinates": [22.77083, 58.7885] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96667,
+          59.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1943,7 +2585,37 @@
         "max_laius": "2.5",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.41118, 59.27629] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.41118,
+          59.27629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 336,
+        "sadama_nimi": "ORJAKU SADAM",
+        "omanik": "Sihtasutus Hiiumaa Sadamad",
+        "omanik_telefon": "+37256662514",
+        "omanik_epost": "sadamad@hiiumaa.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Liina Härm",
+        "sadamakapteni_telefon": "+3725187580",
+        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "6.0",
+        "max_sygavus": "2.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.77083,
+          58.7885
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1961,7 +2633,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.51786, 58.97555] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51786,
+          58.97555
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1979,7 +2657,13 @@
         "max_laius": "5.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.79406, 59.56629] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79406,
+          59.56629
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1987,8 +2671,8 @@
         "sadamaregister": 338,
         "sadama_nimi": "OTSA VÄIKESADAM",
         "omanik": "Jüri Till",
-        "omanik_telefon": "+37253822704",
-        "omanik_epost": "-",
+        "omanik_telefon": "+37253495035",
+        "omanik_epost": "kalux@hot.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1997,7 +2681,13 @@
         "max_laius": "2.1",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [27.16912, 58.64905] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16912,
+          58.64905
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2015,7 +2705,13 @@
         "max_laius": "4.5",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.67888, 58.52417] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67888,
+          58.52417
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2033,43 +2729,13 @@
         "max_laius": "2.8",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.26752, 58.49115] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 333,
-        "sadama_nimi": "PALDISKI LÕUNASADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "ts@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Andres Kungla",
-        "sadamakapteni_telefon": "+3726318805",
-        "sadamakapteni_epost": "a.kungla@ts.ee",
-        "max_pikkus": "250.0",
-        "max_laius": "45.0",
-        "max_sygavus": "14.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.08111, 59.33333] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 347,
-        "sadama_nimi": "PALDISKI PÕHJASADAM",
-        "omanik": "PALDISKI SADAMATE AS",
-        "omanik_telefon": "+3726511010;+3726391367",
-        "omanik_epost": "info@portofpaldiski.ee; nelja@portofpaldiski.ee",
-        "koduleht": "www.portofpaldiski.ee",
-        "sadamakapteni_nimi": "Heiko Raamat",
-        "sadamakapteni_telefon": "+37258873182",
-        "sadamakapteni_epost": "heiko@ortofpaldiski.ee",
-        "max_pikkus": "250.0",
-        "max_laius": "36.0",
-        "max_sygavus": "12.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.0475, 59.34983] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.26752,
+          58.49115
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2087,43 +2753,61 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [21.98612, 58.36002] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.98612,
+          58.36002
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 203,
-        "sadama_nimi": "PALJASSAARE SADAM",
+        "sadamaregister": 347,
+        "sadama_nimi": "PALDISKI PÕHJASADAM",
+        "omanik": "PALDISKI SADAMATE AS",
+        "omanik_telefon": "+3726511010;+3726391367",
+        "omanik_epost": "info@portofpaldiski.ee; nelja@portofpaldiski.ee",
+        "koduleht": "www.portofpaldiski.ee",
+        "sadamakapteni_nimi": "Heiko Raamat",
+        "sadamakapteni_telefon": "+37258873182",
+        "sadamakapteni_epost": "heiko@portofpaldiski.ee",
+        "max_pikkus": "250.0",
+        "max_laius": "36.0",
+        "max_sygavus": "12.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0475,
+          59.34983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 333,
+        "sadama_nimi": "PALDISKI LÕUNASADAM",
         "omanik": "aktsiaselts TALLINNA SADAM",
         "omanik_telefon": "+3726318002;+3726318555",
         "omanik_epost": "ts@ts.ee",
         "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ülo Kikas",
-        "sadamakapteni_telefon": "+3726318329",
-        "sadamakapteni_epost": "y.kikas@ts.ee",
-        "max_pikkus": "190.0",
-        "max_laius": "30.0",
-        "max_sygavus": "8.6"
+        "sadamakapteni_nimi": "Andres Kungla",
+        "sadamakapteni_telefon": "+3726318805",
+        "sadamakapteni_epost": "a.kungla@ts.ee",
+        "max_pikkus": "250.0",
+        "max_laius": "45.0",
+        "max_sygavus": "14.5"
       },
-      "geometry": { "type": "Point", "coordinates": [24.70566, 59.45904] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1201,
-        "sadama_nimi": "PÄRNU SADAMA VÄIKESADAM",
-        "omanik": "Pärnu Jahtklubi",
-        "omanik_telefon": "+3724471750",
-        "omanik_epost": "info@jahtklubi.ee",
-        "koduleht": "www.jahtklubi.ee",
-        "sadamakapteni_nimi": "Heiti Põldroos",
-        "sadamakapteni_telefon": "+37253078777",
-        "sadamakapteni_epost": "sadam@jahtklubi.ee",
-        "max_pikkus": "17.0",
-        "max_laius": "5.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.48931, 58.38611] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.08111,
+          59.33333
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2141,43 +2825,37 @@
         "max_laius": "5.0",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [23.44163, 59.02395] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.44163,
+          59.02395
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 370,
-        "sadama_nimi": "PÄRNU SADAM",
-        "omanik": "AS Pärnu Sadam",
-        "omanik_telefon": "+3724471700",
-        "omanik_epost": "sadam@parnusadam.eu",
-        "koduleht": "www.parnusadam.eu",
-        "sadamakapteni_nimi": "Viktor Palmet",
-        "sadamakapteni_telefon": "+3725128188",
-        "sadamakapteni_epost": "kapten@parnusadam.ee",
-        "max_pikkus": "140.0",
-        "max_laius": "25.0",
-        "max_sygavus": "6.9"
+        "sadamaregister": 1201,
+        "sadama_nimi": "PÄRNU SADAMA VÄIKESADAM",
+        "omanik": "Pärnu Jahtklubi",
+        "omanik_telefon": "+3724471750",
+        "omanik_epost": "info@jahtklubi.ee",
+        "koduleht": "www.jahtklubi.ee",
+        "sadamakapteni_nimi": "Heiti Põldroos",
+        "sadamakapteni_telefon": "+37253078777",
+        "sadamakapteni_epost": "sadam@jahtklubi.ee",
+        "max_pikkus": "17.0",
+        "max_laius": "5.0",
+        "max_sygavus": "3.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.48, 58.38333] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 348,
-        "sadama_nimi": "PATAREISADAM",
-        "omanik": "Tallinna Transpordiamet",
-        "omanik_telefon": "+3726404618;+3726404620",
-        "omanik_epost": "tta@tallinnlv.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Rommi Õige",
-        "sadamakapteni_telefon": "+37256624415",
-        "sadamakapteni_epost": "rommioige@gmail.com",
-        "max_pikkus": "105.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.75242, 59.44816] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48931,
+          58.38611
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2195,7 +2873,37 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [24.13411, 58.24773] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13411,
+          58.24773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 348,
+        "sadama_nimi": "PATAREISADAM",
+        "omanik": "Tallinna Transpordiamet",
+        "omanik_telefon": "+3726404618;+3726404620",
+        "omanik_epost": "tta@tallinnlv.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Rommi Õige",
+        "sadamakapteni_telefon": "+37256624415",
+        "sadamakapteni_epost": "rommioige@gmail.com",
+        "max_pikkus": "105.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75242,
+          59.44816
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2211,9 +2919,15 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "16.0",
         "max_laius": "4.5",
-        "max_sygavus": "1.8"
+        "max_sygavus": "1.7"
       },
-      "geometry": { "type": "Point", "coordinates": [23.66861, 58.44583] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66861,
+          58.44583
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2231,7 +2945,37 @@
         "max_laius": "10.0",
         "max_sygavus": "1.7"
       },
-      "geometry": { "type": "Point", "coordinates": [27.51115, 58.37552] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51115,
+          58.37552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 203,
+        "sadama_nimi": "PALJASSAARE SADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Ülo Kikas",
+        "sadamakapteni_telefon": "+3726318329",
+        "sadamakapteni_epost": "y.kikas@ts.ee",
+        "max_pikkus": "190.0",
+        "max_laius": "30.0",
+        "max_sygavus": "8.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70566,
+          59.45904
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2239,35 +2983,47 @@
         "sadamaregister": 356,
         "sadama_nimi": "PIIRIVALVESADAM",
         "omanik": "Politsei- ja Piirivalveamet",
-        "omanik_telefon": "+3726123000",
+        "omanik_telefon": "+3726123300",
         "omanik_epost": "ppa@politsei.ee",
         "koduleht": "www.politsei.ee",
         "sadamakapteni_nimi": "Urmas Karming",
-        "sadamakapteni_telefon": "+6191190",
+        "sadamakapteni_telefon": "+3726191190",
         "sadamakapteni_epost": "urmas.karming@politsei.ee",
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8"
       },
-      "geometry": { "type": "Point", "coordinates": [24.66, 59.455] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66379,
+          59.45721
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 168,
-        "sadama_nimi": "PIRITA SADAM",
-        "omanik": "Aktsiaselts Tallinna Olümpiapurjespordikeskus",
-        "omanik_telefon": "+3726398800",
-        "omanik_epost": "top@piritatop.ee",
-        "koduleht": "www.piritatop.ee",
-        "sadamakapteni_nimi": "TOOMAS TUTK",
-        "sadamakapteni_telefon": "+3725082837",
-        "sadamakapteni_epost": "toomas@piritatop.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "6.0",
-        "max_sygavus": "2.8"
+        "sadamaregister": 370,
+        "sadama_nimi": "PÄRNU SADAM",
+        "omanik": "AS Pärnu Sadam",
+        "omanik_telefon": "+3724471700",
+        "omanik_epost": "sadam@parnusadam.eu",
+        "koduleht": "www.parnusadam.eu",
+        "sadamakapteni_nimi": "Viktor Palmet",
+        "sadamakapteni_telefon": "+3724471700",
+        "sadamakapteni_epost": "kapten@parnusadam.eu",
+        "max_pikkus": "140.0",
+        "max_laius": "25.0",
+        "max_sygavus": "6.8"
       },
-      "geometry": { "type": "Point", "coordinates": [24.82167, 59.46833] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48,
+          58.38333
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2285,7 +3041,37 @@
         "max_laius": "5.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [25.01504, 59.61487] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.01504,
+          59.61487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 168,
+        "sadama_nimi": "PIRITA SADAM",
+        "omanik": "Aktsiaselts Tallinna Olümpiapurjespordikeskus",
+        "omanik_telefon": "+3726398800",
+        "omanik_epost": "top@piritatop.ee",
+        "koduleht": "www.piritatop.ee",
+        "sadamakapteni_nimi": "TOOMAS TUTK",
+        "sadamakapteni_telefon": "+3725082837",
+        "sadamakapteni_epost": "toomas@piritatop.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "6.0",
+        "max_sygavus": "2.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82167,
+          59.46833
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2303,7 +3089,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.45452, 58.76514] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.45452,
+          58.76514
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2321,7 +3113,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.99159, 59.43527] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.99159,
+          59.43527
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2339,7 +3137,13 @@
         "max_laius": "3.0",
         "max_sygavus": "0.6"
       },
-      "geometry": { "type": "Point", "coordinates": [26.99109, 59.43428] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.99109,
+          59.43428
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2357,7 +3161,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.993, 59.43583] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.993,
+          59.43583
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2375,7 +3185,13 @@
         "max_laius": "2.4",
         "max_sygavus": "0.3"
       },
-      "geometry": { "type": "Point", "coordinates": [27.16992, 58.646] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16992,
+          58.646
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2393,7 +3209,13 @@
         "max_laius": "3.1",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [26.94598, 58.8289] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.94598,
+          58.8289
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2411,7 +3233,13 @@
         "max_laius": "5.0",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [23.27722, 59.02589] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27722,
+          59.02589
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2429,7 +3257,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [22.21829, 58.54479] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.21829,
+          58.54479
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2447,25 +3281,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.47849, 58.12304] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 360,
-        "sadama_nimi": "RÄPINA SADAM",
-        "omanik": "Räpina Vallavalitsus",
-        "omanik_telefon": "+3727999500",
-        "omanik_epost": "vald@rapina.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Hilhard Kirn",
-        "sadamakapteni_telefon": "+3725251225",
-        "sadamakapteni_epost": "hilhard.kirn@rapinasadam.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "7.5",
-        "max_sygavus": "1.2"
-      },
-      "geometry": { "type": "Point", "coordinates": [27.52965, 58.12529] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.47849,
+          58.12304
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2483,7 +3305,37 @@
         "max_laius": "2.0",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.74917, 58.3675] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.74917,
+          58.3675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 360,
+        "sadama_nimi": "RÄPINA SADAM",
+        "omanik": "Räpina Vallavalitsus",
+        "omanik_telefon": "+3727999500",
+        "omanik_epost": "vald@rapina.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Hilhard Kirn",
+        "sadamakapteni_telefon": "+3725251225",
+        "sadamakapteni_epost": "hilhard.kirn@rapinasadam.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "7.5",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52965,
+          58.12529
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2501,7 +3353,13 @@
         "max_laius": "1.7",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [27.54309, 59.01073] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54309,
+          59.01073
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2519,31 +3377,43 @@
         "max_laius": "15.0",
         "max_sygavus": "2.7"
       },
-      "geometry": { "type": "Point", "coordinates": [23.27167, 57.78] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27167,
+          57.78
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "sadamaregister": 346,
-        "sadama_nimi": "RISTNA JAHISADAM",
+        "sadama_nimi": "RISTNA JAHISADAM (EHITAMISEL)",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee; Merike.reede@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "10.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
+        "max_pikkus": "5.0",
+        "max_laius": "1.5",
+        "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.06071, 58.92111] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.06071,
+          58.92111
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "sadamaregister": 349,
-        "sadama_nimi": "RISTNA LÕUNASADAM",
+        "sadama_nimi": "RISTNA LÕUNASADAM EHITAMISEL",
         "omanik": "OÜ Ewent",
         "omanik_telefon": "+3725652060",
         "omanik_epost": "endelevert@hotmail.com",
@@ -2555,7 +3425,13 @@
         "max_laius": "2.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.06245, 58.92149] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.06245,
+          58.92149
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2573,7 +3449,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.74483, 59.271] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.74483,
+          59.271
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2591,25 +3473,13 @@
         "max_laius": "6.0",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [24.79317, 59.5585] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 351,
-        "sadama_nimi": "ROHUKÜLA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus@saarteliinid.ee",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.7"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.42396, 58.90608] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79317,
+          59.5585
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2627,7 +3497,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.79341, 59.55915] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79341,
+          59.55915
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2645,7 +3521,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [22.82009, 58.99996] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.82009,
+          58.99996
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2663,25 +3545,37 @@
         "max_laius": "3.6",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [21.87389, 58.26306] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.87389,
+          58.26306
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 357,
-        "sadama_nimi": "ROOMASSAARE SADAM",
+        "sadamaregister": 351,
+        "sadama_nimi": "ROHUKÜLA SADAM",
         "omanik": "aktsiaselts Saarte Liinid",
         "omanik_telefon": "+3724530140",
         "omanik_epost": "info@saarteliinid.ee",
         "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Kaarel Niine",
-        "sadamakapteni_telefon": "+3724555774",
-        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
+        "sadamakapteni_nimi": "Andrus Maide",
+        "sadamakapteni_telefon": "+3725043888",
+        "sadamakapteni_epost": "andrus@saarteliinid.ee",
         "max_pikkus": "120.0",
         "max_laius": "20.0",
-        "max_sygavus": "4.6"
+        "max_sygavus": "4.7"
       },
-      "geometry": { "type": "Point", "coordinates": [22.50462, 58.21748] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.42396,
+          58.90608
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2699,7 +3593,13 @@
         "max_laius": "1.0",
         "max_sygavus": "0.3"
       },
-      "geometry": { "type": "Point", "coordinates": [23.03948, 58.3778] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03948,
+          58.3778
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2717,7 +3617,37 @@
         "max_laius": "3.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.99033, 58.38073] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.99033,
+          58.38073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 357,
+        "sadama_nimi": "ROOMASSAARE SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Kaarel Niine",
+        "sadamakapteni_telefon": "+3724555774",
+        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.50462,
+          58.21748
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2735,25 +3665,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [27.49612, 58.17428] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 305,
-        "sadama_nimi": "SAAREMAA SADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "ts@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Andres Kungla",
-        "sadamakapteni_telefon": "+3726318805",
-        "sadamakapteni_epost": "a.kungla@ts.ee",
-        "max_pikkus": "200.0",
-        "max_laius": "30.0",
-        "max_sygavus": "9.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [22.23611, 58.53611] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49612,
+          58.17428
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2771,7 +3689,37 @@
         "max_laius": "4.0",
         "max_sygavus": "1.4"
       },
-      "geometry": { "type": "Point", "coordinates": [23.5585, 58.7355] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5585,
+          58.7355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 305,
+        "sadama_nimi": "SAAREMAA SADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Andres Kungla",
+        "sadamakapteni_telefon": "+3726318805",
+        "sadamakapteni_epost": "a.kungla@ts.ee",
+        "max_pikkus": "200.0",
+        "max_laius": "30.0",
+        "max_sygavus": "9.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.23611,
+          58.53611
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2789,7 +3737,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.95167, 58.82643] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95167,
+          58.82643
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2807,7 +3761,13 @@
         "max_laius": "3.2",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [22.94848, 58.8272] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.94848,
+          58.8272
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2825,7 +3785,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.1"
       },
-      "geometry": { "type": "Point", "coordinates": [22.95037, 58.82695] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95037,
+          58.82695
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2843,7 +3809,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.25361, 58.16528] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25361,
+          58.16528
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2861,7 +3833,13 @@
         "max_laius": "3.0",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [25.36805, 59.4972] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36805,
+          59.4972
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2879,61 +3857,37 @@
         "max_laius": "3.6",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [27.12631, 58.71486] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.12631,
+          58.71486
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "sadamaregister": 1936,
-        "sadama_nimi": "SIGATSUARU VÄIKESADAM (EHIT.)",
+        "sadama_nimi": "SIGATSUARU VÄIKESADAM",
         "omanik": "Kihnu Vallavalitsus",
         "omanik_telefon": "+3724469910",
         "omanik_epost": "info@kihnu.ee",
         "koduleht": "www.kihnu.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "15.0",
+        "sadamakapteni_nimi": "Jaanus Jürivete",
+        "sadamakapteni_telefon": "+37253328095",
+        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "max_pikkus": "10.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.4"
+        "max_sygavus": "0.3"
       },
-      "geometry": { "type": "Point", "coordinates": [24.00224, 58.15462] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 371,
-        "sadama_nimi": "SOELA SADAM",
-        "omanik": "MTÜ Soela Sadama Selts",
-        "omanik_telefon": "+37257222222",
-        "omanik_epost": "info@soelasadam.ee",
-        "koduleht": "www.soelasadam.ee",
-        "sadamakapteni_nimi": "Urmas Metsamaa",
-        "sadamakapteni_telefon": "+37253887707",
-        "sadamakapteni_epost": "urmas.bio@gmail.com",
-        "max_pikkus": "15.0",
-        "max_laius": "5.0",
-        "max_sygavus": "1.7"
-      },
-      "geometry": { "type": "Point", "coordinates": [22.59324, 58.61727] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 368,
-        "sadama_nimi": "SILLAMÄE SADAM",
-        "omanik": "Aktsiaselts SILLAMÄE SADAM",
-        "omanik_telefon": "+3723929150;+3726405271",
-        "omanik_epost": "silport@silport.ee",
-        "koduleht": "www.silport.ee",
-        "sadamakapteni_nimi": "René Sirol",
-        "sadamakapteni_telefon": "+3725043892",
-        "sadamakapteni_epost": "r.sirol@silport.ee",
-        "max_pikkus": "275.0",
-        "max_laius": "56.0",
-        "max_sygavus": "15.2"
-      },
-      "geometry": { "type": "Point", "coordinates": [27.73944, 59.42611] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.00224,
+          58.15462
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2951,7 +3905,37 @@
         "max_laius": "1.6",
         "max_sygavus": "0.4"
       },
-      "geometry": { "type": "Point", "coordinates": [27.12047, 58.72258] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.12047,
+          58.72258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 371,
+        "sadama_nimi": "SOELA SADAM",
+        "omanik": "MTÜ Soela Sadama Selts",
+        "omanik_telefon": "+37257222222",
+        "omanik_epost": "info@soelasadam.ee",
+        "koduleht": "www.soelasadam.ee",
+        "sadamakapteni_nimi": "Urmas Metsamaa",
+        "sadamakapteni_telefon": "+37253887707",
+        "sadamakapteni_epost": "urmas.bio@gmail.com",
+        "max_pikkus": "15.0",
+        "max_laius": "5.0",
+        "max_sygavus": "1.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.59324,
+          58.61727
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2969,7 +3953,37 @@
         "max_laius": "15.0",
         "max_sygavus": "3.9"
       },
-      "geometry": { "type": "Point", "coordinates": [22.52147, 58.69069] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.52147,
+          58.69069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 368,
+        "sadama_nimi": "SILLAMÄE SADAM",
+        "omanik": "Aktsiaselts SILLAMÄE SADAM",
+        "omanik_telefon": "+3723929150;+3726405271",
+        "omanik_epost": "silport@silport.ee",
+        "koduleht": "www.silport.ee",
+        "sadamakapteni_nimi": "René Sirol",
+        "sadamakapteni_telefon": "+3725043892",
+        "sadamakapteni_epost": "r.sirol@silport.ee",
+        "max_pikkus": "275.0",
+        "max_laius": "56.0",
+        "max_sygavus": "15.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.73944,
+          59.42611
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2978,16 +3992,22 @@
         "sadama_nimi": "SÕRU VÄIKELAEVASADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee; Merike.reede@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Johannes-Markus Altmäe",
-        "sadamakapteni_telefon": "+56170082",
+        "sadamakapteni_nimi": "Liina Härm",
+        "sadamakapteni_telefon": "+3725187580",
         "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
-        "max_pikkus": "24.0",
+        "max_pikkus": "17.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.52367, 58.69429] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.52367,
+          58.69429
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3005,7 +4025,13 @@
         "max_laius": "6.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.01613, 58.14102] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01613,
+          58.14102
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3023,7 +4049,13 @@
         "max_laius": "6.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.0174, 58.14083] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0174,
+          58.14083
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3041,7 +4073,13 @@
         "max_laius": "6.0",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.52683, 58.95835] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52683,
+          58.95835
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3054,12 +4092,18 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "dennisea@mail.ru, narvasadamkapten@gmai.com",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [28.04349, 59.46634] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.04349,
+          59.46634
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3077,7 +4121,13 @@
         "max_laius": "2.5",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [25.68263, 59.62795] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.68263,
+          59.62795
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3095,25 +4145,13 @@
         "max_laius": "7.0",
         "max_sygavus": "2.6"
       },
-      "geometry": { "type": "Point", "coordinates": [22.90833, 58.975] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 375,
-        "sadama_nimi": "SVIBY SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+3725097267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
-        "max_pikkus": "50.0",
-        "max_laius": "15.0",
-        "max_sygavus": "3.2"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.31253, 58.97006] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.90833,
+          58.975
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3131,17 +4169,47 @@
         "max_laius": "4.0",
         "max_sygavus": "1.4"
       },
-      "geometry": { "type": "Point", "coordinates": [22.97914, 58.60464] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.97914,
+          58.60464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 375,
+        "sadama_nimi": "SVIBY SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Peeter Saar",
+        "sadamakapteni_telefon": "+3725097267",
+        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
+        "max_pikkus": "50.0",
+        "max_laius": "15.0",
+        "max_sygavus": "3.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.31253,
+          58.97006
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "sadamaregister": 709,
         "sadama_nimi": "TALVESADAM",
-        "omanik": "Pärnu Haldusteenused",
-        "omanik_telefon": "+3724433877",
-        "omanik_epost": "info@haldusteenused.ee",
-        "koduleht": "www.haldusteenused.ee",
+        "omanik": "VL Kaatrid OÜ",
+        "omanik_telefon": "+3725500400",
+        "omanik_epost": "info@rendikaater.ee",
+        "koduleht": "www.rendikaater.ee",
         "sadamakapteni_nimi": "Raul Sarandi",
         "sadamakapteni_telefon": "+3725283077",
         "sadamakapteni_epost": "raul.sarandi@gmail.com",
@@ -3149,7 +4217,13 @@
         "max_laius": "6.0",
         "max_sygavus": "2.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.49187, 58.38685] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49187,
+          58.38685
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3167,7 +4241,13 @@
         "max_laius": "2.0",
         "max_sygavus": "0.4"
       },
-      "geometry": { "type": "Point", "coordinates": [24.89378, 59.52887] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89378,
+          59.52887
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3185,7 +4265,13 @@
         "max_laius": "8.0",
         "max_sygavus": "3.5"
       },
-      "geometry": { "type": "Point", "coordinates": [25.57433, 59.61067] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.57433,
+          59.61067
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3203,7 +4289,13 @@
         "max_laius": "2.5",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [22.60971, 58.69347] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.60971,
+          58.69347
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3221,7 +4313,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [25.96436, 58.25302] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.96436,
+          58.25302
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3239,7 +4337,13 @@
         "max_laius": "3.0",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [24.48758, 59.45568] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48758,
+          59.45568
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3257,7 +4361,13 @@
         "max_laius": "6.0",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [27.53371, 59.42666] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53371,
+          59.42666
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3275,7 +4385,13 @@
         "max_laius": "3.5",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [23.50089, 58.84447] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50089,
+          58.84447
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3293,7 +4409,13 @@
         "max_laius": "2.0",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.46772, 58.24567] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.46772,
+          58.24567
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3311,7 +4433,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.7"
       },
-      "geometry": { "type": "Point", "coordinates": [24.38385, 57.91851] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38385,
+          57.91851
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3329,7 +4457,13 @@
         "max_laius": "15.0",
         "max_sygavus": "4.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.71956, 58.59193] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.71956,
+          58.59193
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3347,7 +4481,13 @@
         "max_laius": "4.6",
         "max_sygavus": "2.2"
       },
-      "geometry": { "type": "Point", "coordinates": [22.77033, 58.78967] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.77033,
+          58.78967
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3365,7 +4505,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.93244, 58.33279] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.93244,
+          58.33279
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3383,7 +4529,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [26.7364, 58.37902] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7364,
+          58.37902
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3401,7 +4553,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.08835, 58.56029] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.08835,
+          58.56029
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3419,7 +4577,13 @@
         "max_laius": "2.3",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.14719, 58.46047] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.14719,
+          58.46047
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3437,7 +4601,13 @@
         "max_laius": "3.5",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [26.99003, 58.37946] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.99003,
+          58.37946
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3455,7 +4625,13 @@
         "max_laius": "2.5",
         "max_sygavus": "0.4"
       },
-      "geometry": { "type": "Point", "coordinates": [23.02822, 58.88583] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.02822,
+          58.88583
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3473,7 +4649,13 @@
         "max_laius": "10.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.73663, 58.37777] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.73663,
+          58.37777
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3491,7 +4673,13 @@
         "max_laius": "2.0",
         "max_sygavus": "0.5"
       },
-      "geometry": { "type": "Point", "coordinates": [26.27484, 59.58383] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.27484,
+          59.58383
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3509,7 +4697,13 @@
         "max_laius": "2.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.23288, 58.49648] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.23288,
+          58.49648
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3527,7 +4721,13 @@
         "max_laius": "3.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [24.47547, 58.38978] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.47547,
+          58.38978
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3538,32 +4738,20 @@
         "omanik_telefon": "+3725045272",
         "omanik_epost": "info@meremaa.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "2.3"
       },
-      "geometry": { "type": "Point", "coordinates": [23.98952, 58.30947] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 166,
-        "sadama_nimi": "VANASADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "ts@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ülo Kikas",
-        "sadamakapteni_telefon": "+3726318329",
-        "sadamakapteni_epost": "y.kikas@ts.ee",
-        "max_pikkus": "340.0",
-        "max_laius": "42.0",
-        "max_sygavus": "10.3"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.76667, 59.45] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.98952,
+          58.30947
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3581,7 +4769,13 @@
         "max_laius": "4.0",
         "max_sygavus": "2.5"
       },
-      "geometry": { "type": "Point", "coordinates": [23.6819, 58.43185] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6819,
+          58.43185
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3599,7 +4793,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.39986, 58.57555] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.39986,
+          58.57555
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3617,7 +4817,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [27.24278, 58.48851] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.24278,
+          58.48851
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3635,7 +4841,37 @@
         "max_laius": "2.0",
         "max_sygavus": "0.4"
       },
-      "geometry": { "type": "Point", "coordinates": [22.95492, 58.93297] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95492,
+          58.93297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 166,
+        "sadama_nimi": "VANASADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Ain Klaus",
+        "sadamakapteni_telefon": "+37256489700",
+        "sadamakapteni_epost": "a.klaus@ts.ee",
+        "max_pikkus": "340.0",
+        "max_laius": "42.0",
+        "max_sygavus": "10.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76667,
+          59.45
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3653,7 +4889,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [27.73667, 59.00817] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.73667,
+          59.00817
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3671,25 +4913,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.5"
       },
-      "geometry": { "type": "Point", "coordinates": [27.74053, 58.99659] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 392,
-        "sadama_nimi": "VASKNARVA SADAM",
-        "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+3725151976",
-        "omanik_epost": "indekovara@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "1.7",
-        "max_sygavus": "0.3"
-      },
-      "geometry": { "type": "Point", "coordinates": [27.74028, 59.00028] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.74053,
+          58.99659
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3707,7 +4937,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [27.73627, 59.00849] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.73627,
+          59.00849
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3725,7 +4961,13 @@
         "max_laius": "20.0",
         "max_sygavus": "3.5"
       },
-      "geometry": { "type": "Point", "coordinates": [22.0505, 58.46167] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0505,
+          58.46167
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3743,7 +4985,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [22.04989, 58.46083] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.04989,
+          58.46083
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3761,25 +5009,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [26.79198, 58.33702] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 390,
-        "sadama_nimi": "VENE-BALTI SADAM",
-        "omanik": "BLRT Grupp Aktsiaselts",
-        "omanik_telefon": "+3726102205;+37256722295",
-        "omanik_epost": "m.haljaste@blrt.ee",
-        "koduleht": "www.portvenebalti.ee",
-        "sadamakapteni_nimi": "Margus Haljaste",
-        "sadamakapteni_telefon": "+3726102205",
-        "sadamakapteni_epost": "m.haljaste@blrt.ee",
-        "max_pikkus": "200.0",
-        "max_laius": "35.0",
-        "max_sygavus": "10.6"
-      },
-      "geometry": { "type": "Point", "coordinates": [24.65633, 59.45667] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.79198,
+          58.33702
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3797,7 +5033,37 @@
         "max_laius": "10.0",
         "max_sygavus": "3.0"
       },
-      "geometry": { "type": "Point", "coordinates": [26.10046, 59.59978] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10046,
+          59.59978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 390,
+        "sadama_nimi": "VENE-BALTI SADAM",
+        "omanik": "BLRT Grupp Aktsiaselts",
+        "omanik_telefon": "+3726102205;+37256722295",
+        "omanik_epost": "m.haljaste@blrt.ee",
+        "koduleht": "www.portvenebalti.ee",
+        "sadamakapteni_nimi": "Margus Haljaste",
+        "sadamakapteni_telefon": "+3726102205",
+        "sadamakapteni_epost": "m.haljaste@blrt.ee",
+        "max_pikkus": "200.0",
+        "max_laius": "35.0",
+        "max_sygavus": "10.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65633,
+          59.45667
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3815,7 +5081,13 @@
         "max_laius": "10.0",
         "max_sygavus": "2.75"
       },
-      "geometry": { "type": "Point", "coordinates": [25.75351, 59.64667] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.75351,
+          59.64667
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3833,7 +5105,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [21.86205, 58.37183] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.86205,
+          58.37183
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3851,25 +5129,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
-      "geometry": { "type": "Point", "coordinates": [23.52422, 58.58894] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 394,
-        "sadama_nimi": "VIRTSU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Valdur Häng",
-        "sadamakapteni_telefon": "+37253428555",
-        "sadamakapteni_epost": "valdur@saarteliinid.ee",
-        "max_pikkus": "130.0",
-        "max_laius": "20.0",
-        "max_sygavus": "6.5"
-      },
-      "geometry": { "type": "Point", "coordinates": [23.51, 58.575] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52422,
+          58.58894
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3887,7 +5153,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.7"
       },
-      "geometry": { "type": "Point", "coordinates": [23.51932, 58.57901] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51932,
+          58.57901
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3895,9 +5167,9 @@
         "sadamaregister": 397,
         "sadama_nimi": "VÕIDU SADAM",
         "omanik": "Pärnu Linnavalitsus",
-        "omanik_telefon": "+37253325088",
-        "omanik_epost": "alo.tomson@parnu.ee",
-        "koduleht": "-",
+        "omanik_telefon": "+3724448200",
+        "omanik_epost": "linnavalitsus@parnu.ee",
+        "koduleht": "www.parnu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
@@ -3905,7 +5177,37 @@
         "max_laius": "4.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [24.02022, 58.30849] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02022,
+          58.30849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 394,
+        "sadama_nimi": "VIRTSU SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Valdur Häng",
+        "sadamakapteni_telefon": "+37253428555",
+        "sadamakapteni_epost": "valdur@saarteliinid.ee",
+        "max_pikkus": "130.0",
+        "max_laius": "20.0",
+        "max_sygavus": "6.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51,
+          58.575
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3923,7 +5225,13 @@
         "max_laius": "4.0",
         "max_sygavus": "0.9"
       },
-      "geometry": { "type": "Point", "coordinates": [24.46833, 58.215] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46833,
+          58.215
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3941,7 +5249,13 @@
         "max_laius": "5.0",
         "max_sygavus": "1.2"
       },
-      "geometry": { "type": "Point", "coordinates": [27.54512, 58.08223] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54512,
+          58.08223
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3959,7 +5273,13 @@
         "max_laius": "3.0",
         "max_sygavus": "1.0"
       },
-      "geometry": { "type": "Point", "coordinates": [23.19851, 58.68206] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.19851,
+          58.68206
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3977,7 +5297,13 @@
         "max_laius": "4.0",
         "max_sygavus": "1.3"
       },
-      "geometry": { "type": "Point", "coordinates": [25.9723, 59.5854] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9723,
+          59.5854
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3995,7 +5321,13 @@
         "max_laius": "3.0",
         "max_sygavus": "2.2"
       },
-      "geometry": { "type": "Point", "coordinates": [23.52542, 58.95906] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52542,
+          58.95906
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4013,7 +5345,13 @@
         "max_laius": "10.0",
         "max_sygavus": "3.2"
       },
-      "geometry": { "type": "Point", "coordinates": [23.52372, 58.96042] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52372,
+          58.96042
+        ]
+      }
     }
   ]
 }

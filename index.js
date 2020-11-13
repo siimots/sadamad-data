@@ -1,7 +1,7 @@
-var fs = require("fs");
+const fs = require("fs");
 const fetch = require("node-fetch");
 const dmsConversion = require("dms-conversion");
-const DEBUG = true;
+const DEBUG = false;
 
 const fetchPorts = async () => {
   const url = "https://www.sadamaregister.ee/ports";
@@ -26,14 +26,27 @@ const fetchPorts = async () => {
         geojson.features.push(feature);
 
         if (i == ports.length - 1) {
-          let data;
-          if (DEBUG) data = JSON.stringify(geojson, null, 2);
-          else data = JSON.stringify(geojson);
-          fs.writeFile("data.json", data, (err) => {
+          fs.writeFile(
+            "public/raw.json",
+            JSON.stringify(geojson, null, 2),
+            (err) => {
+              if (err) throw err;
+            }
+          );
+
+          fs.writeFile("public/data.json", JSON.stringify(geojson), (err) => {
             if (err) throw err;
           });
+
+          fs.writeFile(
+            "public/data.js",
+            `var sadamadgeoJson = ${JSON.stringify(geojson)};`,
+            (err) => {
+              if (err) throw err;
+            }
+          );
         }
-      }, i * 250); // 0.25s delay for scraping
+      }, i * 100); // 0.1s delay for scraping
     });
   } catch (error) {
     console.log(error);
