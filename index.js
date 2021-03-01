@@ -3,6 +3,24 @@ const fetch = require("node-fetch");
 const dmsConversion = require("dms-conversion");
 const DEBUG = false;
 
+const options = {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-GB,en;q=0.9",
+    "cache-control": "no-cache",
+    "pragma": "no-cache",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36"
+  },
+  "referrer": "https://www.sadamaregister.ee/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+};
+
 const fetchPorts = async () => {
   const url = "https://www.sadamaregister.ee/ports";
   const geojson = {
@@ -11,7 +29,7 @@ const fetchPorts = async () => {
   };
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, options);
     const json = await response.json();
 
     let ports = json.map(({ id, name }) => [
@@ -22,7 +40,7 @@ const fetchPorts = async () => {
 
     ports.forEach((port, i) => {
       setTimeout(async () => {
-        const feature = await fetchPort(port);
+        const feature = await fetchPort(port, options);
         geojson.features.push(feature);
 
         if (i == ports.length - 1) {
@@ -59,7 +77,7 @@ const fetchPort = async (port) => {
   const url = `https://www.sadamaregister.ee/ports/${id}/json`;
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, options);
     const json = await response.json();
 
     const { portMainData } = json;
