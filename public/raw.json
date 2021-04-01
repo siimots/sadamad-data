@@ -8,7 +8,7 @@
         "sadama_nimi": "ABAJA SADAM",
         "omanik": "Mittetulundusühing ABAJA PUHKEALA",
         "omanik_telefon": "+37256647711",
-        "omanik_epost": "abaja@abaja.ee",
+        "omanik_epost": "taavi@ait.ee",
         "koduleht": "www.abaja.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -22,6 +22,54 @@
         "coordinates": [
           22.01783,
           58.36965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 156,
+        "sadama_nimi": "ALAJÕE KALASADAM",
+        "omanik": "Peipsi Trade LTD OÜ",
+        "omanik_telefon": "+3725151976",
+        "omanik_epost": "indekovara@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.1",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43404,
+          59.00742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2662,
+        "sadama_nimi": "AHOI JÕESADAM",
+        "omanik": "Hillar Lipp",
+        "omanik_telefon": "+3724544180;+3725183187",
+        "omanik_epost": "hillarlipp@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Hillar Lipp",
+        "sadamakapteni_telefon": "+3724544180;+3725183187",
+        "sadamakapteni_epost": "hillarlipp@hot.ee",
+        "max_pikkus": "15.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.38256,
+          58.22561
         ]
       }
     },
@@ -52,107 +100,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 710,
-        "sadama_nimi": "ADMIRALI VÄIKESADAM",
-        "omanik": "Osaühing Skandia Arendus",
-        "omanik_telefon": "+3725118420",
-        "omanik_epost": "marko.puusepp@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Juhannes Puusepp",
-        "sadamakapteni_telefon": "+3725118420",
-        "sadamakapteni_epost": "marko@paatsalu.ee",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.67816,
-          58.52978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2662,
-        "sadama_nimi": "AHOI JÕESADAM",
-        "omanik": "Hillar Lipp",
-        "omanik_telefon": "+3724544180;+3725183187",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Hillar Lipp",
-        "sadamakapteni_telefon": "+3724544180;+3725183187",
-        "sadamakapteni_epost": "hillarlipp@hot.ee",
-        "max_pikkus": "15.0",
-        "max_laius": "4.0",
-        "max_sygavus": "1.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.38256,
-          58.22561
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 156,
-        "sadama_nimi": "ALAJÕE KALASADAM",
-        "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+3725151976",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.1",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.43404,
-          59.00742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 53,
-        "sadama_nimi": "ABRUKA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Kaarel Niine",
-        "sadamakapteni_telefon": "+3724555774",
-        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
-        "max_pikkus": "40.0",
-        "max_laius": "20.0",
-        "max_sygavus": "2.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.52766,
-          58.16261
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 3703,
         "sadama_nimi": "ASERI VÄIKESADAM (EHITAMISEL)",
         "omanik": "OÜ Aseri Sadam",
         "omanik_telefon": "+37256216452",
-        "omanik_epost": "info@gkehitus.ee",
+        "omanik_epost": "gaido.kentem@gkehitus.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Veigo Raamat",
         "sadamakapteni_telefon": "+37256218594",
@@ -196,6 +148,126 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 6967,
+        "sadama_nimi": "HAAPSALU VANASADAM",
+        "omanik": "Sihtasutus Rannarootsi Muuseum",
+        "omanik_telefon": "+37255623993",
+        "omanik_epost": "info@aiboland.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Jorma Friberg",
+        "sadamakapteni_telefon": "+3725677377",
+        "sadamakapteni_epost": "jorma@aiboland.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52858,
+          58.95606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 708,
+        "sadama_nimi": "HALDI SADAM",
+        "omanik": "Mittetulundusühing Haldi Sadam",
+        "omanik_telefon": "+3725031734",
+        "omanik_epost": "mihkel.harm@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.44657,
+          58.8067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 710,
+        "sadama_nimi": "ADMIRALI VÄIKESADAM",
+        "omanik": "Osaühing Skandia Arendus",
+        "omanik_telefon": "+3725118420",
+        "omanik_epost": "marko.puusepp@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Juhannes Puusepp",
+        "sadamakapteni_telefon": "+3725118420",
+        "sadamakapteni_epost": "marko@paatsalu.ee",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67816,
+          58.52978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2114,
+        "sadama_nimi": "HARA SADAM",
+        "omanik": "Mittetulundusühing Hara Sadam",
+        "omanik_telefon": "+37256900433;+3725021000",
+        "omanik_epost": "tarvi.velstrom@mail.ee ; sadam@harasadam.ee",
+        "koduleht": "www.harasadam.ee  https://www.facebook.com/Hara-Sadam-167468077115937/",
+        "sadamakapteni_nimi": "Tarvi Velström",
+        "sadamakapteni_telefon": "+372;+3725021000",
+        "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6126,
+          59.58814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 157,
+        "sadama_nimi": "HIIESSAARE SADAM",
+        "omanik": "Hiiessaare sadam",
+        "omanik_telefon": "+3725051670",
+        "omanik_epost": "mart.varblane@mail.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Märt Varblane",
+        "sadamakapteni_telefon": "+3725051670",
+        "sadamakapteni_epost": "mart.varblane@mail.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84188,
+          59.00223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2659,
         "sadama_nimi": "ALLIKLEPA SADAM",
         "omanik": "Alliklepa Sadam OÜ",
@@ -214,30 +286,6 @@
         "coordinates": [
           23.79363,
           59.28508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 708,
-        "sadama_nimi": "HALDI SADAM",
-        "omanik": "Mittetulundusühing Haldi Sadam",
-        "omanik_telefon": "+3725031734",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.44657,
-          58.8067
         ]
       }
     },
@@ -268,83 +316,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2114,
-        "sadama_nimi": "HARA SADAM",
-        "omanik": "Mittetulundusühing Hara Sadam",
-        "omanik_telefon": "+37256900433;+3725021000",
-        "omanik_epost": "sadam@harasadam.ee",
-        "koduleht": "www.harasadam.ee  https://www.facebook.com/Hara-Sadam-167468077115937/",
-        "sadamakapteni_nimi": "Tarvi Velström",
-        "sadamakapteni_telefon": "+372;+3725021000",
-        "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.6126,
-          59.58814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 151,
-        "sadama_nimi": "DIRHAMI SADAM",
-        "omanik": "MELLSON GRUPP OÜ",
-        "omanik_telefon": "+3724797221",
-        "omanik_epost": "info@dirhami.ee",
-        "koduleht": "www.dirhami.ee",
-        "sadamakapteni_nimi": "Jaanus Sadam",
-        "sadamakapteni_telefon": "+3724797221",
-        "sadamakapteni_epost": "info@portdirham.ee",
-        "max_pikkus": "90.0",
-        "max_laius": "12.0",
-        "max_sygavus": "3.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.50085,
-          59.21139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 157,
-        "sadama_nimi": "HIIESSAARE SADAM",
-        "omanik": "Hiiessaare sadam",
-        "omanik_telefon": "+3725051670",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Märt Varblane",
-        "sadamakapteni_telefon": "+3725051670",
-        "sadamakapteni_epost": "mart.varblane@mail.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.84188,
-          59.00223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 162,
         "sadama_nimi": "JÕEKÄÄRU SADAM",
         "omanik": "Mittetulundusühing Rannapungerja Sadam",
         "omanik_telefon": "+37255533302",
-        "omanik_epost": "-",
+        "omanik_epost": "taavi.puusepp@tammeauto.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -364,11 +340,107 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 151,
+        "sadama_nimi": "DIRHAMI SADAM",
+        "omanik": "MELLSON GRUPP OÜ",
+        "omanik_telefon": "+3724797221",
+        "omanik_epost": "info@portdirham.ee",
+        "koduleht": "www.dirhami.ee",
+        "sadamakapteni_nimi": "Jaanus Sadam",
+        "sadamakapteni_telefon": "+3724797221",
+        "sadamakapteni_epost": "info@portdirham.ee",
+        "max_pikkus": "90.0",
+        "max_laius": "12.0",
+        "max_sygavus": "3.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50085,
+          59.21139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 53,
+        "sadama_nimi": "ABRUKA SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Kaarel Niine",
+        "sadamakapteni_telefon": "+3724555774",
+        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
+        "max_pikkus": "40.0",
+        "max_laius": "20.0",
+        "max_sygavus": "2.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.52766,
+          58.16261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 160,
+        "sadama_nimi": "JUHETA VÄIKESADAM",
+        "omanik": "Mittetulundusühing Saulepa Sadam",
+        "omanik_telefon": "+3725234698",
+        "omanik_epost": "siim.suursild@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29428,
+          58.36914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 3677,
+        "sadama_nimi": "JAPSI KALASADAM",
+        "omanik": "aktsiaselts Japs",
+        "omanik_telefon": "+3724459600",
+        "omanik_epost": "japs@japs.ee",
+        "koduleht": "www.japs.ee",
+        "sadamakapteni_nimi": "Madis Merirand",
+        "sadamakapteni_telefon": "+3725029563",
+        "sadamakapteni_epost": "madis.merirand@japs.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48713,
+          58.38935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2259,
         "sadama_nimi": "HARA SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
         "omanik_telefon": "+3724724354",
-        "omanik_epost": "noarootsi@laanenigula.ee",
+        "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "Esko Juhani Väli-Tainio",
         "sadamakapteni_telefon": "+37253334996",
@@ -392,7 +464,7 @@
         "sadama_nimi": "HAAPSALU VESKIVIIGI",
         "omanik": "ANKRUPOI OÜ",
         "omanik_telefon": "+3726710100",
-        "omanik_epost": "valdo.kivi@ieg.ee",
+        "omanik_epost": "aivar@ieg.ee; valdo.kivi@ieg.ee; ieg@ieg.ee",
         "koduleht": "www.veskiviigi.ee",
         "sadamakapteni_nimi": "Valdo Kivi",
         "sadamakapteni_telefon": "+3725652887",
@@ -406,54 +478,6 @@
         "coordinates": [
           23.5275,
           58.958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 160,
-        "sadama_nimi": "JUHETA VÄIKESADAM",
-        "omanik": "Mittetulundusühing Saulepa Sadam",
-        "omanik_telefon": "+3725234698",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.29428,
-          58.36914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2640,
-        "sadama_nimi": "KAAVI PAADISADAM",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+3724525000;+3724525108",
-        "omanik_epost": "-",
-        "koduleht": "www.saaremaavald.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.20007,
-          57.98928
         ]
       }
     },
@@ -484,15 +508,63 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 2640,
+        "sadama_nimi": "KAAVI PAADISADAM",
+        "omanik": "Saaremaa Vallavalitsus",
+        "omanik_telefon": "+3724525000;+3724525108",
+        "omanik_epost": "vald@saaremaavald.ee",
+        "koduleht": "www.saaremaavald.ee",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.20007,
+          57.98928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 164,
+        "sadama_nimi": "KALANA SADAM",
+        "omanik": "JT Holding OÜ",
+        "omanik_telefon": "+3725211380",
+        "omanik_epost": "jyri.tamm@jtholding.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "7.0",
+        "max_laius": "2.0",
+        "max_sygavus": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.05648,
+          58.92096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 159,
         "sadama_nimi": "JAAGUPI SADAM",
         "omanik": "Häädemeeste Vallavalitsus",
         "omanik_telefon": "+3724448890",
-        "omanik_epost": "kaido@wetmen.eu",
+        "omanik_epost": "toomas.abel@haademeeste.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Kaido Vaik",
-        "sadamakapteni_telefon": "+3725120485",
-        "sadamakapteni_epost": "kaido@wetmen.eu",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.7"
@@ -508,48 +580,72 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 150,
-        "sadama_nimi": "BEKKERI SADAM",
-        "omanik": "OÜ Tallinna Bekkeri Sadam",
-        "omanik_telefon": "+3726201600",
-        "omanik_epost": "info@tallinnbekkerport.com",
-        "koduleht": "www.tallinnbekkerport.com",
-        "sadamakapteni_nimi": "Gunnar Kellamov",
-        "sadamakapteni_telefon": "+37256921417",
-        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
-        "max_pikkus": "170.0",
-        "max_laius": "25.0",
-        "max_sygavus": "7.9"
+        "sadamaregister": 202,
+        "sadama_nimi": "KALLASTE RANNASADAM",
+        "omanik": "Peipsi Trade LTD OÜ",
+        "omanik_telefon": "+3725151976",
+        "omanik_epost": "indekovara@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.1",
+        "max_sygavus": "0.8"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66752,
-          59.45473
+          27.16596,
+          58.6727
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 164,
-        "sadama_nimi": "KALANA SADAM",
-        "omanik": "DM Harbour Capital OÜ",
-        "omanik_telefon": "-",
-        "omanik_epost": "liina.tamm@1advisory.ee",
-        "koduleht": "-",
+        "sadamaregister": 200,
+        "sadama_nimi": "KALLASTE SADAM",
+        "omanik": "Muhu Vallavalitsus",
+        "omanik_telefon": "+3724530672",
+        "omanik_epost": "vald@muhu.ee",
+        "koduleht": "www.muhu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "7.0",
-        "max_laius": "2.0",
-        "max_sygavus": "0.5"
+        "max_pikkus": "12.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.05648,
-          58.92096
+          23.25274,
+          58.66839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1960,
+        "sadama_nimi": "KALDU SADAM",
+        "omanik": "mittetulundusühing Kaldu Paadisadam",
+        "omanik_telefon": "+37256667595",
+        "omanik_epost": "toomas.alas@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "6.5",
+        "max_laius": "1.5",
+        "max_sygavus": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.26902,
+          58.45426
         ]
       }
     },
@@ -580,6 +676,54 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 167,
+        "sadama_nimi": "KALEVI JAHTKLUBI",
+        "omanik": "Kalevi Jahtklubi",
+        "omanik_telefon": "+3726239154;+37253010450",
+        "omanik_epost": "info@kjk.ee",
+        "koduleht": "www.kjk.ee",
+        "sadamakapteni_nimi": "Andres Tamm",
+        "sadamakapteni_telefon": "+37253010450",
+        "sadamakapteni_epost": "sadam@kjk.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "5.0",
+        "max_sygavus": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83012,
+          59.46633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2354,
+        "sadama_nimi": "KAREPA SADAM (EHITAMISEL)",
+        "omanik": "Mittetulundusühing Karepa Kalasadam",
+        "omanik_telefon": "+3725205763",
+        "omanik_epost": "karepasadam@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "2.5",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.42309,
+          59.54732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 1210,
         "sadama_nimi": "KABERNEEME SADAM",
         "omanik": "Kaberneeme Marina OÜ",
@@ -604,179 +748,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 1960,
-        "sadama_nimi": "KALDU SADAM",
-        "omanik": "mittetulundusühing Kaldu Paadisadam",
-        "omanik_telefon": "+37256667595",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "6.5",
-        "max_laius": "1.5",
-        "max_sygavus": "0.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.26902,
-          58.45426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 202,
-        "sadama_nimi": "KALLASTE RANNASADAM",
-        "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+3725151976",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.1",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16596,
-          58.6727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 165,
-        "sadama_nimi": "KALASADAM (EHITAMISEL)",
-        "omanik": "AS Pro Kapital Eesti",
-        "omanik_telefon": "+3726144920",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "35.0",
-        "max_laius": "8.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75014,
-          59.44675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 200,
-        "sadama_nimi": "KALLASTE SADAM",
-        "omanik": "Muhu Vallavalitsus",
-        "omanik_telefon": "+3724530672",
-        "omanik_epost": "-",
-        "koduleht": "www.muhu.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.25274,
-          58.66839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 3677,
-        "sadama_nimi": "JAPSI KALASADAM",
-        "omanik": "aktsiaselts Japs",
-        "omanik_telefon": "+3724459600",
-        "omanik_epost": "japs@japs.ee",
-        "koduleht": "www.japs.ee",
-        "sadamakapteni_nimi": "Madis Merirand",
-        "sadamakapteni_telefon": "+3724459600",
-        "sadamakapteni_epost": "madis.merirand@japs.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.48713,
-          58.38935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 167,
-        "sadama_nimi": "KALEVI JAHTKLUBI",
-        "omanik": "Kalevi Jahtklubi",
-        "omanik_telefon": "+3726239154;+37253010450",
-        "omanik_epost": "sadam@kjk.ee",
-        "koduleht": "www.kjk.ee",
-        "sadamakapteni_nimi": "Andres Tamm",
-        "sadamakapteni_telefon": "+37253010450",
-        "sadamakapteni_epost": "sadam@kjk.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "5.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.83012,
-          59.46633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 163,
-        "sadama_nimi": "KAKUMÄE SADAM",
-        "omanik": "Haven Management OÜ",
-        "omanik_telefon": "+37253700023",
-        "omanik_epost": "indrek@havenk.com",
-        "koduleht": "www.havenk.com",
-        "sadamakapteni_nimi": "Rein Raudsalu",
-        "sadamakapteni_telefon": "+3725022877",
-        "sadamakapteni_epost": "sadam@lennusadam.eu",
-        "max_pikkus": "30.0",
-        "max_laius": "9.0",
-        "max_sygavus": "3.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.60697,
-          59.45111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 2134,
         "sadama_nimi": "KALMAKÜLA SADAM",
         "omanik": "Mittetulundusühing Kalma Sadam",
         "omanik_telefon": "+3725528114",
-        "omanik_epost": "-",
+        "omanik_epost": "info@kalma.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -790,174 +766,6 @@
         "coordinates": [
           26.96939,
           58.891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2354,
-        "sadama_nimi": "KAREPA SADAM (EHITAMISEL)",
-        "omanik": "Mittetulundusühing Karepa Kalasadam",
-        "omanik_telefon": "+3725205763",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.42309,
-          59.54732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 154,
-        "sadama_nimi": "HELTERMAA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus@saarteliinid.ee",
-        "max_pikkus": "118.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.04833,
-          58.86667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 201,
-        "sadama_nimi": "KALLASTE SADAM",
-        "omanik": "Osaühing Kallaste Kalur",
-        "omanik_telefon": "+3727452740",
-        "omanik_epost": "info@rannapuura.ee",
-        "koduleht": "www.rannapuura.ee",
-        "sadamakapteni_nimi": "Dmitri Krivoglazov",
-        "sadamakapteni_telefon": "+3725298590",
-        "sadamakapteni_epost": "info@rannapuura.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16722,
-          58.66852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 452,
-        "sadama_nimi": "KÄRDLA SADAM",
-        "omanik": "Sihtasutus Hiiumaa Sadamad",
-        "omanik_telefon": "+37256662514",
-        "omanik_epost": "sven.kriggulson@hiiumaa.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Liina Härm",
-        "sadamakapteni_telefon": "+3725187580",
-        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "9.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.75433,
-          59.01033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 306,
-        "sadama_nimi": "KÄRSA SADAM",
-        "omanik": "Heimon Kala OÜ",
-        "omanik_telefon": "+3724521470",
-        "omanik_epost": "vettel@vettel.ee",
-        "koduleht": "www.vettel.ee",
-        "sadamakapteni_nimi": "Heiki Raudsepp",
-        "sadamakapteni_telefon": "+3725058277",
-        "sadamakapteni_epost": "heikiraudsepp@hotmail.com",
-        "max_pikkus": "12.0",
-        "max_laius": "8.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.73833,
-          58.24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2611,
-        "sadama_nimi": "KASSARI SADAM",
-        "omanik": "SADAMAÜHING KASSARI",
-        "omanik_telefon": "+3725063874",
-        "omanik_epost": "sadamayhing.kassari@mail.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Raivo Kallaste",
-        "sadamakapteni_telefon": "+3725063874",
-        "sadamakapteni_epost": "sadamayhing.kassari@mail.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.75"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.84895,
-          58.78198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1403,
-        "sadama_nimi": "KARLOVA PAADISADAM",
-        "omanik": "Seto Line Reisid OÜ",
-        "omanik_telefon": "+3725037616",
-        "omanik_epost": "sadam@setoline.ee",
-        "koduleht": "www.setoline.ee",
-        "sadamakapteni_nimi": "Toomas Oks",
-        "sadamakapteni_telefon": "+37253069966",
-        "sadamakapteni_epost": "sadam@setoline.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "10.0",
-        "max_sygavus": "1.9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.74611,
-          58.36889
         ]
       }
     },
@@ -988,11 +796,59 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 165,
+        "sadama_nimi": "KALASADAM (EHITAMISEL)",
+        "omanik": "AS Pro Kapital Eesti",
+        "omanik_telefon": "+3726144920",
+        "omanik_epost": "prokapital@prokapital.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "35.0",
+        "max_laius": "8.0",
+        "max_sygavus": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75014,
+          59.44675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1403,
+        "sadama_nimi": "KARLOVA PAADISADAM",
+        "omanik": "Seto Line Reisid OÜ",
+        "omanik_telefon": "+3725037616",
+        "omanik_epost": "info@setoline.ee",
+        "koduleht": "www.setoline.ee",
+        "sadamakapteni_nimi": "Kaupo Soon",
+        "sadamakapteni_telefon": "+37253069966",
+        "sadamakapteni_epost": "sadam@setoline.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.74611,
+          58.36889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 206,
         "sadama_nimi": "KAVARU SADAM",
         "omanik": "Pärnu Linnavalitsus",
         "omanik_telefon": "+3724448200",
-        "omanik_epost": "-",
+        "omanik_epost": "linnavalitsus@parnu.ee",
         "koduleht": "www.parnu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1012,11 +868,59 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 2611,
+        "sadama_nimi": "KASSARI SADAM",
+        "omanik": "SADAMAÜHING KASSARI",
+        "omanik_telefon": "+3725063874",
+        "omanik_epost": "sadamayhing.kassari@mail.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Raivo Kallaste",
+        "sadamakapteni_telefon": "+3725063874",
+        "sadamakapteni_epost": "sadamayhing.kassari@mail.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84895,
+          58.78198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 306,
+        "sadama_nimi": "KÄRSA SADAM",
+        "omanik": "Heimon Kala OÜ",
+        "omanik_telefon": "+3724521470",
+        "omanik_epost": "vettel@vettel.ee",
+        "koduleht": "www.vettel.ee",
+        "sadamakapteni_nimi": "Heiki Raudsepp",
+        "sadamakapteni_telefon": "+3725058277",
+        "sadamakapteni_epost": "heikiraudsepp@hotmail.com",
+        "max_pikkus": "12.0",
+        "max_laius": "8.0",
+        "max_sygavus": "1.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.73833,
+          58.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 205,
         "sadama_nimi": "KAUNISPE SADAM",
         "omanik": "mittetulundusühing Kaunispe Sadam",
         "omanik_telefon": "+3725177332",
-        "omanik_epost": "-",
+        "omanik_epost": "orav.toomas@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1036,24 +940,96 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 207,
-        "sadama_nimi": "KELNASE SADAM",
-        "omanik": "Viimsi Vallavalitsus",
-        "omanik_telefon": "+3726028800",
-        "omanik_epost": "info@viimsivv.ee",
-        "koduleht": "www.viimsivald.ee",
-        "sadamakapteni_nimi": "Viktor Palmet",
-        "sadamakapteni_telefon": "+3724471700",
-        "sadamakapteni_epost": "kapten@parnusadam.eu",
-        "max_pikkus": "25.0",
-        "max_laius": "6.0",
-        "max_sygavus": "2.5"
+        "sadamaregister": 452,
+        "sadama_nimi": "KÄRDLA SADAM",
+        "omanik": "Sihtasutus Hiiumaa Sadamad",
+        "omanik_telefon": "+37256662514",
+        "omanik_epost": "sadamad@hiiumaa.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Liina Härm",
+        "sadamakapteni_telefon": "+3725187580",
+        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "9.0",
+        "max_sygavus": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.012,
-          59.63717
+          22.75433,
+          59.01033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 163,
+        "sadama_nimi": "KAKUMÄE SADAM",
+        "omanik": "Haven Management OÜ",
+        "omanik_telefon": "+37253700023",
+        "omanik_epost": "marina@havenk.com",
+        "koduleht": "www.havenk.com",
+        "sadamakapteni_nimi": "Rein Raudsalu",
+        "sadamakapteni_telefon": "+3725022877",
+        "sadamakapteni_epost": "sadam@lennusadam.eu",
+        "max_pikkus": "30.0",
+        "max_laius": "9.0",
+        "max_sygavus": "3.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60697,
+          59.45111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 201,
+        "sadama_nimi": "KALLASTE SADAM",
+        "omanik": "Osaühing Kallaste Kalur",
+        "omanik_telefon": "+3727452740",
+        "omanik_epost": "info@rannapuura.ee",
+        "koduleht": "www.rannapuura.ee",
+        "sadamakapteni_nimi": "Dmitri Krivoglazov",
+        "sadamakapteni_telefon": "+3725298590",
+        "sadamakapteni_epost": "info@rannapuura.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "6.0",
+        "max_sygavus": "1.4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16722,
+          58.66852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 3989,
+        "sadama_nimi": "KIIDEVA SADAM",
+        "omanik": "Mittetulundusühing Kiideva külaselts",
+        "omanik_telefon": "+3725022493",
+        "omanik_epost": "kiidevakulaselts@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54813,
+          58.77165
         ]
       }
     },
@@ -1064,7 +1040,7 @@
         "sadama_nimi": "KESSE-JAANI SADAM",
         "omanik": "Kesse Kuningriik OÜ",
         "omanik_telefon": "+3725130809",
-        "omanik_epost": "-",
+        "omanik_epost": "indrek@pluss.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1084,24 +1060,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 3989,
-        "sadama_nimi": "KIIDEVA SADAM",
-        "omanik": "Mittetulundusühing Kiideva külaselts",
-        "omanik_telefon": "+3725022493",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.8"
+        "sadamaregister": 207,
+        "sadama_nimi": "KELNASE SADAM",
+        "omanik": "Viimsi Vallavalitsus",
+        "omanik_telefon": "+3726028800",
+        "omanik_epost": "kommunaal@viimsivv.ee",
+        "koduleht": "www.viimsivald.ee",
+        "sadamakapteni_nimi": "Viktor Palmet",
+        "sadamakapteni_telefon": "+3724471700",
+        "sadamakapteni_epost": "kapten@parnusadam.eu",
+        "max_pikkus": "25.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.54813,
-          58.77165
+          25.012,
+          59.63717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 212,
+        "sadama_nimi": "KOGUVA SADAM",
+        "omanik": "mittetulundusühing Ankur",
+        "omanik_telefon": "+3724548887",
+        "omanik_epost": "ragnar@postman.ee",
+        "koduleht": "www.koguva.ee",
+        "sadamakapteni_nimi": "Ragnar Põllu",
+        "sadamakapteni_telefon": "+3725133446",
+        "sadamakapteni_epost": "info@koguva.ee",
+        "max_pikkus": "20.0",
+        "max_laius": "5.0",
+        "max_sygavus": "1.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.07399,
+          58.59601
         ]
       }
     },
@@ -1156,54 +1156,6 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 212,
-        "sadama_nimi": "KOGUVA SADAM",
-        "omanik": "mittetulundusühing Ankur",
-        "omanik_telefon": "+3724548887",
-        "omanik_epost": "info@koguva.ee",
-        "koduleht": "www.koguva.ee",
-        "sadamakapteni_nimi": "Ragnar Põllu",
-        "sadamakapteni_telefon": "+3725133446",
-        "sadamakapteni_epost": "info@koguva.ee",
-        "max_pikkus": "20.0",
-        "max_laius": "5.0",
-        "max_sygavus": "1.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.07399,
-          58.59601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1207,
-        "sadama_nimi": "KÕIGUSTE SADAM",
-        "omanik": "MTÜ Kõiguste Marina",
-        "omanik_telefon": "+3725580970",
-        "omanik_epost": "koigustemarina@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Niklas John Alexander Jansson",
-        "sadamakapteni_telefon": "+3725580970",
-        "sadamakapteni_epost": "espumeru@mailasail.com",
-        "max_pikkus": "23.9",
-        "max_laius": "4.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9715,
-          58.36971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 51,
         "sadama_nimi": "KOLJUNUKI SADAM",
         "omanik": "OÜ Koljunuki Sadam",
@@ -1222,102 +1174,6 @@
         "coordinates": [
           25.08994,
           59.50556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2151,
-        "sadama_nimi": "KUDRUKÜLA SADAM",
-        "omanik": "Irina Fjodorova",
-        "omanik_telefon": "+37254599559",
-        "omanik_epost": "fve2808@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "19.5",
-        "max_laius": "5.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.08602,
-          59.45157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 304,
-        "sadama_nimi": "KÕRGESSAARE SADAM",
-        "omanik": "mittetulundusühing Kõrgessaare Sadam",
-        "omanik_telefon": "+3725049165",
-        "omanik_epost": "priit.post@esmarehitus.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Priit Post",
-        "sadamakapteni_telefon": "+3725049165",
-        "sadamakapteni_epost": "priit.post@esmarehitus.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "5.5",
-        "max_sygavus": "2.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.46433,
-          58.993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 301,
-        "sadama_nimi": "KUNGLA SADAM",
-        "omanik": "Mittetulundusühing Kungla Sadam",
-        "omanik_telefon": "+37256472104",
-        "omanik_epost": "info@kunglasadam.ee",
-        "koduleht": "www.kunglasadam.ee",
-        "sadamakapteni_nimi": "Kert Kreem",
-        "sadamakapteni_telefon": "+37253411457",
-        "sadamakapteni_epost": "kunglasadam@gmail.com",
-        "max_pikkus": "15.0",
-        "max_laius": "3.5",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.95467,
-          58.3628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 250,
-        "sadama_nimi": "KUIVASTU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "valdur.hang@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Valdur Häng",
-        "sadamakapteni_telefon": "+37253428555",
-        "sadamakapteni_epost": "valdur@saarteliinid.ee",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.39654,
-          58.57366
         ]
       }
     },
@@ -1348,48 +1204,120 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 303,
-        "sadama_nimi": "KURKSE SADAM",
-        "omanik": "Kurkse Sadam OÜ",
-        "omanik_telefon": "+3725036435",
-        "omanik_epost": "disanta66@gmail.com",
-        "koduleht": "www.kurksesadam.ee",
-        "sadamakapteni_nimi": "Aleksandr Gavriljuk",
-        "sadamakapteni_telefon": "+5036435",
+        "sadamaregister": 2151,
+        "sadama_nimi": "KUDRUKÜLA SADAM",
+        "omanik": "Irina Fjodorova",
+        "omanik_telefon": "+37254599559",
+        "omanik_epost": "fve2808@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "10.0",
-        "max_laius": "2.5",
-        "max_sygavus": "1.2"
+        "max_pikkus": "19.5",
+        "max_laius": "5.0",
+        "max_sygavus": "1.5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.0222,
-          59.28848
+          28.08602,
+          59.45157
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 302,
-        "sadama_nimi": "KURESSAARE SADAM",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+3724525000;+3724525108",
-        "omanik_epost": "sadam@kuressaare.ee",
-        "koduleht": "www.saaremaavald.ee",
-        "sadamakapteni_nimi": "Oskar Jõgi",
-        "sadamakapteni_telefon": "+3724533450",
-        "sadamakapteni_epost": "sadam@kuressaare.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "4.0",
-        "max_sygavus": "2.3"
+        "sadamaregister": 150,
+        "sadama_nimi": "BEKKERI SADAM",
+        "omanik": "OÜ Tallinna Bekkeri Sadam",
+        "omanik_telefon": "+3726201600",
+        "omanik_epost": "info@tallinnbekkerport.com",
+        "koduleht": "www.tallinnbekkerport.com",
+        "sadamakapteni_nimi": "Gunnar Kellamov",
+        "sadamakapteni_telefon": "+37256921417",
+        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
+        "max_pikkus": "170.0",
+        "max_laius": "25.0",
+        "max_sygavus": "7.9"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.47167,
-          58.245
+          24.66752,
+          59.45473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 304,
+        "sadama_nimi": "KÕRGESSAARE SADAM",
+        "omanik": "mittetulundusühing Kõrgessaare Sadam",
+        "omanik_telefon": "+3725049165",
+        "omanik_epost": "priit.post@esmarehitus.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Priit Post",
+        "sadamakapteni_telefon": "+3725049165",
+        "sadamakapteni_epost": "priit.post@esmarehitus.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "5.5",
+        "max_sygavus": "2.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.46433,
+          58.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1207,
+        "sadama_nimi": "KÕIGUSTE SADAM",
+        "omanik": "MTÜ Kõiguste Marina",
+        "omanik_telefon": "+3725580970",
+        "omanik_epost": "koigustemarina@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Niklas John Alexander Jansson",
+        "sadamakapteni_telefon": "+3725580970",
+        "sadamakapteni_epost": "espumeru@mailasail.com",
+        "max_pikkus": "23.9",
+        "max_laius": "4.0",
+        "max_sygavus": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9715,
+          58.36971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 301,
+        "sadama_nimi": "KUNGLA SADAM",
+        "omanik": "Mittetulundusühing Kungla Sadam",
+        "omanik_telefon": "+37256472104",
+        "omanik_epost": "kunglasadam@gmail.com",
+        "koduleht": "www.kunglasadam.ee",
+        "sadamakapteni_nimi": "Kert Kreem",
+        "sadamakapteni_telefon": "+37253411457",
+        "sadamakapteni_epost": "kunglasadam@gmail.com",
+        "max_pikkus": "15.0",
+        "max_laius": "3.5",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95467,
+          58.3628
         ]
       }
     },
@@ -1400,7 +1328,7 @@
         "sadama_nimi": "LÄÄTSA PAADISADAM",
         "omanik": "kalurite ühendus \"Läätsa Rand\"",
         "omanik_telefon": "+3724571639",
-        "omanik_epost": "-",
+        "omanik_epost": "marujaan@hot.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1414,30 +1342,6 @@
         "coordinates": [
           22.25369,
           58.14604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 307,
-        "sadama_nimi": "LAAKSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
-        "max_pikkus": "40.0",
-        "max_laius": "10.0",
-        "max_sygavus": "1.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.41806,
-          58.33869
         ]
       }
     },
@@ -1468,6 +1372,30 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 250,
+        "sadama_nimi": "KUIVASTU SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Valdur Häng",
+        "sadamakapteni_telefon": "+37253428555",
+        "sadamakapteni_epost": "valdur@saarteliinid.ee",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39654,
+          58.57366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 310,
         "sadama_nimi": "LAO SADAM",
         "omanik": "Arbeton Osaühing",
@@ -1486,6 +1414,78 @@
         "coordinates": [
           24.1221,
           58.234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 154,
+        "sadama_nimi": "HELTERMAA SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Andrus Maide",
+        "sadamakapteni_telefon": "+3725043888",
+        "sadamakapteni_epost": "andrus@saarteliinid.ee",
+        "max_pikkus": "118.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.04833,
+          58.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 303,
+        "sadama_nimi": "KURKSE SADAM",
+        "omanik": "Kurkse Sadam OÜ",
+        "omanik_telefon": "+3725036435",
+        "omanik_epost": "kurksesadam@hot.ee",
+        "koduleht": "www.kurksesadam.ee",
+        "sadamakapteni_nimi": "Aleksandr Gavriljuk",
+        "sadamakapteni_telefon": "+5036435",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "10.0",
+        "max_laius": "2.5",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0222,
+          59.28848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 307,
+        "sadama_nimi": "LAAKSAARE SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Jaanus Jürivete",
+        "sadamakapteni_telefon": "+37253328095",
+        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "max_pikkus": "40.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41806,
+          58.33869
         ]
       }
     },
@@ -1520,7 +1520,7 @@
         "sadama_nimi": "LEPPNEEME KALASADAM",
         "omanik": "Mittetulundusühing Räimeühing",
         "omanik_telefon": "+3726091336;+3725087786",
-        "omanik_epost": "-",
+        "omanik_epost": "erko.veltson@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1534,6 +1534,30 @@
         "coordinates": [
           24.86656,
           59.55139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 317,
+        "sadama_nimi": "LIU VÄIKESADAM",
+        "omanik": "Mittetulundusühing Liu Sadamaarendus",
+        "omanik_telefon": "+37256218848",
+        "omanik_epost": "taggo@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "20.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26661,
+          58.27933
         ]
       }
     },
@@ -1564,48 +1588,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 317,
-        "sadama_nimi": "LIU VÄIKESADAM",
-        "omanik": "Mittetulundusühing Liu Sadamaarendus",
-        "omanik_telefon": "+37256218848",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "20.0",
+        "sadamaregister": 302,
+        "sadama_nimi": "KURESSAARE SADAM",
+        "omanik": "Saaremaa Vallavalitsus",
+        "omanik_telefon": "+3724525000;+3724525108",
+        "omanik_epost": "vald@saaremaavald.ee",
+        "koduleht": "www.saaremaavald.ee",
+        "sadamakapteni_nimi": "Oskar Jõgi",
+        "sadamakapteni_telefon": "+3724533450",
+        "sadamakapteni_epost": "sadam@kuressaare.ee",
+        "max_pikkus": "23.9",
         "max_laius": "4.0",
-        "max_sygavus": "1.0"
+        "max_sygavus": "2.3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.26661,
-          58.27933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 300,
-        "sadama_nimi": "KUNDA SADAM",
-        "omanik": "Kunda Sadam AS",
-        "omanik_telefon": "+3723229955",
-        "omanik_epost": "info@kundasadam.ee",
-        "koduleht": "www.kundasadam.ee",
-        "sadamakapteni_nimi": "Eiki Orgmets",
-        "sadamakapteni_telefon": "+3723229861",
-        "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
-        "max_pikkus": "150.0",
-        "max_laius": "30.0",
-        "max_sygavus": "8.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5415,
-          59.52117
+          22.47167,
+          58.245
         ]
       }
     },
@@ -1616,7 +1616,7 @@
         "sadama_nimi": "LOHUSUU SADAM",
         "omanik": "Peipsi Trade LTD OÜ",
         "omanik_telefon": "+3725151976",
-        "omanik_epost": "indekovara@gmail.com; peipsi.holding@gmail.com",
+        "omanik_epost": "indekovara@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "Apolinari Gorsanov",
         "sadamakapteni_telefon": "+37256359343",
@@ -1640,7 +1640,7 @@
         "sadama_nimi": "LEPPNEEME SADAM",
         "omanik": "Viimsi Vallavalitsus",
         "omanik_telefon": "+3726028800",
-        "omanik_epost": "info@viimsivv.ee",
+        "omanik_epost": "kommunaal@viimsivv.ee",
         "koduleht": "www.viimsivald.ee",
         "sadamakapteni_nimi": "Viktor Palmet",
         "sadamakapteni_telefon": "+3724471700",
@@ -1654,126 +1654,6 @@
         "coordinates": [
           24.86714,
           59.55088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1964,
-        "sadama_nimi": "LÕPESUU SADAM",
-        "omanik": "Mittetulundusühing Rannamaa",
-        "omanik_telefon": "+3725044169",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.27395,
-          58.48966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 311,
-        "sadama_nimi": "LEHTMA SADAM",
-        "omanik": "Aktsiaselts Direct Consulting",
-        "omanik_telefon": "+3726030700;+2725255861",
-        "omanik_epost": "tonu@ulemistearimaja.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Marek Kiiver",
-        "sadamakapteni_telefon": "+3724622711",
-        "sadamakapteni_epost": "lehtmasadama@dagomar.hiiumaa.ee",
-        "max_pikkus": "130.0",
-        "max_laius": "16.0",
-        "max_sygavus": "4.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.69833,
-          59.06833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 318,
-        "sadama_nimi": "LOHUSALU SADAM",
-        "omanik": "AS Nordic Contractors",
-        "omanik_telefon": "+3726272020",
-        "omanik_epost": "lohusalu@lohusalu.ee",
-        "koduleht": "www.lohusalu.ee",
-        "sadamakapteni_nimi": "VALDO TAUMANN",
-        "sadamakapteni_telefon": "+3725082478",
-        "sadamakapteni_epost": "lohusalu@lohusalu.ee",
-        "max_pikkus": "20.0",
-        "max_laius": "5.0",
-        "max_sygavus": "2.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.20358,
-          59.40281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 801,
-        "sadama_nimi": "LUIGE VÄIKESADAM",
-        "omanik": "Osaühing Herodon",
-        "omanik_telefon": "+3725010136",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.47664,
-          58.87098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2501,
-        "sadama_nimi": "MAHU SADAM (EHITAMISEL)",
-        "omanik": "Viru-Nigula Vallavalitsus",
-        "omanik_telefon": "+3723229630",
-        "omanik_epost": "-",
-        "koduleht": "http://viru-nigula.kovtp.ee/uldinfo",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.72785,
-          59.51989
         ]
       }
     },
@@ -1804,72 +1684,96 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 3934,
-        "sadama_nimi": "LUUNJA JÕESADAM",
-        "omanik": "Sihtasutus Luunja Jõesadam",
-        "omanik_telefon": "+3727417319",
-        "omanik_epost": "sadam@luunja.ee",
-        "koduleht": "www.luunja.ee",
-        "sadamakapteni_nimi": "Tarvo Laas",
-        "sadamakapteni_telefon": "+3725166213",
-        "sadamakapteni_epost": "sadam@luunja.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "10.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.88225,
-          58.35449
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 308,
-        "sadama_nimi": "LAHESUU SADAM",
-        "omanik": "Lahesuu Sadama aktsiaselts",
-        "omanik_telefon": "+3725167657",
-        "omanik_epost": "info@lahesuu.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Gregor Elm",
-        "sadamakapteni_telefon": "+37253432489",
-        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
-        "max_pikkus": "160.0",
-        "max_laius": "35.0",
-        "max_sygavus": "4.1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70301,
-          59.4571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 331,
-        "sadama_nimi": "MÄNNI VÄIKESADAM",
-        "omanik": "Väino Väli",
-        "omanik_telefon": "+3725033070",
-        "omanik_epost": "-",
+        "sadamaregister": 1964,
+        "sadama_nimi": "LÕPESUU SADAM",
+        "omanik": "Mittetulundusühing Rannamaa",
+        "omanik_telefon": "+3725044169",
+        "omanik_epost": "mty.rannamaa@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
-        "max_laius": "1.7",
-        "max_sygavus": "1.0"
+        "max_laius": "2.5",
+        "max_sygavus": "0.8"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.66487,
-          58.51761
+          23.27395,
+          58.48966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 801,
+        "sadama_nimi": "LUIGE VÄIKESADAM",
+        "omanik": "Osaühing Herodon",
+        "omanik_telefon": "+3725010136",
+        "omanik_epost": "hannosaar@hotmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47664,
+          58.87098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 311,
+        "sadama_nimi": "LEHTMA SADAM",
+        "omanik": "Aktsiaselts Direct Consulting",
+        "omanik_telefon": "+3726030700;+2725255861",
+        "omanik_epost": "tonu@ulemistearimaja.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Marek Kiiver",
+        "sadamakapteni_telefon": "+3724622711",
+        "sadamakapteni_epost": "lehtmasadama@dagomar.hiiumaa.ee",
+        "max_pikkus": "130.0",
+        "max_laius": "16.0",
+        "max_sygavus": "4.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.69833,
+          59.06833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2501,
+        "sadama_nimi": "MAHU SADAM (EHITAMISEL)",
+        "omanik": "Viru-Nigula Vallavalitsus",
+        "omanik_telefon": "+3723229630",
+        "omanik_epost": "vallavalitsus@viru-nigula.ee",
+        "koduleht": "http://viru-nigula.kovtp.ee/uldinfo",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72785,
+          59.51989
         ]
       }
     },
@@ -1900,24 +1804,72 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 316,
-        "sadama_nimi": "MERELAIU VÄIKESADAM",
-        "omanik": "Johannes Kasearu",
-        "omanik_telefon": "+3725017067",
-        "omanik_epost": "-",
+        "sadamaregister": 3934,
+        "sadama_nimi": "LUUNJA JÕESADAM",
+        "omanik": "Sihtasutus Luunja Jõesadam",
+        "omanik_telefon": "+3727417319",
+        "omanik_epost": "sadam@luunja.ee",
+        "koduleht": "www.luunja.ee",
+        "sadamakapteni_nimi": "Tarvo Laas",
+        "sadamakapteni_telefon": "+3725166213",
+        "sadamakapteni_epost": "sadam@luunja.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.88225,
+          58.35449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 331,
+        "sadama_nimi": "MÄNNI VÄIKESADAM",
+        "omanik": "Väino Väli",
+        "omanik_telefon": "+3725033070",
+        "omanik_epost": "valivaino@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "1.7",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66487,
+          58.51761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2266,
+        "sadama_nimi": "MEHIKOORMA SADAM",
+        "omanik": "Sihtasutus Mehikoorma Sadam",
+        "omanik_telefon": "+3725235915",
+        "omanik_epost": "mehikoormasadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.0"
+        "max_sygavus": "0.5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.02283,
-          58.30454
+          27.47517,
+          58.23741
         ]
       }
     },
@@ -1948,11 +1900,59 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 316,
+        "sadama_nimi": "MERELAIU VÄIKESADAM",
+        "omanik": "Johannes Kasearu",
+        "omanik_telefon": "+3725017067",
+        "omanik_epost": "merelaiu@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02283,
+          58.30454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 318,
+        "sadama_nimi": "LOHUSALU SADAM",
+        "omanik": "AS Nordic Contractors",
+        "omanik_telefon": "+3726272020",
+        "omanik_epost": "nordiccontractors@nordiccontractors.com",
+        "koduleht": "www.lohusalu.ee",
+        "sadamakapteni_nimi": "VALDO TAUMANN",
+        "sadamakapteni_telefon": "+3725082478",
+        "sadamakapteni_epost": "lohusalu@lohusalu.ee",
+        "max_pikkus": "20.0",
+        "max_laius": "5.0",
+        "max_sygavus": "2.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.20358,
+          59.40281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2314,
         "sadama_nimi": "MIHKLI SADAM",
         "omanik": "Mittetulundusühing DIMARI",
         "omanik_telefon": "+3725150220",
-        "omanik_epost": "-",
+        "omanik_epost": "miflaine@mail.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1972,48 +1972,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2266,
-        "sadama_nimi": "MEHIKOORMA SADAM",
-        "omanik": "Sihtasutus Mehikoorma Sadam",
-        "omanik_telefon": "+3725235915",
-        "omanik_epost": "-",
+        "sadamaregister": 308,
+        "sadama_nimi": "LAHESUU SADAM",
+        "omanik": "Lahesuu Sadama aktsiaselts",
+        "omanik_telefon": "+3725167657",
+        "omanik_epost": "info@lahesuu.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.5"
+        "sadamakapteni_nimi": "Gregor Elm",
+        "sadamakapteni_telefon": "+37253432489",
+        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
+        "max_pikkus": "160.0",
+        "max_laius": "35.0",
+        "max_sygavus": "4.1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.47517,
-          58.23741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 321,
-        "sadama_nimi": "LOKSA SADAM",
-        "omanik": "MARSALIS SHIPYARD OÜ",
-        "omanik_telefon": "+3725091383",
-        "omanik_epost": "loksa@marsalis.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Einar Kukk",
-        "sadamakapteni_telefon": "+6224079",
-        "sadamakapteni_epost": "einar.kukk@gmail.com",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.69883,
-          59.5835
+          24.70301,
+          59.4571
         ]
       }
     },
@@ -2024,7 +2000,7 @@
         "sadama_nimi": "MÕNTU SADAM",
         "omanik": "OÜ Mõntu Sadam",
         "omanik_telefon": "+3724544085;+3724544082",
-        "omanik_epost": "vrhl@hot.ee; info@montusadam.ee",
+        "omanik_epost": "vrhl@hot.ee ; info@montusadam.ee",
         "koduleht": "www.montusadam.ee",
         "sadamakapteni_nimi": "Toivo Pära",
         "sadamakapteni_telefon": "+3724570570",
@@ -2068,11 +2044,35 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 312,
+        "sadama_nimi": "LENNUSADAM",
+        "omanik": "Sihtasutus Eesti Meremuuseum",
+        "omanik_telefon": "+3726411408",
+        "omanik_epost": "info@meremuuseum.ee",
+        "koduleht": "https://meremuuseum.ee/lennusadam/jahisadam/",
+        "sadamakapteni_nimi": "Rein Raudsalu",
+        "sadamakapteni_telefon": "+3725022877",
+        "sadamakapteni_epost": "sadam@lennusadam.eu",
+        "max_pikkus": "90.0",
+        "max_laius": "30.0",
+        "max_sygavus": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.737,
+          59.45517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2101,
         "sadama_nimi": "MÕNTU VÄIKELAEVADE SADAM",
         "omanik": "Sõrvemaa Arengu Ühing",
         "omanik_telefon": "+3725145578",
-        "omanik_epost": "vrhl@hot.ee",
+        "omanik_epost": "info@montusadam.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Mihkel Undrest",
         "sadamakapteni_telefon": "+3725145578",
@@ -2092,48 +2092,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 6155,
-        "sadama_nimi": "NARVA-JÕESUU KALURISADAM",
-        "omanik": "Narva-Jõesuu Linnavalitsus",
-        "omanik_telefon": "+37258503008",
-        "omanik_epost": "sadam@narva-joesuu.ee",
-        "koduleht": "www.njsadam.ee",
-        "sadamakapteni_nimi": "Deniss Uglanov",
-        "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.8"
+        "sadamaregister": 300,
+        "sadama_nimi": "KUNDA SADAM",
+        "omanik": "Kunda Sadam AS",
+        "omanik_telefon": "+3723229955",
+        "omanik_epost": "info@kundasadam.ee",
+        "koduleht": "www.kundasadam.ee",
+        "sadamakapteni_nimi": "Eiki Orgmets",
+        "sadamakapteni_telefon": "+3723229861",
+        "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
+        "max_pikkus": "150.0",
+        "max_laius": "30.0",
+        "max_sygavus": "8.6"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.06548,
-          59.4593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2139,
-        "sadama_nimi": "NAISTLAIU SADAM",
-        "omanik": "Pühalepa Osavalla Valitsus",
-        "omanik_telefon": "+3724636840",
-        "omanik_epost": "endelkaevats@hot.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "10.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.03181,
-          58.8247
+          26.5415,
+          59.52117
         ]
       }
     },
@@ -2168,7 +2144,7 @@
         "sadama_nimi": "MUSTVEE SADAM",
         "omanik": "Mustvee Vallavalitsus",
         "omanik_telefon": "+3727726161",
-        "omanik_epost": "mustteenus@gmail.com",
+        "omanik_epost": "info@mustveelv.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Sergei Uleksin",
         "sadamakapteni_telefon": "+3725055061",
@@ -2188,8 +2164,8 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2115,
-        "sadama_nimi": "NARVA-JÕESUU SADAM",
+        "sadamaregister": 6155,
+        "sadama_nimi": "NARVA-JÕESUU KALURISADAM",
         "omanik": "Narva-Jõesuu Linnavalitsus",
         "omanik_telefon": "+37258503008",
         "omanik_epost": "sadam@narva-joesuu.ee",
@@ -2197,15 +2173,15 @@
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
         "sadamakapteni_epost": "sadam@narva-joesuu.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "15.0",
-        "max_sygavus": "2.7"
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.04549,
-          59.46464
+          28.06548,
+          59.4593
         ]
       }
     },
@@ -2236,24 +2212,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 312,
-        "sadama_nimi": "LENNUSADAM",
-        "omanik": "Sihtasutus Eesti Meremuuseum",
-        "omanik_telefon": "+3726411408",
-        "omanik_epost": "sadam@meremuuseum.ee",
-        "koduleht": "https://meremuuseum.ee/lennusadam/jahisadam/",
-        "sadamakapteni_nimi": "Rein Raudsalu",
-        "sadamakapteni_telefon": "+3725022877",
-        "sadamakapteni_epost": "sadam@lennusadam.eu",
-        "max_pikkus": "90.0",
-        "max_laius": "30.0",
-        "max_sygavus": "7.0"
+        "sadamaregister": 2139,
+        "sadama_nimi": "NAISTLAIU SADAM",
+        "omanik": "Pühalepa Osavalla Valitsus",
+        "omanik_telefon": "+3724636840",
+        "omanik_epost": "pyhalepa@hiiumaa.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "10.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.737,
-          59.45517
+          23.03181,
+          58.8247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 321,
+        "sadama_nimi": "LOKSA SADAM",
+        "omanik": "MARSALIS SHIPYARD OÜ",
+        "omanik_telefon": "+3725091383",
+        "omanik_epost": "erich.reimets@marsalis.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Einar Kukk",
+        "sadamakapteni_telefon": "+6224079",
+        "sadamakapteni_epost": "einar.kukk@gmail.com",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.69883,
+          59.5835
         ]
       }
     },
@@ -2264,7 +2264,7 @@
         "sadama_nimi": "NASVA JÕESADAM",
         "omanik": "Saaremaa Vallavalitsus",
         "omanik_telefon": "+3724525000;+3724525108",
-        "omanik_epost": "vald@laanesaare.ee",
+        "omanik_epost": "vald@saaremaavald.ee",
         "koduleht": "www.saaremaavald.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2284,24 +2284,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 327,
-        "sadama_nimi": "MEERUSE SADAM",
-        "omanik": "OÜ Tallinna Bekkeri Sadam",
-        "omanik_telefon": "+3726201600",
-        "omanik_epost": "info@tallinnbekkerport.com",
-        "koduleht": "www.tallinnbekkerport.com",
-        "sadamakapteni_nimi": "Gunnar Kellamov",
-        "sadamakapteni_telefon": "+37256921417",
-        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
-        "max_pikkus": "140.0",
-        "max_laius": "24.0",
-        "max_sygavus": "6.3"
+        "sadamaregister": 2115,
+        "sadama_nimi": "NARVA-JÕESUU SADAM",
+        "omanik": "Narva-Jõesuu Linnavalitsus",
+        "omanik_telefon": "+37258503008",
+        "omanik_epost": "sadam@narva-joesuu.ee",
+        "koduleht": "www.njsadam.ee",
+        "sadamakapteni_nimi": "Deniss Uglanov",
+        "sadamakapteni_telefon": "+37258503008",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "15.0",
+        "max_sygavus": "2.7"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.67227,
-          59.45088
+          28.04549,
+          59.46464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 329,
+        "sadama_nimi": "NURME SADAM",
+        "omanik": "Laine Osa",
+        "omanik_telefon": "+3725279233",
+        "omanik_epost": "aivarosa@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "20.0",
+        "max_laius": "8.0",
+        "max_sygavus": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78598,
+          59.57693
         ]
       }
     },
@@ -2312,7 +2336,7 @@
         "sadama_nimi": "NARVA KULGU SADAM",
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+37258473132;+37258503008",
-        "omanik_epost": "sergei.lvov18@gmail.com",
+        "omanik_epost": "info@narvasadam.ee, narvasadamkapten@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
@@ -2326,54 +2350,6 @@
         "coordinates": [
           28.17308,
           59.34438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 328,
-        "sadama_nimi": "NASVA SADAM",
-        "omanik": "Baltic Workboats AS",
-        "omanik_telefon": "+3725096667",
-        "omanik_epost": "info@bwb.ee",
-        "koduleht": "www.balticworkboats.ee",
-        "sadamakapteni_nimi": "Gregor Elm",
-        "sadamakapteni_telefon": "+37253432489",
-        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
-        "max_pikkus": "130.0",
-        "max_laius": "25.0",
-        "max_sygavus": "3.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.39601,
-          58.21336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1552,
-        "sadama_nimi": "NARVA LINNASADAM",
-        "omanik": "Sihtasutus Narva Sadam",
-        "omanik_telefon": "+37258473132;+37258503008",
-        "omanik_epost": "info@narvasadam.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Deniss Uglanov",
-        "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "15.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.20627,
-          59.38318
         ]
       }
     },
@@ -2404,24 +2380,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 329,
-        "sadama_nimi": "NURME SADAM",
-        "omanik": "Laine Osa",
-        "omanik_telefon": "+3725279233",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "20.0",
-        "max_laius": "8.0",
-        "max_sygavus": "2.0"
+        "sadamaregister": 328,
+        "sadama_nimi": "NASVA SADAM",
+        "omanik": "Baltic Workboats AS",
+        "omanik_telefon": "+3725096667",
+        "omanik_epost": "info@bwb.ee",
+        "koduleht": "www.balticworkboats.ee",
+        "sadamakapteni_nimi": "Gregor Elm",
+        "sadamakapteni_telefon": "+37253432489",
+        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
+        "max_pikkus": "130.0",
+        "max_laius": "25.0",
+        "max_sygavus": "3.8"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.78598,
-          59.57693
+          22.39601,
+          58.21336
         ]
       }
     },
@@ -2432,7 +2408,7 @@
         "sadama_nimi": "NÕVA SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
         "omanik_telefon": "+3724724354",
-        "omanik_epost": "nova@laanenigula.ee",
+        "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2452,24 +2428,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 353,
-        "sadama_nimi": "NOBLESSNERI SADAM",
-        "omanik": "BLRT Grupp Aktsiaselts",
-        "omanik_telefon": "+3726102205;+37256722295",
-        "omanik_epost": "indrek.orav@blrt.ee / port@noblessner.ee / port@blrt.ee",
-        "koduleht": "www.portvenebalti.ee",
-        "sadamakapteni_nimi": "Margus Haljaste",
-        "sadamakapteni_telefon": "+3726102205",
-        "sadamakapteni_epost": "m.haljaste@blrt.ee",
-        "max_pikkus": "30.0",
-        "max_laius": "9.0",
-        "max_sygavus": "4.0"
+        "sadamaregister": 1552,
+        "sadama_nimi": "NARVA LINNASADAM",
+        "omanik": "Sihtasutus Narva Sadam",
+        "omanik_telefon": "+37258473132;+37258503008",
+        "omanik_epost": "info@narvasadam.ee, narvasadamkapten@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Deniss Uglanov",
+        "sadamakapteni_telefon": "+37258503008",
+        "sadamakapteni_epost": "sadam@narva-joesuu.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "15.0",
+        "max_sygavus": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73533,
-          59.455
+          28.20627,
+          59.38318
         ]
       }
     },
@@ -2480,7 +2456,7 @@
         "sadama_nimi": "OMEDU RAND",
         "omanik": "Peipsi Trade LTD OÜ",
         "omanik_telefon": "+3725151976",
-        "omanik_epost": "-",
+        "omanik_epost": "indekovara@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2500,72 +2476,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 52,
-        "sadama_nimi": "MIIDURANNA SADAM",
-        "omanik": "aktsiaselts Miiduranna Sadam",
-        "omanik_telefon": "+3726054314",
-        "omanik_epost": "kapten@miidurannasadam.ee",
-        "koduleht": "www.miidurannasadam.ee",
-        "sadamakapteni_nimi": "Henn Noor",
-        "sadamakapteni_telefon": "+3725247406",
-        "sadamakapteni_epost": "kapten@miidurannasadam.ee",
-        "max_pikkus": "196.0",
-        "max_laius": "32.0",
-        "max_sygavus": "12.3"
+        "sadamaregister": 353,
+        "sadama_nimi": "NOBLESSNERI SADAM",
+        "omanik": "BLRT Grupp Aktsiaselts",
+        "omanik_telefon": "+3726102205;+37256722295",
+        "omanik_epost": "m.haljaste@blrt.ee",
+        "koduleht": "www.portvenebalti.ee",
+        "sadamakapteni_nimi": "Margus Haljaste",
+        "sadamakapteni_telefon": "+3726102205",
+        "sadamakapteni_epost": "m.haljaste@blrt.ee",
+        "max_pikkus": "30.0",
+        "max_laius": "9.0",
+        "max_sygavus": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81606,
-          59.49939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 332,
-        "sadama_nimi": "OIU SADAM",
-        "omanik": "mittetulundusühing Oiu Arendus",
-        "omanik_telefon": "+3725066426",
-        "omanik_epost": "anmar@oiusadam.ee",
-        "koduleht": "www.oiusadam.ee",
-        "sadamakapteni_nimi": "Anmar Pihlak",
-        "sadamakapteni_telefon": "+3725066426",
-        "sadamakapteni_epost": "anmar@oiusadam.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.97593,
-          58.39842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 335,
-        "sadama_nimi": "ORISSAARE SADAM",
-        "omanik": "Perekond Piidivabrik MTÜ",
-        "omanik_telefon": "+37256239358",
-        "omanik_epost": "piidivabrik@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Uspenski Paap",
-        "sadamakapteni_telefon": "+56239358",
-        "sadamakapteni_epost": "paapdipaap@gmail.com",
-        "max_pikkus": "12.0",
-        "max_laius": "5.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.0937,
-          58.5624
+          24.73533,
+          59.455
         ]
       }
     },
@@ -2576,7 +2504,7 @@
         "sadama_nimi": "OSMUSSAARE SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
         "omanik_telefon": "+3724724354",
-        "omanik_epost": "rita@osmussaar.ee",
+        "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2596,35 +2524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 336,
-        "sadama_nimi": "ORJAKU SADAM",
-        "omanik": "Sihtasutus Hiiumaa Sadamad",
-        "omanik_telefon": "+37256662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Liina Härm",
-        "sadamakapteni_telefon": "+3725187580",
-        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "6.0",
-        "max_sygavus": "2.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.77083,
-          58.7885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 337,
         "sadama_nimi": "OTI SADAM",
         "omanik": "Laine Osa",
         "omanik_telefon": "+3725279233",
-        "omanik_epost": "-",
+        "omanik_epost": "aivarosa@hot.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2668,14 +2572,62 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 332,
+        "sadama_nimi": "OIU SADAM",
+        "omanik": "mittetulundusühing Oiu Arendus",
+        "omanik_telefon": "+3725066426",
+        "omanik_epost": "anmar@oiusadam.ee; romet@pleksor.ee",
+        "koduleht": "www.oiusadam.ee",
+        "sadamakapteni_nimi": "Anmar Pihlak",
+        "sadamakapteni_telefon": "+3725066426",
+        "sadamakapteni_epost": "anmar@oiusadam.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "6.0",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.97593,
+          58.39842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 335,
+        "sadama_nimi": "ORISSAARE SADAM",
+        "omanik": "Perekond Piidivabrik MTÜ",
+        "omanik_telefon": "+37256239358",
+        "omanik_epost": "piidivabrik@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Uspenski Paap",
+        "sadamakapteni_telefon": "+56239358",
+        "sadamakapteni_epost": "paapdipaap@gmail.com",
+        "max_pikkus": "12.0",
+        "max_laius": "5.0",
+        "max_sygavus": "1.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0937,
+          58.5624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 405,
         "sadama_nimi": "ÖSTERBY SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
         "omanik_telefon": "+3724724354",
-        "omanik_epost": "noarootsi@laanenigula.ee",
+        "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "Jalmar Kann",
-        "sadamakapteni_telefon": "+37258184481",
+        "sadamakapteni_telefon": "+3725655350",
         "sadamakapteni_epost": "jaxmar@hot.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
@@ -2696,7 +2648,7 @@
         "sadama_nimi": "PAE SADAM",
         "omanik": "Pae Sadama Selts",
         "omanik_telefon": "+3725017548",
-        "omanik_epost": "-",
+        "omanik_epost": "raivo@peri.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2710,6 +2662,78 @@
         "coordinates": [
           23.26752,
           58.49115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 327,
+        "sadama_nimi": "MEERUSE SADAM",
+        "omanik": "OÜ Tallinna Bekkeri Sadam",
+        "omanik_telefon": "+3726201600",
+        "omanik_epost": "info@tallinnbekkerport.com",
+        "koduleht": "www.tallinnbekkerport.com",
+        "sadamakapteni_nimi": "Gunnar Kellamov",
+        "sadamakapteni_telefon": "+37256921417",
+        "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
+        "max_pikkus": "140.0",
+        "max_laius": "24.0",
+        "max_sygavus": "6.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67227,
+          59.45088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 336,
+        "sadama_nimi": "ORJAKU SADAM",
+        "omanik": "Sihtasutus Hiiumaa Sadamad",
+        "omanik_telefon": "+37256662514",
+        "omanik_epost": "sadamad@hiiumaa.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Liina Härm",
+        "sadamakapteni_telefon": "+3725187580",
+        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "6.0",
+        "max_sygavus": "2.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.77083,
+          58.7885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2132,
+        "sadama_nimi": "PASLEPA-VIIGI SADAM",
+        "omanik": "OÜ HansaAssets",
+        "omanik_telefon": "+3726671250",
+        "omanik_epost": "info@hansaassets.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "15.0",
+        "max_laius": "5.0",
+        "max_sygavus": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.44163,
+          59.02395
         ]
       }
     },
@@ -2740,48 +2764,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2257,
-        "sadama_nimi": "PAPISSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@slmarinas.com",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Meelis Saarlaid",
-        "sadamakapteni_telefon": "+37253358313",
-        "sadamakapteni_epost": "info@slmarinas.com",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.8"
+        "sadamaregister": 52,
+        "sadama_nimi": "MIIDURANNA SADAM",
+        "omanik": "aktsiaselts Miiduranna Sadam",
+        "omanik_telefon": "+3726054314",
+        "omanik_epost": "kapten@miidurannasadam.ee",
+        "koduleht": "www.miidurannasadam.ee",
+        "sadamakapteni_nimi": "Henn Noor",
+        "sadamakapteni_telefon": "+3725247406",
+        "sadamakapteni_epost": "kapten@miidurannasadam.ee",
+        "max_pikkus": "196.0",
+        "max_laius": "32.0",
+        "max_sygavus": "12.3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.98612,
-          58.36002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2132,
-        "sadama_nimi": "PASLEPA-VIIGI SADAM",
-        "omanik": "OÜ HansaAssets",
-        "omanik_telefon": "+3726671250",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "15.0",
-        "max_laius": "5.0",
-        "max_sygavus": "0.9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.44163,
-          59.02395
+          24.81606,
+          59.49939
         ]
       }
     },
@@ -2792,7 +2792,7 @@
         "sadama_nimi": "PEERNI SADAM",
         "omanik": "Maido Kaja",
         "omanik_telefon": "+37256653088",
-        "omanik_epost": "-",
+        "omanik_epost": "maidokaja@hotmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2812,35 +2812,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 347,
-        "sadama_nimi": "PALDISKI PÕHJASADAM",
-        "omanik": "PALDISKI SADAMATE AS",
-        "omanik_telefon": "+3726511010;+3726391367",
-        "omanik_epost": "info@portofpaldiski.ee",
-        "koduleht": "www.portofpaldiski.ee",
-        "sadamakapteni_nimi": "Heiko Raamat",
-        "sadamakapteni_telefon": "+37258873182",
-        "sadamakapteni_epost": "heiko@portofpaldiski.ee",
-        "max_pikkus": "250.0",
-        "max_laius": "36.0",
-        "max_sygavus": "12.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.0475,
-          59.34983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 1659,
         "sadama_nimi": "PIHELGALAIU SADAM",
         "omanik": "Olav Miil",
         "omanik_telefon": "+3725042165",
-        "omanik_epost": "olav@eften.ee",
+        "omanik_epost": "Olav@eften.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2860,168 +2836,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 1202,
-        "sadama_nimi": "PRANGLI LÕUNASADAM",
-        "omanik": "Mittetulundusühing Mölgi sadam",
-        "omanik_telefon": "+3725048275",
-        "omanik_epost": "kahroracing@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "23.9",
-        "max_laius": "5.0",
+        "sadamaregister": 2257,
+        "sadama_nimi": "PAPISSAARE SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Meelis Saarlaid",
+        "sadamakapteni_telefon": "+37253358313",
+        "sadamakapteni_epost": "info@slmarinas.com",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
         "max_sygavus": "0.8"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.01504,
-          59.61487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 333,
-        "sadama_nimi": "PALDISKI LÕUNASADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "paldiski@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Andres Kungla",
-        "sadamakapteni_telefon": "+3726318805",
-        "sadamakapteni_epost": "a.kungla@ts.ee",
-        "max_pikkus": "250.0",
-        "max_laius": "45.0",
-        "max_sygavus": "14.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.08111,
-          59.33333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 348,
-        "sadama_nimi": "PATAREISADAM",
-        "omanik": "Tallinna Transpordiamet",
-        "omanik_telefon": "+3726404618;+3726404620",
-        "omanik_epost": "tta@tallinnlv.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Rommi Õige",
-        "sadamakapteni_telefon": "+37256624415",
-        "sadamakapteni_epost": "rommioige@gmail.com",
-        "max_pikkus": "105.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75242,
-          59.44816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 356,
-        "sadama_nimi": "PIIRIVALVESADAM",
-        "omanik": "Politsei- ja Piirivalveamet",
-        "omanik_telefon": "+3726123300",
-        "omanik_epost": "ppa@politsei.ee",
-        "koduleht": "www.politsei.ee",
-        "sadamakapteni_nimi": "Urmas Karming",
-        "sadamakapteni_telefon": "+3726191190",
-        "sadamakapteni_epost": "urmas.karming@politsei.ee",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66379,
-          59.45721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1930,
-        "sadama_nimi": "PIIRISSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
-        "max_pikkus": "40.0",
-        "max_laius": "10.0",
-        "max_sygavus": "1.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.51115,
-          58.37552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2103,
-        "sadama_nimi": "PURTSE KALASADAM",
-        "omanik": "Mittetulundusühing Viis Viimast Kalurit",
-        "omanik_telefon": "+37253303930",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "3.0",
-        "max_sygavus": "0.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.99109,
-          59.43428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 359,
-        "sadama_nimi": "PURTSE SADAM",
-        "omanik": "Boriss Avdejev",
-        "omanik_telefon": "+3725018881",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "16.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.993,
-          59.43583
+          21.98612,
+          58.36002
         ]
       }
     },
@@ -3052,24 +2884,168 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 377,
-        "sadama_nimi": "PUISE KALASADAM",
-        "omanik": "Haapsalu Linnavalitsus",
-        "omanik_telefon": "+3724725300",
-        "omanik_epost": "taavi@parila-klaas.ee",
-        "koduleht": "www.haapsalu.ee",
-        "sadamakapteni_nimi": "Taavi Suitsberg",
-        "sadamakapteni_telefon": "+3725136263",
-        "sadamakapteni_epost": "taavi@parila-klaas.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
+        "sadamaregister": 348,
+        "sadama_nimi": "PATAREISADAM",
+        "omanik": "Tallinna Transpordiamet",
+        "omanik_telefon": "+3726404618;+3726404620",
+        "omanik_epost": "tta@tallinnlv.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Rommi Õige",
+        "sadamakapteni_telefon": "+37256624415",
+        "sadamakapteni_epost": "rommioige@gmail.com",
+        "max_pikkus": "105.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75242,
+          59.44816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1202,
+        "sadama_nimi": "PRANGLI LÕUNASADAM",
+        "omanik": "Mittetulundusühing Mölgi sadam",
+        "omanik_telefon": "+3725048275",
+        "omanik_epost": "kahroracing@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "23.9",
+        "max_laius": "5.0",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.01504,
+          59.61487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 356,
+        "sadama_nimi": "PIIRIVALVESADAM",
+        "omanik": "Politsei- ja Piirivalveamet",
+        "omanik_telefon": "+3726123300",
+        "omanik_epost": "ppa@politsei.ee",
+        "koduleht": "www.politsei.ee",
+        "sadamakapteni_nimi": "Urmas Karming",
+        "sadamakapteni_telefon": "+3726191190",
+        "sadamakapteni_epost": "urmas.karming@politsei.ee",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66379,
+          59.45721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 347,
+        "sadama_nimi": "PALDISKI PÕHJASADAM",
+        "omanik": "PALDISKI SADAMATE AS",
+        "omanik_telefon": "+3726511010;+3726391367",
+        "omanik_epost": "info@portofpaldiski.ee; nelja@portofpaldiski.ee",
+        "koduleht": "www.portofpaldiski.ee",
+        "sadamakapteni_nimi": "Heiko Raamat",
+        "sadamakapteni_telefon": "+37258873182",
+        "sadamakapteni_epost": "heiko@portofpaldiski.ee",
+        "max_pikkus": "250.0",
+        "max_laius": "36.0",
+        "max_sygavus": "12.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.04749,
+          59.34983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2103,
+        "sadama_nimi": "PURTSE KALASADAM",
+        "omanik": "Mittetulundusühing Viis Viimast Kalurit",
+        "omanik_telefon": "+37253303930",
+        "omanik_epost": "viisviimastkalurit@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.99109,
+          59.43428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1930,
+        "sadama_nimi": "PIIRISSAARE SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Jaanus Jürivete",
+        "sadamakapteni_telefon": "+37253328095",
+        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "max_pikkus": "40.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51115,
+          58.37552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 359,
+        "sadama_nimi": "PURTSE SADAM",
+        "omanik": "Boriss Avdejev",
+        "omanik_telefon": "+3725018881",
+        "omanik_epost": "-",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "16.0",
+        "max_laius": "6.0",
         "max_sygavus": "1.5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.45452,
-          58.76514
+          26.993,
+          59.43583
         ]
       }
     },
@@ -3080,7 +3056,7 @@
         "sadama_nimi": "PUSI VÄIKESADAM",
         "omanik": "Peipsi Ühendus",
         "omanik_telefon": "+37255533493",
-        "omanik_epost": "-",
+        "omanik_epost": "toivo.kivi@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3100,35 +3076,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 168,
-        "sadama_nimi": "PIRITA SADAM",
-        "omanik": "Aktsiaselts Tallinna Olümpiapurjespordikeskus",
-        "omanik_telefon": "+3726398800",
-        "omanik_epost": "sadam@piritatop.ee",
-        "koduleht": "www.piritatop.ee",
-        "sadamakapteni_nimi": "TOOMAS TUTK",
-        "sadamakapteni_telefon": "+3725082837",
-        "sadamakapteni_epost": "toomas@piritatop.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "6.0",
-        "max_sygavus": "2.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.82167,
-          59.46833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 341,
         "sadama_nimi": "RAJA VÄIKESADAM",
         "omanik": "Osaühing Katroni",
         "omanik_telefon": "+3725061001",
-        "omanik_epost": "-",
+        "omanik_epost": "grigori.blinnikov@mail.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3148,11 +3100,59 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 377,
+        "sadama_nimi": "PUISE KALASADAM",
+        "omanik": "Haapsalu Linnavalitsus",
+        "omanik_telefon": "+3724725300",
+        "omanik_epost": "hlv@haapsalulv.ee",
+        "koduleht": "www.haapsalu.ee",
+        "sadamakapteni_nimi": "Taavi Suitsberg",
+        "sadamakapteni_telefon": "+3725136263",
+        "sadamakapteni_epost": "taavi@parila-klaas.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.45452,
+          58.76514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 168,
+        "sadama_nimi": "PIRITA SADAM",
+        "omanik": "Aktsiaselts Tallinna Olümpiapurjespordikeskus",
+        "omanik_telefon": "+3726398800",
+        "omanik_epost": "top@piritatop.ee",
+        "koduleht": "www.piritatop.ee",
+        "sadamakapteni_nimi": "TOOMAS TUTK",
+        "sadamakapteni_telefon": "+3725082837",
+        "sadamakapteni_epost": "toomas@piritatop.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "6.0",
+        "max_sygavus": "2.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82167,
+          59.46833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2059,
         "sadama_nimi": "RÄLBY SADAM",
         "omanik": "Vormsi Vallavalitsus",
         "omanik_telefon": "+3725296318",
-        "omanik_epost": "-",
+        "omanik_epost": "vv@vormsi.ee",
         "koduleht": "www.vormsi.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3176,7 +3176,7 @@
         "sadama_nimi": "PURTSE JAHTSADAM",
         "omanik": "Trogar OÜ",
         "omanik_telefon": "+3725058695",
-        "omanik_epost": "purtsejahtsadam@gmail.com",
+        "omanik_epost": "heigoprits@gmail.com; hannes.prits@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "Heigo Prits",
         "sadamakapteni_telefon": "+3725255268",
@@ -3196,35 +3196,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 339,
-        "sadama_nimi": "RANNAMETSA SADAM",
-        "omanik": "mittetulundusühing Rannametsa paadisadam",
-        "omanik_telefon": "+3725535296",
-        "omanik_epost": "Rannametsasadam@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "11.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.47849,
-          58.12304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 342,
         "sadama_nimi": "REBASE PAADISADAM",
         "omanik": "mittetulundusühing Tartu Rebase Paadisadam",
         "omanik_telefon": "+3725131260",
-        "omanik_epost": "-",
+        "omanik_epost": "mrennu@gmail.com; rebasepaadisadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3238,30 +3214,6 @@
         "coordinates": [
           26.74917,
           58.3675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 343,
-        "sadama_nimi": "REMNIKU VANASADAM",
-        "omanik": "Karumetsa OÜ",
-        "omanik_telefon": "+37253332188",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "1.7",
-        "max_sygavus": "0.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.54309,
-          59.01073
         ]
       }
     },
@@ -3292,6 +3244,54 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 343,
+        "sadama_nimi": "REMNIKU VANASADAM",
+        "omanik": "Karumetsa OÜ",
+        "omanik_telefon": "+37253332188",
+        "omanik_epost": "paulkarberg@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "1.7",
+        "max_sygavus": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54309,
+          59.01073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 333,
+        "sadama_nimi": "PALDISKI LÕUNASADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Andres Kungla",
+        "sadamakapteni_telefon": "+3726318805",
+        "sadamakapteni_epost": "a.kungla@ts.ee",
+        "max_pikkus": "250.0",
+        "max_laius": "45.0",
+        "max_sygavus": "14.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.08111,
+          59.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 346,
         "sadama_nimi": "RISTNA JAHISADAM (EHITAMISEL)",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
@@ -3316,24 +3316,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 360,
-        "sadama_nimi": "RÄPINA SADAM",
-        "omanik": "Räpina Vallavalitsus",
-        "omanik_telefon": "+3727999500",
-        "omanik_epost": "info@rapinasadam.ee; hilhard.kirn@rapinasadam.ee",
+        "sadamaregister": 339,
+        "sadama_nimi": "RANNAMETSA SADAM",
+        "omanik": "mittetulundusühing Rannametsa paadisadam",
+        "omanik_telefon": "+3725535296",
+        "omanik_epost": "rannametsapaadisadam@gmail.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Hilhard Kirn",
-        "sadamakapteni_telefon": "+3725251225",
-        "sadamakapteni_epost": "hilhard.kirn@rapinasadam.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "7.5",
-        "max_sygavus": "1.2"
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "11.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.6"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.52965,
-          58.12529
+          24.47849,
+          58.12304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 345,
+        "sadama_nimi": "RISTNA SADAM",
+        "omanik": "Mittetulundusühing Ristna sadam",
+        "omanik_telefon": "+3725059038",
+        "omanik_epost": "enn.ristna@mail.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "15.0",
+        "max_laius": "6.0",
+        "max_sygavus": "1.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.74483,
+          59.271
         ]
       }
     },
@@ -3364,24 +3388,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 345,
-        "sadama_nimi": "RISTNA SADAM",
-        "omanik": "Mittetulundusühing Ristna sadam",
-        "omanik_telefon": "+3725059038",
-        "omanik_epost": "-",
-        "koduleht": "-",
+        "sadamaregister": 354,
+        "sadama_nimi": "ROHUNEEME VÄIKESADAM",
+        "omanik": "Tallinna Veespordi Klubi",
+        "omanik_telefon": "+37256224146",
+        "omanik_epost": "info@watersport.ee",
+        "koduleht": "www.watersport.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "15.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.8"
+        "max_pikkus": "10.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.74483,
-          59.271
+          24.79341,
+          59.55915
         ]
       }
     },
@@ -3412,6 +3436,30 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 358,
+        "sadama_nimi": "ROOPA SADAM",
+        "omanik": "Mittetulundusühing Lümanda Sadamad",
+        "omanik_telefon": "+3725149917",
+        "omanik_epost": "lymandasadamad@gmail.com",
+        "koduleht": "http://atlasadam.eu/",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.6",
+        "max_sygavus": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.87389,
+          58.26306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 370,
         "sadama_nimi": "PÄRNU SADAM",
         "omanik": "AS Pärnu Sadam",
@@ -3430,54 +3478,6 @@
         "coordinates": [
           24.48,
           58.38333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 354,
-        "sadama_nimi": "ROHUNEEME VÄIKESADAM",
-        "omanik": "Tallinna Veespordi Klubi",
-        "omanik_telefon": "+37256224146",
-        "omanik_epost": "-",
-        "koduleht": "www.watersport.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "10.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79341,
-          59.55915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 210,
-        "sadama_nimi": "MUUGA SADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "muuga@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ain Klaus",
-        "sadamakapteni_telefon": "+37256489700",
-        "sadamakapteni_epost": "a.klaus@ts.ee",
-        "max_pikkus": "300.0",
-        "max_laius": "48.0",
-        "max_sygavus": "16.9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96667,
-          59.5
         ]
       }
     },
@@ -3512,7 +3512,7 @@
         "sadama_nimi": "ROOGRAHU SADAM",
         "omanik": "OÜ Roograhu Sadam",
         "omanik_telefon": "+3724636609",
-        "omanik_epost": "info@roograhu.ee",
+        "omanik_epost": "jari.lindroos@roograhu.ee; info@roograhu.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Raivo Kreis",
         "sadamakapteni_telefon": "+3725151426",
@@ -3532,59 +3532,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 358,
-        "sadama_nimi": "ROOPA SADAM",
-        "omanik": "Mittetulundusühing Lümanda Sadamad",
-        "omanik_telefon": "+3725149917",
-        "omanik_epost": "-",
-        "koduleht": "http://atlasadam.eu/",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.6",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.87389,
-          58.26306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 203,
-        "sadama_nimi": "PALJASSAARE SADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "ts@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ülo Kikas",
-        "sadamakapteni_telefon": "+3726318329",
-        "sadamakapteni_epost": "y.kikas@ts.ee",
-        "max_pikkus": "190.0",
-        "max_laius": "30.0",
-        "max_sygavus": "8.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70566,
-          59.45904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 1203,
         "sadama_nimi": "RUHVE SADAM",
         "omanik": "Taivo Abram",
         "omanik_telefon": "+37256485300",
-        "omanik_epost": "-",
+        "omanik_epost": "taivo@linford.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3608,7 +3560,7 @@
         "sadama_nimi": "SAAREPERA SADAM",
         "omanik": "Räpina Vallavalitsus",
         "omanik_telefon": "+3727999500",
-        "omanik_epost": "-",
+        "omanik_epost": "vald@rapina.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3632,14 +3584,14 @@
         "sadama_nimi": "SAAGA SADAM",
         "omanik": "Silvernet Group OÜ",
         "omanik_telefon": "+3725025024",
-        "omanik_epost": "sadam@saaga.ee",
+        "omanik_epost": "urmas@silvernet.eu",
         "koduleht": "www.saaga.ee",
         "sadamakapteni_nimi": "Urmas Ild",
         "sadamakapteni_telefon": "+3725025024",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_epost": "sadam@saaga.ee",
         "max_pikkus": "15.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.5"
+        "max_laius": "3.5",
+        "max_sygavus": "1.9"
       },
       "geometry": {
         "type": "Point",
@@ -3656,7 +3608,7 @@
         "sadama_nimi": "SAASTNA VANASADAM",
         "omanik": "Margo Karp",
         "omanik_telefon": "+3725030430",
-        "omanik_epost": "-",
+        "omanik_epost": "margo.karp@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3680,7 +3632,7 @@
         "sadama_nimi": "SALINÕMME KALASADAM",
         "omanik": "Randi Paat",
         "omanik_telefon": "+3725231888",
-        "omanik_epost": "-",
+        "omanik_epost": "paatrandi@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3700,11 +3652,35 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 360,
+        "sadama_nimi": "RÄPINA SADAM",
+        "omanik": "Räpina Vallavalitsus",
+        "omanik_telefon": "+3727999500",
+        "omanik_epost": "vald@rapina.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Hilhard Kirn",
+        "sadamakapteni_telefon": "+3725251225",
+        "sadamakapteni_epost": "hilhard.kirn@rapinasadam.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "7.5",
+        "max_sygavus": "1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52965,
+          58.12529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 1650,
         "sadama_nimi": "SALINÕMME PAADISADAM",
         "omanik": "Paadiühistu Salinõmme",
         "omanik_telefon": "+3725135680",
-        "omanik_epost": "-",
+        "omanik_epost": "kalaari@hot.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3724,35 +3700,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 363,
-        "sadama_nimi": "SALINÕMME SADAM",
-        "omanik": "Randi Paat",
-        "omanik_telefon": "+3725231888",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "1.1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.95037,
-          58.82695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 365,
         "sadama_nimi": "SALME JÕESADAM",
         "omanik": "Saaremaa Vallavalitsus",
         "omanik_telefon": "+3724525000;+3724525108",
-        "omanik_epost": "-",
+        "omanik_epost": "vald@saaremaavald.ee",
         "koduleht": "www.saaremaavald.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3772,11 +3724,35 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 363,
+        "sadama_nimi": "SALINÕMME SADAM",
+        "omanik": "Randi Paat",
+        "omanik_telefon": "+3725231888",
+        "omanik_epost": "paatrandi@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95037,
+          58.82695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 366,
         "sadama_nimi": "SALMISTU SADAM (EHITAMISEL)",
         "omanik": "Kuusalu Vallavalitsus",
         "omanik_telefon": "+3726066370",
-        "omanik_epost": "-",
+        "omanik_epost": "vallavalitsus@kuusalu.ee",
         "koduleht": "www.kuusalu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3800,7 +3776,7 @@
         "sadama_nimi": "SASSUKVERE SADAM",
         "omanik": "MTÜ Sassukvere Sadam",
         "omanik_telefon": "+3725163059",
-        "omanik_epost": "-",
+        "omanik_epost": "info@sassukvere.ee",
         "koduleht": "sassukvere.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3820,24 +3796,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 351,
-        "sadama_nimi": "ROHUKÜLA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus@saarteliinid.ee",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.7"
+        "sadamaregister": 372,
+        "sadama_nimi": "SOO SADAM",
+        "omanik": "Olev Rätsep",
+        "omanik_telefon": "+3725653250",
+        "omanik_epost": "olevratsep@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "6.0",
+        "max_laius": "1.6",
+        "max_sygavus": "0.4"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.42396,
-          58.90608
+          27.12047,
+          58.72258
         ]
       }
     },
@@ -3868,96 +3844,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 372,
-        "sadama_nimi": "SOO SADAM",
-        "omanik": "Olev Rätsep",
-        "omanik_telefon": "+3725653250",
-        "omanik_epost": "-",
+        "sadamaregister": 2670,
+        "sadama_nimi": "SUARU KALASADAM",
+        "omanik": "Mittetulundusühing Suaru Kalasadam",
+        "omanik_telefon": "+3725119242",
+        "omanik_epost": "ingvar.saare@gmail.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "6.0",
-        "max_laius": "1.6",
-        "max_sygavus": "0.4"
+        "sadamakapteni_nimi": "Jaanus Jürivete",
+        "sadamakapteni_telefon": "+37253328095",
+        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.12047,
-          58.72258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 305,
-        "sadama_nimi": "SAAREMAA SADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "saaremaa@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Andres Kungla",
-        "sadamakapteni_telefon": "+3726318805",
-        "sadamakapteni_epost": "a.kungla@ts.ee",
-        "max_pikkus": "200.0",
-        "max_laius": "30.0",
-        "max_sygavus": "9.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.23611,
-          58.53611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 357,
-        "sadama_nimi": "ROOMASSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Kaarel Niine",
-        "sadamakapteni_telefon": "+3724555774",
-        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.50462,
-          58.21748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 371,
-        "sadama_nimi": "SOELA SADAM",
-        "omanik": "MTÜ Soela Sadama Selts",
-        "omanik_telefon": "+37257222222",
-        "omanik_epost": "info@soelasadam.ee",
-        "koduleht": "www.soelasadam.ee",
-        "sadamakapteni_nimi": "Urmas Metsamaa",
-        "sadamakapteni_telefon": "+37253887707",
-        "sadamakapteni_epost": "urmas.bio@gmail.com",
-        "max_pikkus": "15.0",
-        "max_laius": "5.0",
-        "max_sygavus": "1.7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.59324,
-          58.61727
+          24.01613,
+          58.14102
         ]
       }
     },
@@ -4012,35 +3916,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2670,
-        "sadama_nimi": "SUARU KALASADAM",
-        "omanik": "Mittetulundusühing Suaru Kalasadam",
-        "omanik_telefon": "+3725119242",
-        "omanik_epost": "ingvar.saare@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "6.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.01613,
-          58.14102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 1251,
         "sadama_nimi": "SUUR-LOOTSI SADAM",
         "omanik": "SeaGate MTÜ",
         "omanik_telefon": "+3725036817",
-        "omanik_epost": "hardi@aidu.ee",
+        "omanik_epost": "mart.lee@agency.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
@@ -4064,7 +3944,7 @@
         "sadama_nimi": "SUURPEA SADAM",
         "omanik": "Aktsiaselts Mahtra Teeninduse",
         "omanik_telefon": "+3726218828",
-        "omanik_epost": "-",
+        "omanik_epost": "peep@mahtra.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4084,35 +3964,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 1907,
-        "sadama_nimi": "SUARU SADAM",
-        "omanik": "Kihnu Vallavalitsus",
-        "omanik_telefon": "+3724469910",
-        "omanik_epost": "sadam@kihnu.ee",
-        "koduleht": "www.kihnu.ee",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "6.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.0174,
-          58.14083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 373,
         "sadama_nimi": "SUUR-HOLMI SADAM",
         "omanik": "OÜ Modify",
         "omanik_telefon": "+3726710090",
-        "omanik_epost": "aivo@ieg.ee",
+        "omanik_epost": "aivar.lohmist@ieg.ee; ieg@ieg.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Valdo Kivi",
         "sadamakapteni_telefon": "+3725652887",
@@ -4132,11 +3988,59 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 1907,
+        "sadama_nimi": "SUARU SADAM",
+        "omanik": "Kihnu Vallavalitsus",
+        "omanik_telefon": "+3724469910",
+        "omanik_epost": "info@kihnu.ee",
+        "koduleht": "www.kihnu.ee",
+        "sadamakapteni_nimi": "Jaanus Jürivete",
+        "sadamakapteni_telefon": "+37253328095",
+        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0174,
+          58.14083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 371,
+        "sadama_nimi": "SOELA SADAM",
+        "omanik": "MTÜ Soela Sadama Selts",
+        "omanik_telefon": "+37257222222",
+        "omanik_epost": "info@soelasadam.ee",
+        "koduleht": "www.soelasadam.ee",
+        "sadamakapteni_nimi": "Urmas Metsamaa",
+        "sadamakapteni_telefon": "+37253887707",
+        "sadamakapteni_epost": "urmas.bio@gmail.com",
+        "max_pikkus": "15.0",
+        "max_laius": "5.0",
+        "max_sygavus": "1.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.59324,
+          58.61727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2058,
         "sadama_nimi": "TAALIKU SADAM",
         "omanik": "Mittetulundusühing Taaliku Sadam",
         "omanik_telefon": "+37253452698",
-        "omanik_epost": "-",
+        "omanik_epost": "urmasmagi1963@hot.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4156,24 +4060,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 368,
-        "sadama_nimi": "SILLAMÄE SADAM",
-        "omanik": "Aktsiaselts SILLAMÄE SADAM",
-        "omanik_telefon": "+3726405271;+3723929150",
-        "omanik_epost": "silport@silport.ee",
-        "koduleht": "www.silport.ee",
-        "sadamakapteni_nimi": "René Sirol",
-        "sadamakapteni_telefon": "+3725043892",
-        "sadamakapteni_epost": "r.sirol@silport.ee",
-        "max_pikkus": "275.0",
-        "max_laius": "56.0",
-        "max_sygavus": "15.2"
+        "sadamaregister": 357,
+        "sadama_nimi": "ROOMASSAARE SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Kaarel Niine",
+        "sadamakapteni_telefon": "+3724555774",
+        "sadamakapteni_epost": "roomassaare@saarteliinid.ee",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.6"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.73944,
-          59.42611
+          22.50462,
+          58.21748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 305,
+        "sadama_nimi": "SAAREMAA SADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Andres Kungla",
+        "sadamakapteni_telefon": "+3726318805",
+        "sadamakapteni_epost": "a.kungla@ts.ee",
+        "max_pikkus": "200.0",
+        "max_laius": "30.0",
+        "max_sygavus": "9.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.23611,
+          58.53611
         ]
       }
     },
@@ -4204,35 +4132,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2680,
-        "sadama_nimi": "TAMMNEEME SADAM (EHITAMISEL)",
-        "omanik": "Tammneeme Sadam MTÜ",
-        "omanik_telefon": "+3725044434",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "6.0",
-        "max_laius": "2.0",
-        "max_sygavus": "0.4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.89378,
-          59.52887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 380,
         "sadama_nimi": "TAPURLA SADAM",
         "omanik": "Sihtasutus Tapurla Sadam",
         "omanik_telefon": "+3725252434;+37256566828;+3725055375",
-        "omanik_epost": "rannasadam@gmail.com",
+        "omanik_epost": "rannakalur@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4252,24 +4156,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 375,
-        "sadama_nimi": "SVIBY SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+3725097267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
-        "max_pikkus": "50.0",
-        "max_laius": "15.0",
-        "max_sygavus": "3.2"
+        "sadamaregister": 2680,
+        "sadama_nimi": "TAMMNEEME SADAM (EHITAMISEL)",
+        "omanik": "Tammneeme Sadam MTÜ",
+        "omanik_telefon": "+3725044434",
+        "omanik_epost": "alo.tamm@eesti.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "6.0",
+        "max_laius": "2.0",
+        "max_sygavus": "0.4"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.31253,
-          58.97006
+          24.89378,
+          59.52887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 351,
+        "sadama_nimi": "ROHUKÜLA SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Andrus Maide",
+        "sadamakapteni_telefon": "+3725043888",
+        "sadamakapteni_epost": "andrus@saarteliinid.ee",
+        "max_pikkus": "120.0",
+        "max_laius": "20.0",
+        "max_sygavus": "4.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.42396,
+          58.90608
         ]
       }
     },
@@ -4280,7 +4208,7 @@
         "sadama_nimi": "TÄRKMA SADAM",
         "omanik": "Mittetulundusühing Tärkma Sadama Selts",
         "omanik_telefon": "+3725043016",
-        "omanik_epost": "-",
+        "omanik_epost": "margus.kastein@gmail.com",
         "koduleht": "www.tarkmasadam.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4294,30 +4222,6 @@
         "coordinates": [
           22.60971,
           58.69347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 709,
-        "sadama_nimi": "TALVESADAM",
-        "omanik": "VL Kaatrid OÜ",
-        "omanik_telefon": "+3725500400",
-        "omanik_epost": "info@rendikaater.ee",
-        "koduleht": "www.rendikaater.ee",
-        "sadamakapteni_nimi": "Raul Sarandi",
-        "sadamakapteni_telefon": "+3725283077",
-        "sadamakapteni_epost": "raul.sarandi@gmail.com",
-        "max_pikkus": "24.0",
-        "max_laius": "6.0",
-        "max_sygavus": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.49187,
-          58.38685
         ]
       }
     },
@@ -4348,11 +4252,59 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 709,
+        "sadama_nimi": "TALVESADAM",
+        "omanik": "VL Kaatrid OÜ",
+        "omanik_telefon": "+3725500400",
+        "omanik_epost": "info@rendikaater.ee",
+        "koduleht": "www.rendikaater.ee",
+        "sadamakapteni_nimi": "Raul Sarandi",
+        "sadamakapteni_telefon": "+3725283077",
+        "sadamakapteni_epost": "raul.sarandi@gmail.com",
+        "max_pikkus": "24.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49187,
+          58.38685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 375,
+        "sadama_nimi": "SVIBY SADAM",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Peeter Saar",
+        "sadamakapteni_telefon": "+3725097267",
+        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
+        "max_pikkus": "50.0",
+        "max_laius": "15.0",
+        "max_sygavus": "3.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.31253,
+          58.97006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 381,
         "sadama_nimi": "TILGU SADAM",
         "omanik": "Harku Vallavalitsus",
         "omanik_telefon": "+3725089340;+3726003848",
-        "omanik_epost": "tilgusadam@mail.ee",
+        "omanik_epost": "tilgusadam@mail.ee harku@harku.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Aarne Mandre",
         "sadamakapteni_telefon": "+3725089340",
@@ -4372,11 +4324,35 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 203,
+        "sadama_nimi": "PALJASSAARE SADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Ülo Kikas",
+        "sadamakapteni_telefon": "+3726318329",
+        "sadamakapteni_epost": "y.kikas@ts.ee",
+        "max_pikkus": "190.0",
+        "max_laius": "30.0",
+        "max_sygavus": "8.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70566,
+          59.45904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 704,
         "sadama_nimi": "TOPU SADAM",
         "omanik": "RANNAKALURITE SELTS TOPU",
         "omanik_telefon": "+3724732117;+3724791222",
-        "omanik_epost": "-",
+        "omanik_epost": "topusadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4396,59 +4372,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 382,
-        "sadama_nimi": "TOILA SADAM",
-        "omanik": "Toila Sadam",
-        "omanik_telefon": "+3725165384",
-        "omanik_epost": "sadam@toila.ee",
-        "koduleht": "www.toila.ee/sadam",
-        "sadamakapteni_nimi": "Simm Veiko",
-        "sadamakapteni_telefon": "+37256663590",
-        "sadamakapteni_epost": "veiko.simm@toila.ee",
-        "max_pikkus": "18.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.53371,
-          59.42666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2665,
-        "sadama_nimi": "TORI JÕESADAM",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+3724525000;+3724525108",
-        "omanik_epost": "-",
-        "koduleht": "www.saaremaavald.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "6.0",
-        "max_laius": "2.0",
-        "max_sygavus": "0.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.46772,
-          58.24567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 383,
         "sadama_nimi": "TREIMANI SADAM",
         "omanik": "Häädemeeste Vallavalitsus",
         "omanik_telefon": "+3724448890",
-        "omanik_epost": "-",
+        "omanik_epost": "toomas.abel@haademeeste.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4468,11 +4396,35 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 2665,
+        "sadama_nimi": "TORI JÕESADAM",
+        "omanik": "Saaremaa Vallavalitsus",
+        "omanik_telefon": "+3724525000;+3724525108",
+        "omanik_epost": "vald@saaremaavald.ee",
+        "koduleht": "www.saaremaavald.ee",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "6.0",
+        "max_laius": "2.0",
+        "max_sygavus": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.46772,
+          58.24567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 386,
         "sadama_nimi": "TULETORNI KAI",
         "omanik": "Andres Taukar",
         "omanik_telefon": "+3725051012",
-        "omanik_epost": "-",
+        "omanik_epost": "andres.taukar@utilitas.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4492,24 +4444,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 385,
-        "sadama_nimi": "TRIIGI",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "mati.pold@saarteliinid.ee",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Valdur Häng",
-        "sadamakapteni_telefon": "+37253428555",
-        "sadamakapteni_epost": "valdur@saarteliinid.ee",
-        "max_pikkus": "70.0",
-        "max_laius": "15.0",
-        "max_sygavus": "4.0"
+        "sadamaregister": 368,
+        "sadama_nimi": "SILLAMÄE SADAM",
+        "omanik": "Aktsiaselts SILLAMÄE SADAM",
+        "omanik_telefon": "+3726405271;+3723929150",
+        "omanik_epost": "silport@silport.ee",
+        "koduleht": "www.silport.ee",
+        "sadamakapteni_nimi": "René Sirol",
+        "sadamakapteni_telefon": "+3725043892",
+        "sadamakapteni_epost": "r.sirol@silport.ee",
+        "max_pikkus": "275.0",
+        "max_laius": "56.0",
+        "max_sygavus": "15.2"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.71956,
-          58.59193
+          27.73944,
+          59.42611
         ]
       }
     },
@@ -4520,7 +4472,7 @@
         "sadama_nimi": "TURJA SADAM",
         "omanik": "Turja Kalastajate Selts",
         "omanik_telefon": "+37256982579",
-        "omanik_epost": "-",
+        "omanik_epost": "sadamturja@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4540,11 +4492,35 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 210,
+        "sadama_nimi": "MUUGA SADAM",
+        "omanik": "aktsiaselts TALLINNA SADAM",
+        "omanik_telefon": "+3726318002;+3726318555",
+        "omanik_epost": "ts@ts.ee",
+        "koduleht": "www.ts.ee",
+        "sadamakapteni_nimi": "Ain Klaus",
+        "sadamakapteni_telefon": "+37256489700",
+        "sadamakapteni_epost": "a.klaus@ts.ee",
+        "max_pikkus": "300.0",
+        "max_laius": "48.0",
+        "max_sygavus": "16.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96667,
+          59.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 2133,
         "sadama_nimi": "TURUSADAM",
         "omanik": "OÜ Giga Investeeringud",
         "omanik_telefon": "+3727488727",
-        "omanik_epost": "-",
+        "omanik_epost": "giga@giga.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4568,7 +4544,7 @@
         "sadama_nimi": "UISUSADAM",
         "omanik": "MTÜ Orissaare Kalasadam",
         "omanik_telefon": "+3725253544",
-        "omanik_epost": "-",
+        "omanik_epost": "jlem@online.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4582,6 +4558,30 @@
         "coordinates": [
           23.08835,
           58.56029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 3826,
+        "sadama_nimi": "VAHTREPA SADAM",
+        "omanik": "MTÜ Vahtrepa väikepaadisadam",
+        "omanik_telefon": "+3725037784",
+        "omanik_epost": "lembit58@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.5",
+        "max_laius": "2.5",
+        "max_sygavus": "0.4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.02822,
+          58.88583
         ]
       }
     },
@@ -4612,78 +4612,6 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 3826,
-        "sadama_nimi": "VAHTREPA SADAM",
-        "omanik": "MTÜ Vahtrepa väikepaadisadam",
-        "omanik_telefon": "+3725037784",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.5",
-        "max_laius": "2.5",
-        "max_sygavus": "0.4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.02822,
-          58.88583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2669,
-        "sadama_nimi": "ÜRGORU PAADISADAM",
-        "omanik": "Expressline OÜ",
-        "omanik_telefon": "+3725266794",
-        "omanik_epost": "lexmond@hot.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Allan Lill",
-        "sadamakapteni_telefon": "+3725266794",
-        "sadamakapteni_epost": "allanlill78@gmail.com",
-        "max_pikkus": "12.0",
-        "max_laius": "3.5",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.99003,
-          58.37946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 400,
-        "sadama_nimi": "VÄIKE-TURU SADAM",
-        "omanik": "Veeteede Amet",
-        "omanik_telefon": "+3726205500",
-        "omanik_epost": "vta@vta.ee",
-        "koduleht": "www.vta.ee",
-        "sadamakapteni_nimi": "Lauri Toomiste",
-        "sadamakapteni_telefon": "+3727302600",
-        "sadamakapteni_epost": "lauri.toomiste@transpordiamet.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "10.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.73663,
-          58.37777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 4651,
         "sadama_nimi": "VAINUPEA SADAM",
         "omanik": "osaühing ESK Grupp",
@@ -4708,24 +4636,24 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 1962,
-        "sadama_nimi": "VALMERANNA SADAM",
-        "omanik": "mittetulundusühing Kõrkvere Paadisadam",
-        "omanik_telefon": "+3724594240",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "2.0",
-        "max_sygavus": "1.0"
+        "sadamaregister": 385,
+        "sadama_nimi": "TRIIGI",
+        "omanik": "aktsiaselts Saarte Liinid",
+        "omanik_telefon": "+3724530140",
+        "omanik_epost": "info@saarteliinid.ee",
+        "koduleht": "www.saarteliinid.ee",
+        "sadamakapteni_nimi": "Valdur Häng",
+        "sadamakapteni_telefon": "+37253428555",
+        "sadamakapteni_epost": "valdur@saarteliinid.ee",
+        "max_pikkus": "70.0",
+        "max_laius": "15.0",
+        "max_sygavus": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.23288,
-          58.49648
+          22.71956,
+          58.59193
         ]
       }
     },
@@ -4736,7 +4664,7 @@
         "sadama_nimi": "VANA-SAUGA SADAM",
         "omanik": "Kaluriühistu Merekaru",
         "omanik_telefon": "+3724443170",
-        "omanik_epost": "-",
+        "omanik_epost": "lasnmati@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4756,24 +4684,144 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 402,
-        "sadama_nimi": "VÄRATI SADAM",
-        "omanik": "Meremaa Sadam OÜ",
-        "omanik_telefon": "+3725177467",
-        "omanik_epost": "info@meremaa.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "2.3"
+        "sadamaregister": 400,
+        "sadama_nimi": "VÄIKE-TURU SADAM",
+        "omanik": "Veeteede Amet",
+        "omanik_telefon": "+3726205500",
+        "omanik_epost": "eva@vta.ee",
+        "koduleht": "www.vta.ee",
+        "sadamakapteni_nimi": "Lauri Toomiste",
+        "sadamakapteni_telefon": "+3727302600",
+        "sadamakapteni_epost": "lauri.toomiste@transpordiamet.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.98952,
-          58.30947
+          26.73663,
+          58.37777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1962,
+        "sadama_nimi": "VALMERANNA SADAM",
+        "omanik": "mittetulundusühing Kõrkvere Paadisadam",
+        "omanik_telefon": "+3724594240",
+        "omanik_epost": "ants@saarteliinid.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "2.0",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.23288,
+          58.49648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 382,
+        "sadama_nimi": "TOILA SADAM",
+        "omanik": "Toila Sadam",
+        "omanik_telefon": "+3725165384",
+        "omanik_epost": "sadam@toila.ee",
+        "koduleht": "www.toila.ee/sadam",
+        "sadamakapteni_nimi": "Simm Veiko",
+        "sadamakapteni_telefon": "+37256663590",
+        "sadamakapteni_epost": "veiko.simm@toila.ee",
+        "max_pikkus": "18.0",
+        "max_laius": "6.0",
+        "max_sygavus": "1.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53371,
+          59.42666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2669,
+        "sadama_nimi": "ÜRGORU PAADISADAM",
+        "omanik": "Expressline OÜ",
+        "omanik_telefon": "+3725266794",
+        "omanik_epost": "info@expressline.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Allan Lill",
+        "sadamakapteni_telefon": "+3725266794",
+        "sadamakapteni_epost": "allanlill78@gmail.com",
+        "max_pikkus": "12.0",
+        "max_laius": "3.5",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.99003,
+          58.37946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 389,
+        "sadama_nimi": "VASKNARVA PAADISADAM (EHIT.)",
+        "omanik": "Alutaguse Vallavalitsus",
+        "omanik_telefon": "+3723366901",
+        "omanik_epost": "info@alutagusevald.ee",
+        "koduleht": "www.alutagusevald.ee",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "10.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.74053,
+          58.99659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 6600,
+        "sadama_nimi": "VÄRSKA SADAM",
+        "omanik": "Seto Line Reisid OÜ",
+        "omanik_telefon": "+3725037616",
+        "omanik_epost": "info@setoline.ee",
+        "koduleht": "www.setoline.ee",
+        "sadamakapteni_nimi": "Mart Linnus",
+        "sadamakapteni_telefon": "+37253499980",
+        "sadamakapteni_epost": "varskasadam@setoline.ee",
+        "max_pikkus": "23.0",
+        "max_laius": "5.0",
+        "max_sygavus": "1.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62886,
+          57.9577
         ]
       }
     },
@@ -4804,30 +4852,6 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 1212,
-        "sadama_nimi": "VARESE SADAM (EHITAMISEL)",
-        "omanik": "mittetulundusühing Varese Sadam",
-        "omanik_telefon": "+3725066740",
-        "omanik_epost": "harry@windrose.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Harry Raudvere",
-        "sadamakapteni_telefon": "+3725066740",
-        "sadamakapteni_epost": "harry@windrose.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "5.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.39986,
-          58.57555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 2158,
         "sadama_nimi": "VARNJA SADAM",
         "omanik": "MTÜ Varnja Sadam",
@@ -4846,30 +4870,6 @@
         "coordinates": [
           27.24278,
           58.48851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 6600,
-        "sadama_nimi": "VÄRSKA SADAM",
-        "omanik": "Seto Line Reisid OÜ",
-        "omanik_telefon": "+3725037616",
-        "omanik_epost": "varskasadam@setoline.ee",
-        "koduleht": "www.setoline.ee",
-        "sadamakapteni_nimi": "Mart Linnus",
-        "sadamakapteni_telefon": "+37253499980",
-        "sadamakapteni_epost": "varskasadam@setoline.ee",
-        "max_pikkus": "23.0",
-        "max_laius": "5.0",
-        "max_sygavus": "1.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.62886,
-          57.9577
         ]
       }
     },
@@ -4900,24 +4900,120 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 389,
-        "sadama_nimi": "VASKNARVA PAADISADAM (EHIT.)",
-        "omanik": "Alutaguse Vallavalitsus",
-        "omanik_telefon": "+3723366901",
-        "omanik_epost": "-",
-        "koduleht": "www.alutagusevald.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "10.0",
-        "max_laius": "3.0",
+        "sadamaregister": 1212,
+        "sadama_nimi": "VARESE SADAM (EHITAMISEL)",
+        "omanik": "mittetulundusühing Varese Sadam",
+        "omanik_telefon": "+3725066740",
+        "omanik_epost": "harry@windrose.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Harry Raudvere",
+        "sadamakapteni_telefon": "+3725066740",
+        "sadamakapteni_epost": "harry@windrose.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "5.0",
         "max_sygavus": "1.5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.74053,
-          58.99659
+          22.39986,
+          58.57555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 402,
+        "sadama_nimi": "VÄRATI SADAM",
+        "omanik": "Meremaa Sadam OÜ",
+        "omanik_telefon": "+3725177467",
+        "omanik_epost": "info@meremaa.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "2.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.98952,
+          58.30947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 3870,
+        "sadama_nimi": "VEIBRI SADAM (EHITAMISEL)",
+        "omanik": "MTÜ Veibri Sadam",
+        "omanik_telefon": "+37259187171",
+        "omanik_epost": "info@alrey.ee  andrey.uafg@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.79198,
+          58.33702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 901,
+        "sadama_nimi": "VEERE VANASADAM",
+        "omanik": "Osaühing Politeia",
+        "omanik_telefon": "+3725017378",
+        "omanik_epost": "kilumets@tt.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "23.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.04989,
+          58.46083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 393,
+        "sadama_nimi": "VASKNARVA UUSSADAM",
+        "omanik": "Peipsi Trade LTD OÜ",
+        "omanik_telefon": "+3725151976",
+        "omanik_epost": "indekovara@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "18.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.73627,
+          59.00849
         ]
       }
     },
@@ -4948,179 +5044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 393,
-        "sadama_nimi": "VASKNARVA UUSSADAM",
-        "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+3725151976",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "18.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.73627,
-          59.00849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 901,
-        "sadama_nimi": "VEERE VANASADAM",
-        "omanik": "Osaühing Politeia",
-        "omanik_telefon": "+3725017378",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "23.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.04989,
-          58.46083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 388,
-        "sadama_nimi": "VEERE SADAM",
-        "omanik": "Aktsiaselts Veere Sadam",
-        "omanik_telefon": "+3725291115",
-        "omanik_epost": "veeresadam@tt.ee,asveeresadam@gmail.com, aivar@kaluri.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Rein Mäeots",
-        "sadamakapteni_telefon": "+3725050959",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "80.0",
-        "max_laius": "20.0",
-        "max_sygavus": "3.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.0505,
-          58.46167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 3870,
-        "sadama_nimi": "VEIBRI SADAM (EHITAMISEL)",
-        "omanik": "MTÜ Veibri Sadam",
-        "omanik_telefon": "+37259187171",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.79198,
-          58.33702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1150,
-        "sadama_nimi": "VERGI SADAM",
-        "omanik": "OÜ Kroonikeskus",
-        "omanik_telefon": "+3726667394;+3726667328",
-        "omanik_epost": "vergi@helter.ee",
-        "koduleht": "www.vergiport.eu",
-        "sadamakapteni_nimi": "Elmo Ehrlich",
-        "sadamakapteni_telefon": "+37255567349",
-        "sadamakapteni_epost": "elmo@kroonikeskus.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "10.0",
-        "max_sygavus": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.10046,
-          59.59978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 2645,
-        "sadama_nimi": "VIINISTU SADAM",
-        "omanik": "Viinistu Kultuuri-ja konverentsikeskus OÜ",
-        "omanik_telefon": "+37255586984",
-        "omanik_epost": "sadam@viinistu.ee",
-        "koduleht": "www.viinistu.ee",
-        "sadamakapteni_nimi": "Asko Aug",
-        "sadamakapteni_telefon": "+5139853",
-        "sadamakapteni_epost": "sadam@viinistu.ee",
-        "max_pikkus": "24.0",
-        "max_laius": "9.0",
-        "max_sygavus": "2.5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.75351,
-          59.64667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 166,
-        "sadama_nimi": "VANASADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "vanasadam@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ain Klaus",
-        "sadamakapteni_telefon": "+37256489700",
-        "sadamakapteni_epost": "a.klaus@ts.ee",
-        "max_pikkus": "340.0",
-        "max_laius": "42.0",
-        "max_sygavus": "10.3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76667,
-          59.45
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 395,
         "sadama_nimi": "VIRTSU KALASADAM",
         "omanik": "Lääneranna Vallavalitsus",
         "omanik_telefon": "+3724724630",
-        "omanik_epost": "-",
+        "omanik_epost": "vallavalitsus@laaneranna.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -5140,59 +5068,11 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 2551,
-        "sadama_nimi": "VIKATI SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+3724530140",
-        "omanik_epost": "info@slmarinas.com",
-        "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Meelis Saarlaid",
-        "sadamakapteni_telefon": "+37253358313",
-        "sadamakapteni_epost": "info@slmarinas.com",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.86205,
-          58.37183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 390,
-        "sadama_nimi": "VENE-BALTI SADAM",
-        "omanik": "BLRT Grupp Aktsiaselts",
-        "omanik_telefon": "+3726102205;+37256722295",
-        "omanik_epost": "port@blrt.ee",
-        "koduleht": "www.portvenebalti.ee",
-        "sadamakapteni_nimi": "Margus Haljaste",
-        "sadamakapteni_telefon": "+3726102205",
-        "sadamakapteni_epost": "m.haljaste@blrt.ee",
-        "max_pikkus": "200.0",
-        "max_laius": "35.0",
-        "max_sygavus": "10.6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65633,
-          59.45667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 397,
         "sadama_nimi": "VÕIDU SADAM",
         "omanik": "Pärnu Linnavalitsus",
         "omanik_telefon": "+3724448200",
-        "omanik_epost": "-",
+        "omanik_epost": "linnavalitsus@parnu.ee",
         "koduleht": "www.parnu.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -5206,6 +5086,78 @@
         "coordinates": [
           24.02022,
           58.30849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 2645,
+        "sadama_nimi": "VIINISTU SADAM",
+        "omanik": "Viinistu Kultuuri-ja konverentsikeskus OÜ",
+        "omanik_telefon": "+37255586984",
+        "omanik_epost": "viinistuhotell@gmail.com",
+        "koduleht": "www.viinistu.ee",
+        "sadamakapteni_nimi": "Asko Aug",
+        "sadamakapteni_telefon": "+5139853",
+        "sadamakapteni_epost": "sadam@viinistu.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "9.0",
+        "max_sygavus": "2.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.75351,
+          59.64667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 1150,
+        "sadama_nimi": "VERGI SADAM",
+        "omanik": "OÜ Kroonikeskus",
+        "omanik_telefon": "+3726667394;+3726667328",
+        "omanik_epost": "info@kroonikeskus.ee",
+        "koduleht": "www.vergiport.eu",
+        "sadamakapteni_nimi": "Elmo Ehrlich",
+        "sadamakapteni_telefon": "+37255567349",
+        "sadamakapteni_epost": "elmo@kroonikeskus.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "10.0",
+        "max_sygavus": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10046,
+          59.59978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 388,
+        "sadama_nimi": "VEERE SADAM",
+        "omanik": "Aktsiaselts Veere Sadam",
+        "omanik_telefon": "+3725291115",
+        "omanik_epost": "asveeresadam@gmail.com,merike@ulemistearimaja.ee,aivar@kaluri.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Rein Mäeots",
+        "sadamakapteni_telefon": "+3725050959",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "80.0",
+        "max_laius": "20.0",
+        "max_sygavus": "3.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0505,
+          58.46167
         ]
       }
     },
@@ -5236,24 +5188,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 398,
-        "sadama_nimi": "VÕISTE SADAM",
-        "omanik": "Võiste Sadamaühing",
-        "omanik_telefon": "+3725527892",
-        "omanik_epost": "argomengel@gmail.com",
+        "sadamaregister": 401,
+        "sadama_nimi": "VÕÕPSU SADAM",
+        "omanik": "Räpina Vallavalitsus",
+        "omanik_telefon": "+3727999500",
+        "omanik_epost": "vald@rapina.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Argo Mengel",
-        "sadamakapteni_telefon": "+3725527892",
-        "sadamakapteni_epost": "argomengel@gmail.com",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.9"
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "13.5",
+        "max_laius": "5.0",
+        "max_sygavus": "1.2"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.46833,
-          58.215
+          27.54512,
+          58.08223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 399,
+        "sadama_nimi": "VÕRKAIA SADAM",
+        "omanik": "Kalle Kreis",
+        "omanik_telefon": "+3725050090",
+        "omanik_epost": "kreis2002@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.0",
+        "max_sygavus": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.19851,
+          58.68206
         ]
       }
     },
@@ -5284,72 +5260,48 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 401,
-        "sadama_nimi": "VÕÕPSU SADAM",
-        "omanik": "Räpina Vallavalitsus",
-        "omanik_telefon": "+3727999500",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "13.5",
-        "max_laius": "5.0",
-        "max_sygavus": "1.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.54512,
-          58.08223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 399,
-        "sadama_nimi": "VÕRKAIA SADAM",
-        "omanik": "Kalle Kreis",
-        "omanik_telefon": "+3725050090",
-        "omanik_epost": "-",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.0",
-        "max_sygavus": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.19851,
-          58.68206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 394,
-        "sadama_nimi": "VIRTSU SADAM",
+        "sadamaregister": 2551,
+        "sadama_nimi": "VIKATI SADAM",
         "omanik": "aktsiaselts Saarte Liinid",
         "omanik_telefon": "+3724530140",
         "omanik_epost": "info@saarteliinid.ee",
         "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Valdur Häng",
-        "sadamakapteni_telefon": "+37253428555",
-        "sadamakapteni_epost": "valdur@saarteliinid.ee",
-        "max_pikkus": "130.0",
-        "max_laius": "20.0",
-        "max_sygavus": "6.5"
+        "sadamakapteni_nimi": "Meelis Saarlaid",
+        "sadamakapteni_telefon": "+37253358313",
+        "sadamakapteni_epost": "info@slmarinas.com",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.8"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.51,
-          58.575
+          21.86205,
+          58.37183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 398,
+        "sadama_nimi": "VÕISTE SADAM",
+        "omanik": "Võiste Sadamaühing",
+        "omanik_telefon": "+3725527892",
+        "omanik_epost": "argomengel@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Argo Mengel",
+        "sadamakapteni_telefon": "+3725527892",
+        "sadamakapteni_epost": "argomengel@gmail.com",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46833,
+          58.215
         ]
       }
     },
@@ -5384,7 +5336,7 @@
         "sadama_nimi": "WESTMERI JAHISADAM",
         "omanik": "Osaühing Morobell",
         "omanik_telefon": "+3724725515",
-        "omanik_epost": "westmer@morobell.ee",
+        "omanik_epost": "info@morobell.ee",
         "koduleht": "http://ain366.wixsite.com/westmer5",
         "sadamakapteni_nimi": "Karel Saarkopli",
         "sadamakapteni_telefon": "+53039129",
