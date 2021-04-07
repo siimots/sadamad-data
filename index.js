@@ -4,21 +4,22 @@ const dmsConversion = require("dms-conversion");
 const DEBUG = false;
 
 const options = {
-  "headers": {
-    "accept": "application/json, text/plain, */*",
+  headers: {
+    accept: "application/json, text/plain, */*",
     "accept-language": "en-GB,en;q=0.9",
     "cache-control": "no-cache",
-    "pragma": "no-cache",
+    pragma: "no-cache",
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
-    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36"
+    "user-agent":
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36",
   },
-  "referrer": "https://www.sadamaregister.ee/",
-  "referrerPolicy": "strict-origin-when-cross-origin",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
+  referrer: "https://www.sadamaregister.ee/",
+  referrerPolicy: "strict-origin-when-cross-origin",
+  body: null,
+  method: "GET",
+  mode: "cors",
 };
 
 const fetchPorts = async () => {
@@ -99,6 +100,8 @@ const fetchPort = async (port) => {
       veesoidukiMaxPikkus,
       veesoidukiMaxLaius,
       veesoidukiMaxSyvis,
+
+      muutmineKp,
     } = portMainData;
 
     let omanik = "-";
@@ -172,6 +175,7 @@ const fetchPort = async (port) => {
         max_pikkus: max_pikkus,
         max_laius: max_laius,
         max_sygavus: max_sygavus,
+        modified_date: muutmineKp
       },
       geometry: {
         type: "Point",
