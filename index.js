@@ -45,6 +45,13 @@ const fetchPorts = async () => {
         geojson.features.push(feature);
 
         if (i == ports.length - 1) {
+          geojson.features.sort(function (a, b) {
+            return (
+              parseFloat(a.properties.sadamaregister) -
+              parseFloat(b.properties.sadamaregister)
+            );
+          });
+
           fs.writeFile(
             "public/raw.json",
             JSON.stringify(geojson, null, 2),
@@ -177,7 +184,7 @@ const fetchPort = async (port) => {
         max_pikkus: max_pikkus,
         max_laius: max_laius,
         max_sygavus: max_sygavus,
-        modified_date: muutmineKp
+        modified_date: muutmineKp,
       },
       geometry: {
         type: "Point",
