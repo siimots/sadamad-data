@@ -466,7 +466,7 @@
         "max_pikkus": "340.0",
         "max_laius": "42.0",
         "max_sygavus": "10.3",
-        "modified_date": "31.07.2020"
+        "modified_date": "10.06.2021"
       },
       "geometry": {
         "type": "Point",
@@ -616,7 +616,7 @@
         "max_pikkus": "190.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "08.01.2021"
+        "modified_date": "10.06.2021"
       },
       "geometry": {
         "type": "Point",
@@ -3634,14 +3634,14 @@
         "omanik": "Neeme Marina OÜ",
         "omanik_telefon": "+3725073944",
         "omanik_epost": "info@neememarina.ee",
-        "koduleht": "-",
+        "koduleht": "www.neememarina.ee",
         "sadamakapteni_nimi": "Anti Nõmmela",
         "sadamakapteni_telefon": "+37256973676",
         "sadamakapteni_epost": "info@neememarina.ee.",
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "04.09.2019"
+        "modified_date": "06.07.2021"
       },
       "geometry": {
         "type": "Point",

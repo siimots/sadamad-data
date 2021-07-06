@@ -84,8 +84,6 @@ const fetchPort = async (port) => {
 
   const url = `https://www.sadamaregister.ee/ports/${id}/json`;
 
-  if (id == 166) console.log(id, name);
-
   try {
     const response = await fetch(url, options);
     const json = await response.json();
