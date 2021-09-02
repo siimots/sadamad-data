@@ -91,7 +91,7 @@
         "max_pikkus": "35.0",
         "max_laius": "6.0",
         "max_sygavus": "1.9",
-        "modified_date": "03.06.2020"
+        "modified_date": "31.08.2021"
       },
       "geometry": {
         "type": "Point",
@@ -991,7 +991,7 @@
         "max_pikkus": "200.0",
         "max_laius": "30.0",
         "max_sygavus": "9.5",
-        "modified_date": "31.07.2020"
+        "modified_date": "17.08.2021"
       },
       "geometry": {
         "type": "Point",
@@ -1483,7 +1483,7 @@
         "sadama_nimi": "LÄÄTSA PAADISADAM",
         "omanik": "kalurite ühendus \"Läätsa Rand\"",
         "omanik_telefon": "+3724571639",
-        "omanik_epost": "marujaan@hot.ee",
+        "omanik_epost": "hans.varris@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -1558,7 +1558,7 @@
         "sadama_nimi": "NASVA SADAM",
         "omanik": "Baltic Workboats AS",
         "omanik_telefon": "+3725096667",
-        "omanik_epost": "info@bwb.ee",
+        "omanik_epost": "teade@bwb.ee",
         "koduleht": "www.balticworkboats.ee",
         "sadamakapteni_nimi": "Gregor Elm",
         "sadamakapteni_telefon": "+37253432489",
@@ -2041,7 +2041,7 @@
         "max_pikkus": "105.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "03.06.2020"
+        "modified_date": "31.08.2021"
       },
       "geometry": {
         "type": "Point",
@@ -2666,7 +2666,7 @@
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "04.06.2018"
+        "modified_date": "01.09.2021"
       },
       "geometry": {
         "type": "Point",
@@ -2716,7 +2716,7 @@
         "max_pikkus": "50.0",
         "max_laius": "15.0",
         "max_sygavus": "3.2",
-        "modified_date": "22.01.2021"
+        "modified_date": "16.08.2021"
       },
       "geometry": {
         "type": "Point",
@@ -3116,7 +3116,7 @@
         "max_pikkus": "130.0",
         "max_laius": "20.0",
         "max_sygavus": "6.5",
-        "modified_date": "04.03.2021"
+        "modified_date": "18.08.2021"
       },
       "geometry": {
         "type": "Point",
@@ -4512,11 +4512,11 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Mihkel Undrest",
         "sadamakapteni_telefon": "+3725145578",
-        "sadamakapteni_epost": "vrhl@hot.ee",
+        "sadamakapteni_epost": "mihkel@undrest.ee",
         "max_pikkus": "24.0",
         "max_laius": "5.0",
         "max_sygavus": "2.8",
-        "modified_date": "18.03.2019"
+        "modified_date": "26.08.2021"
       },
       "geometry": {
         "type": "Point",
@@ -5391,7 +5391,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.5",
         "max_sygavus": "0.6",
-        "modified_date": "17.04.2019"
+        "modified_date": "19.08.2021"
       },
       "geometry": {
         "type": "Point",
