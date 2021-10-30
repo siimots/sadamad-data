@@ -861,12 +861,12 @@
         "omanik_epost": "info@kundasadam.ee",
         "koduleht": "www.kundasadam.ee",
         "sadamakapteni_nimi": "Eiki Orgmets",
-        "sadamakapteni_telefon": "+3723229861",
+        "sadamakapteni_telefon": "+37253477861",
         "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
         "max_pikkus": "150.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "11.03.2021"
+        "modified_date": "18.10.2021"
       },
       "geometry": {
         "type": "Point",
@@ -5507,7 +5507,7 @@
         "sadamaregister": 3934,
         "sadama_nimi": "LUUNJA JÕESADAM",
         "omanik": "Sihtasutus Luunja Jõesadam",
-        "omanik_telefon": "+5166213",
+        "omanik_telefon": "+3727417319",
         "omanik_epost": "sadam@luunja.ee",
         "koduleht": "www.luunja.ee",
         "sadamakapteni_nimi": "Kaspar Killak",
@@ -5641,7 +5641,7 @@
         "max_pikkus": "23.0",
         "max_laius": "5.0",
         "max_sygavus": "1.5",
-        "modified_date": "08.02.2021"
+        "modified_date": "19.10.2021"
       },
       "geometry": {
         "type": "Point",
