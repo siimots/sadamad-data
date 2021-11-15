@@ -2480,7 +2480,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 366,
-        "sadama_nimi": "SALMISTU SADAM (EHITAMISEL)",
+        "sadama_nimi": "SALMISTU SADAM",
         "omanik": "Kuusalu Vallavalitsus",
         "omanik_telefon": "+3726066370",
         "omanik_epost": "vallavalitsus@kuusalu.ee",
@@ -2489,15 +2489,15 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "13.5",
-        "max_laius": "3.0",
-        "max_sygavus": "0.5",
-        "modified_date": "23.11.2020"
+        "max_laius": "3.5",
+        "max_sygavus": "1.7",
+        "modified_date": "04.11.2021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.36805,
-          59.4972
+          25.3674,
+          59.49711
         ]
       }
     },
@@ -4216,7 +4216,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "13.05.2020"
+        "modified_date": "04.11.2021"
       },
       "geometry": {
         "type": "Point",
@@ -5284,14 +5284,14 @@
         "omanik": "Mittetulundusühing Suaru Kalasadam",
         "omanik_telefon": "+3725119242",
         "omanik_epost": "ingvar.saare@gmail.com",
-        "koduleht": "-",
+        "koduleht": "https://kihnu.kovtp.ee/suaru-kalasadam",
         "sadamakapteni_nimi": "Jaanus Jürivete",
         "sadamakapteni_telefon": "+37253328095",
         "sadamakapteni_epost": "jyrivete@gmail.com",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "08.03.2018"
+        "modified_date": "08.11.2021"
       },
       "geometry": {
         "type": "Point",
