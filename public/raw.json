@@ -4131,23 +4131,23 @@
       "properties": {
         "sadamaregister": 1600,
         "sadama_nimi": "VÕSU SADAM",
-        "omanik": "MITTETULUNDUSÜHING VÕSU SADAM",
-        "omanik_telefon": "+3725058145",
-        "omanik_epost": "info@vosusadam.ee",
-        "koduleht": "https://vosusadam.ee/",
+        "omanik": "Haljala Vallavalitsus",
+        "omanik_telefon": "+3723258630",
+        "omanik_epost": "haljala@haljala.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Andrus Aasmäe",
         "sadamakapteni_telefon": "+3725058145",
         "sadamakapteni_epost": "info@vosusadam.ee",
         "max_pikkus": "10.0",
         "max_laius": "4.0",
         "max_sygavus": "1.3",
-        "modified_date": "14.01.2019"
+        "modified_date": "18.11.2021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.9723,
-          59.5854
+          25.97087,
+          59.58616
         ]
       }
     },
@@ -5158,15 +5158,15 @@
         "sadama_nimi": "VIINISTU SADAM",
         "omanik": "Viinistu Kultuuri-ja konverentsikeskus OÜ",
         "omanik_telefon": "+37255586984",
-        "omanik_epost": "viinistuhotell@gmail.com",
+        "omanik_epost": "info@viinistu.ee",
         "koduleht": "www.viinistu.ee",
         "sadamakapteni_nimi": "Asko Aug",
-        "sadamakapteni_telefon": "+5139853",
+        "sadamakapteni_telefon": "+3725139853",
         "sadamakapteni_epost": "sadam@viinistu.ee",
         "max_pikkus": "24.0",
         "max_laius": "9.0",
-        "max_sygavus": "2.5",
-        "modified_date": "31.12.2020"
+        "max_sygavus": "2.2",
+        "modified_date": "25.11.2021"
       },
       "geometry": {
         "type": "Point",
@@ -5641,7 +5641,7 @@
         "max_pikkus": "23.0",
         "max_laius": "5.0",
         "max_sygavus": "1.5",
-        "modified_date": "19.10.2021"
+        "modified_date": "16.11.2021"
       },
       "geometry": {
         "type": "Point",
@@ -5698,6 +5698,56 @@
         "coordinates": [
           25.45773,
           59.50216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 7151,
+        "sadama_nimi": "KADARIKU SADAM",
+        "omanik": "Enriko Sala",
+        "omanik_telefon": "+3725022251",
+        "omanik_epost": "enriko@desala.ee",
+        "koduleht": "www.facebook.com/kadarikusadam",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "8.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.3",
+        "modified_date": "23.11.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.68449,
+          58.45434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 7401,
+        "sadama_nimi": "SITME SADAM",
+        "omanik": "SITME RANNA SELTS",
+        "omanik_telefon": "+3725135104",
+        "omanik_epost": "tiiu@vaher.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "4.5",
+        "max_laius": "1.5",
+        "max_sygavus": "0.8",
+        "modified_date": "29.11.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.19963,
+          58.51087
         ]
       }
     }
