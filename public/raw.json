@@ -156,17 +156,17 @@
       "properties": {
         "sadamaregister": 152,
         "sadama_nimi": "HAAPSALU VESKIVIIGI",
-        "omanik": "ANKRUPOI OÜ",
-        "omanik_telefon": "+3726710100",
-        "omanik_epost": "aivar@ieg.ee; valdo.kivi@ieg.ee; ieg@ieg.ee",
-        "koduleht": "www.veskiviigi.ee",
+        "omanik": "GHM Halduse OÜ",
+        "omanik_telefon": "+3725652887",
+        "omanik_epost": "valdo.kivi@ieg.ee",
+        "koduleht": "www.grandholmmarina.ee",
         "sadamakapteni_nimi": "Valdo Kivi",
         "sadamakapteni_telefon": "+3725652887",
         "sadamakapteni_epost": "valdo.kivi@ieg.ee",
         "max_pikkus": "18.0",
         "max_laius": "5.0",
         "max_sygavus": "2.1",
-        "modified_date": "27.08.2020"
+        "modified_date": "09.12.2021"
       },
       "geometry": {
         "type": "Point",
@@ -4781,17 +4781,17 @@
       "properties": {
         "sadamaregister": 2151,
         "sadama_nimi": "KUDRUKÜLA SADAM",
-        "omanik": "Irina Fjodorova",
-        "omanik_telefon": "+37254599559",
-        "omanik_epost": "fve2808@gmail.com",
+        "omanik": "INNA KUKSOVA",
+        "omanik_telefon": "+37256898212",
+        "omanik_epost": "zahharova.inna@mail.ru",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "19.5",
-        "max_laius": "5.0",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "31.01.2017"
+        "modified_date": "10.12.2021"
       },
       "geometry": {
         "type": "Point",
