@@ -113,10 +113,10 @@
         "sadamakapteni_nimi": "Gunnar Kellamov",
         "sadamakapteni_telefon": "+37256921417",
         "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
-        "max_pikkus": "170.0",
-        "max_laius": "25.0",
-        "max_sygavus": "9.2",
-        "modified_date": "26.03.2021"
+        "max_pikkus": "190.0",
+        "max_laius": "31.0",
+        "max_sygavus": "10.2",
+        "modified_date": "17.12.2021"
       },
       "geometry": {
         "type": "Point",
@@ -3379,31 +3379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 405,
-        "sadama_nimi": "ÖSTERBY SADAM",
-        "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724724350",
-        "omanik_epost": "vv@laanenigula.ee",
-        "koduleht": "www.laanenigula.ee",
-        "sadamakapteni_nimi": "Jalmar Kann",
-        "sadamakapteni_telefon": "+3725655350",
-        "sadamakapteni_epost": "jaxmar@hot.ee",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "0.8",
-        "modified_date": "25.03.2021"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.51786,
-          58.97555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 450,
         "sadama_nimi": "EISMA SADAM",
         "omanik": "Mittetulundusühing EISMA SADAM",
@@ -3757,7 +3732,7 @@
         "sadamaregister": 1150,
         "sadama_nimi": "VERGI SADAM",
         "omanik": "OÜ Kroonikeskus",
-        "omanik_telefon": "+3726667394;+3726667328",
+        "omanik_telefon": "+3726667328",
         "omanik_epost": "info@kroonikeskus.ee",
         "koduleht": "www.vergiport.eu",
         "sadamakapteni_nimi": "Elmo Ehrlich",
