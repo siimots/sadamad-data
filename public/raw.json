@@ -807,16 +807,16 @@
         "sadamaregister": 212,
         "sadama_nimi": "KOGUVA SADAM",
         "omanik": "mittetulundusühing Ankur",
-        "omanik_telefon": "+3724548887",
+        "omanik_telefon": "+3725133446",
         "omanik_epost": "ragnar@postman.ee",
-        "koduleht": "www.koguva.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Ragnar Põllu",
         "sadamakapteni_telefon": "+3725133446",
-        "sadamakapteni_epost": "info@koguva.ee",
-        "max_pikkus": "20.0",
+        "sadamakapteni_epost": "ragnar@postman.ee",
+        "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.7",
-        "modified_date": "29.05.2018"
+        "max_sygavus": "1.2",
+        "modified_date": "13.01.2022"
       },
       "geometry": {
         "type": "Point",
@@ -866,7 +866,7 @@
         "max_pikkus": "150.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "18.10.2021"
+        "modified_date": "13.01.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1856,7 +1856,7 @@
       "properties": {
         "sadamaregister": 341,
         "sadama_nimi": "RAJA VÄIKESADAM",
-        "omanik": "Osaühing Katroni",
+        "omanik": "MTÜ \"Raja Sadam\"",
         "omanik_telefon": "+3725061001",
         "omanik_epost": "grigori.blinnikov@mail.ee",
         "koduleht": "-",
@@ -1866,13 +1866,13 @@
         "max_pikkus": "11.7",
         "max_laius": "3.1",
         "max_sygavus": "1.0",
-        "modified_date": "19.06.2015"
+        "modified_date": "25.01.2022"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.94598,
-          58.8289
+          26.94616,
+          58.82893
         ]
       }
     },
@@ -2156,7 +2156,7 @@
       "properties": {
         "sadamaregister": 353,
         "sadama_nimi": "NOBLESSNERI SADAM",
-        "omanik": "BLRT Grupp Aktsiaselts",
+        "omanik": "BLRT Grupp AS",
         "omanik_telefon": "+3726102205;+37256722295",
         "omanik_epost": "m.haljaste@blrt.ee",
         "koduleht": "www.portvenebalti.ee",
@@ -3056,7 +3056,7 @@
       "properties": {
         "sadamaregister": 390,
         "sadama_nimi": "VENE-BALTI SADAM",
-        "omanik": "BLRT Grupp Aktsiaselts",
+        "omanik": "BLRT Grupp AS",
         "omanik_telefon": "+3726102205;+37256722295",
         "omanik_epost": "m.haljaste@blrt.ee",
         "koduleht": "www.portvenebalti.ee",
@@ -3373,6 +3373,31 @@
         "coordinates": [
           23.52542,
           58.95906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 405,
+        "sadama_nimi": "ÖSTERBY SADAM",
+        "omanik": "Lääne-Nigula Vallavalitsus",
+        "omanik_telefon": "+3724724350",
+        "omanik_epost": "vv@laanenigula.ee",
+        "koduleht": "www.laanenigula.ee",
+        "sadamakapteni_nimi": "Jalmar Kann",
+        "sadamakapteni_telefon": "+3725655350",
+        "sadamakapteni_epost": "jaxmar@hot.ee",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.8",
+        "modified_date": "25.03.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51786,
+          58.97555
         ]
       }
     },
