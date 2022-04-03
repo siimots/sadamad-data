@@ -191,7 +191,7 @@
         "max_pikkus": "118.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "05.04.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +791,7 @@
         "max_pikkus": "60.0",
         "max_laius": "15.0",
         "max_sygavus": "3.3",
-        "modified_date": "24.09.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1091,7 +1091,7 @@
         "max_pikkus": "45.0",
         "max_laius": "13.0",
         "max_sygavus": "3.5",
-        "modified_date": "30.09.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1341,7 @@
         "max_pikkus": "45.0",
         "max_laius": "13.0",
         "max_sygavus": "3.5",
-        "modified_date": "30.09.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1432,7 +1432,7 @@
         "sadamaregister": 323,
         "sadama_nimi": "MUSTVEE SADAM",
         "omanik": "Mustvee Vallavalitsus",
-        "omanik_telefon": "+3727726100",
+        "omanik_telefon": "+3727726161",
         "omanik_epost": "info@mustvee.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Sergei Uleksin",
@@ -1441,13 +1441,13 @@
         "max_pikkus": "23.9",
         "max_laius": "10.0",
         "max_sygavus": "1.1",
-        "modified_date": "08.06.2021"
+        "modified_date": "23.03.2022"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.94996,
-          58.84722
+          26.9508,
+          58.84708
         ]
       }
     },
@@ -1516,7 +1516,7 @@
         "max_pikkus": "60.0",
         "max_laius": "15.0",
         "max_sygavus": "3.5",
-        "modified_date": "22.01.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2116,7 +2116,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "05.04.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2156,17 +2156,17 @@
       "properties": {
         "sadamaregister": 353,
         "sadama_nimi": "NOBLESSNERI SADAM",
-        "omanik": "BLRT Grupp AS",
-        "omanik_telefon": "+3726102205;+37256722295",
-        "omanik_epost": "m.haljaste@blrt.ee",
-        "koduleht": "www.portvenebalti.ee",
+        "omanik": "Port Noblessner OÜ",
+        "omanik_telefon": "+37256888825;+3726102205",
+        "omanik_epost": "port@noblessner.ee",
+        "koduleht": "www.noblessner.ee",
         "sadamakapteni_nimi": "Margus Haljaste",
-        "sadamakapteni_telefon": "+3725251680;+3726102205",
-        "sadamakapteni_epost": "indrek.orav@blrt.ee / m.haljaste@blrt.ee",
+        "sadamakapteni_telefon": "+37256888825;+3726102205",
+        "sadamakapteni_epost": "port@noblessner.ee; port@blrt.ee",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "4.0",
-        "modified_date": "14.02.2020"
+        "modified_date": "30.03.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2682,16 +2682,16 @@
         "sadamaregister": 374,
         "sadama_nimi": "SUURSADAM",
         "omanik": "AS Hiiu Kalur",
-        "omanik_telefon": "+3724632031;+3724632104",
+        "omanik_telefon": "+3724632031",
         "omanik_epost": "tanel@hiiukalur.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Marek Kiiver",
-        "sadamakapteni_telefon": "+3724622711",
-        "sadamakapteni_epost": "lehtmasadama@dagomar.hiiumaa.ee",
+        "sadamakapteni_telefon": "+3725296696",
+        "sadamakapteni_epost": "marek.kiiver@gmail.com",
         "max_pikkus": "35.0",
         "max_laius": "7.0",
         "max_sygavus": "2.6",
-        "modified_date": "11.01.2019"
+        "modified_date": "29.03.2022"
       },
       "geometry": {
         "type": "Point",
@@ -4241,7 +4241,7 @@
         "max_pikkus": "40.0",
         "max_laius": "10.0",
         "max_sygavus": "1.7",
-        "modified_date": "22.01.2021"
+        "modified_date": "01.04.2022"
       },
       "geometry": {
         "type": "Point",
@@ -5748,6 +5748,56 @@
         "coordinates": [
           23.19963,
           58.51087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 8350,
+        "sadama_nimi": "KAKRI KALASADAM",
+        "omanik": "Kaluritalude ühistu Kakri",
+        "omanik_telefon": "+3725233029",
+        "omanik_epost": "andres19@hot.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Tõnis Teemets",
+        "sadamakapteni_telefon": "+3725279424",
+        "sadamakapteni_epost": "tonis.teemets@mail.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "7.0",
+        "max_sygavus": "1.3",
+        "modified_date": "30.03.2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.90631,
+          58.97631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 8351,
+        "sadama_nimi": "KÄSMU MAJAKA SADAM",
+        "omanik": "Mittetulundusühing Käsmu Majaka Sadam",
+        "omanik_telefon": "+3725047947",
+        "omanik_epost": "tarmotamm27@gmail.com",
+        "koduleht": "www.käsmusadam.ee",
+        "sadamakapteni_nimi": "Tarmo Tamm",
+        "sadamakapteni_telefon": "+3725047908",
+        "sadamakapteni_epost": "tarmotamm27@gmail.com",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.5",
+        "modified_date": "31.03.2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.92372,
+          59.60412
         ]
       }
     }
