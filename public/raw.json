@@ -3160,13 +3160,13 @@
         "omanik_telefon": "+3724775380",
         "omanik_epost": "kmet@kmet.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Mardo Leiumaa",
+        "sadamakapteni_telefon": "+3725030259",
+        "sadamakapteni_epost": "mardo@kmet.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.7",
-        "modified_date": "10.05.2021"
+        "modified_date": "19.05.2022"
       },
       "geometry": {
         "type": "Point",
@@ -5285,13 +5285,13 @@
         "omanik_telefon": "+3725119242",
         "omanik_epost": "ingvar.saare@gmail.com",
         "koduleht": "https://kihnu.kovtp.ee/suaru-kalasadam",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+37253328095",
-        "sadamakapteni_epost": "jyrivete@gmail.com",
+        "sadamakapteni_nimi": "Ingvar Saare",
+        "sadamakapteni_telefon": "+3725119242",
+        "sadamakapteni_epost": "ingvar.saare@gmail.com",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "08.11.2021"
+        "modified_date": "12.05.2022"
       },
       "geometry": {
         "type": "Point",
