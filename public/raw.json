@@ -516,7 +516,7 @@
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.8",
-        "modified_date": "11.03.2021"
+        "modified_date": "25.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -606,17 +606,17 @@
       "properties": {
         "sadamaregister": 203,
         "sadama_nimi": "PALJASSAARE SADAM",
-        "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+3726318002;+3726318555",
-        "omanik_epost": "ts@ts.ee",
-        "koduleht": "www.ts.ee",
-        "sadamakapteni_nimi": "Ain Klaus",
-        "sadamakapteni_telefon": "+37256489700",
-        "sadamakapteni_epost": "a.klaus@ts.ee",
+        "omanik": "OÜ Hundipea",
+        "omanik_telefon": "+37251997804;+37251992509",
+        "omanik_epost": "harbour@hundipea.ee ; juhtimiskeskus@hundipea.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Stanislav Vassenin",
+        "sadamakapteni_telefon": "+37251997804",
+        "sadamakapteni_epost": "stanislav.vassenin@hundipea.ee",
         "max_pikkus": "190.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "10.06.2021"
+        "modified_date": "12.08.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
         "max_pikkus": "15.0",
         "max_laius": "3.5",
         "max_sygavus": "1.7",
-        "modified_date": "24.10.2019"
+        "modified_date": "04.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1541,7 +1541,7 @@
         "max_pikkus": "140.0",
         "max_laius": "24.0",
         "max_sygavus": "6.3",
-        "modified_date": "26.03.2021"
+        "modified_date": "06.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2116,7 +2116,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "29.04.2022"
+        "modified_date": "26.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2281,17 +2281,17 @@
       "properties": {
         "sadamaregister": 358,
         "sadama_nimi": "ROOPA SADAM",
-        "omanik": "ATLA SADAM MTÜ",
-        "omanik_telefon": "+3725141492",
-        "omanik_epost": "toivo.naagel@mail.ee",
-        "koduleht": "http://atlasadam.eu/",
+        "omanik": "Karala Vabatahtlik Tuletõrje Selts",
+        "omanik_telefon": "+37253403242",
+        "omanik_epost": "mihkelraud@hotmail.com",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.6",
         "max_sygavus": "0.8",
-        "modified_date": "15.06.2018"
+        "modified_date": "05.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2881,9 +2881,9 @@
       "properties": {
         "sadamaregister": 383,
         "sadama_nimi": "TREIMANI SADAM",
-        "omanik": "Häädemeeste Vallavalitsus",
-        "omanik_telefon": "+3724448890",
-        "omanik_epost": "siim.suursild@haademeeste.ee",
+        "omanik": "OÜ Sannu Investeeringud",
+        "omanik_telefon": "+3725114860",
+        "omanik_epost": "sander.rebane@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2891,7 +2891,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.7",
-        "modified_date": "19.12.2018"
+        "modified_date": "17.08.2022"
       },
       "geometry": {
         "type": "Point",
@@ -3013,10 +3013,10 @@
         "sadamakapteni_nimi": "Rein Mäeots",
         "sadamakapteni_telefon": "+3725050959",
         "sadamakapteni_epost": "aivar@kaluri.ee",
-        "max_pikkus": "80.0",
+        "max_pikkus": "35.0",
         "max_laius": "20.0",
         "max_sygavus": "3.5",
-        "modified_date": "06.09.2021"
+        "modified_date": "28.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -3240,8 +3240,8 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.0",
-        "modified_date": "26.11.2018"
+        "max_sygavus": "0.8",
+        "modified_date": "13.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3441,7 @@
         "max_pikkus": "23.9",
         "max_laius": "9.0",
         "max_sygavus": "3.0",
-        "modified_date": "14.09.2021"
+        "modified_date": "11.08.2022"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3666,7 @@
         "max_pikkus": "13.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "20.04.2022"
+        "modified_date": "16.08.2022"
       },
       "geometry": {
         "type": "Point",
@@ -3956,7 +3956,7 @@
       "properties": {
         "sadamaregister": 1251,
         "sadama_nimi": "SUUR-LOOTSI SADAM",
-        "omanik": "SeaGate MTÜ",
+        "omanik": "SeaGate MTÜ Kustutatud (08.10.2019)",
         "omanik_telefon": "+3725031805",
         "omanik_epost": "mart.lee@agency.ee",
         "koduleht": "-",
@@ -4416,7 +4416,7 @@
         "max_pikkus": "15.0",
         "max_laius": "3.5",
         "max_sygavus": "1.9",
-        "modified_date": "15.03.2021"
+        "modified_date": "07.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -4915,8 +4915,8 @@
         "sadamakapteni_epost": "meelis.saarlaid@saarteliinid.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
-        "modified_date": "25.09.2019"
+        "max_sygavus": "1.2",
+        "modified_date": "05.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -5090,8 +5090,8 @@
         "sadamakapteni_epost": "meelis.saarlaid@saarteliinid.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
-        "modified_date": "28.05.2018"
+        "max_sygavus": "1.2",
+        "modified_date": "05.07.2022"
       },
       "geometry": {
         "type": "Point",
@@ -5491,7 +5491,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "27.06.2019"
+        "modified_date": "28.07.2022"
       },
       "geometry": {
         "type": "Point",
