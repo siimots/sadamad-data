@@ -5507,16 +5507,16 @@
         "sadamaregister": 3934,
         "sadama_nimi": "LUUNJA JÕESADAM",
         "omanik": "Sihtasutus Luunja Jõesadam",
-        "omanik_telefon": "+3727417319",
+        "omanik_telefon": "+3725166213",
         "omanik_epost": "sadam@luunja.ee",
         "koduleht": "www.luunja.ee",
-        "sadamakapteni_nimi": "Kaspar Killak",
-        "sadamakapteni_telefon": "+5166213",
+        "sadamakapteni_nimi": "Lenno Tobreluts",
+        "sadamakapteni_telefon": "+3725166213",
         "sadamakapteni_epost": "sadam@luunja.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "01.04.2021"
+        "modified_date": "31.08.2022"
       },
       "geometry": {
         "type": "Point",
