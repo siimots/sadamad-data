@@ -266,7 +266,7 @@
         "max_pikkus": "130.0",
         "max_laius": "30.0",
         "max_sygavus": "8.0",
-        "modified_date": "07.04.2021"
+        "modified_date": "01.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -616,7 +616,7 @@
         "max_pikkus": "190.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "12.08.2022"
+        "modified_date": "27.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@
         "max_pikkus": "275.0",
         "max_laius": "56.0",
         "max_sygavus": "15.2",
-        "modified_date": "22.01.2021"
+        "modified_date": "20.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -3385,13 +3385,13 @@
         "omanik_telefon": "+3724720300",
         "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
-        "sadamakapteni_nimi": "Jalmar Kann",
-        "sadamakapteni_telefon": "+3725655350",
-        "sadamakapteni_epost": "jaxmar@hot.ee",
+        "sadamakapteni_nimi": "Jaanus Kivi",
+        "sadamakapteni_telefon": "+53358888",
+        "sadamakapteni_epost": "jaanus.kivi@gmail.com",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "25.03.2021"
+        "modified_date": "12.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -4216,7 +4216,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "28.02.2022"
+        "modified_date": "02.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -4916,7 +4916,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "05.07.2022"
+        "modified_date": "20.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -5091,7 +5091,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "05.07.2022"
+        "modified_date": "20.09.2022"
       },
       "geometry": {
         "type": "Point",
@@ -5823,6 +5823,31 @@
         "coordinates": [
           27.58117,
           58.08968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 8457,
+        "sadama_nimi": "PAKRINEEME SADAM",
+        "omanik": "Pakrineeme Sadama OÜ",
+        "omanik_telefon": "+3725049811;+3725094083",
+        "omanik_epost": "pakrineemesadam@paldiski.net",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "295.0",
+        "max_laius": "50.0",
+        "max_sygavus": "13.0",
+        "modified_date": "09.08.2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.07376,
+          59.38429
         ]
       }
     }
