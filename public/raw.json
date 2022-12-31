@@ -281,9 +281,9 @@
       "properties": {
         "sadamaregister": 159,
         "sadama_nimi": "JAAGUPI SADAM",
-        "omanik": "Häädemeeste Vallavalitsus",
-        "omanik_telefon": "+3724448890",
-        "omanik_epost": "siim.suursild@haademeeste.ee",
+        "omanik": "Jaagupi Sadama Arendus OÜ",
+        "omanik_telefon": "+37256506638",
+        "omanik_epost": "info@jaagupisadam.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "-",
         "sadamakapteni_telefon": "-",
@@ -291,7 +291,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.5",
-        "modified_date": "14.10.2022"
+        "modified_date": "12.12.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1516,7 +1516,7 @@
         "max_pikkus": "60.0",
         "max_laius": "15.0",
         "max_sygavus": "3.5",
-        "modified_date": "29.04.2022"
+        "modified_date": "02.12.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1607,8 +1607,8 @@
         "sadamaregister": 330,
         "sadama_nimi": "MÕNTU SADAM",
         "omanik": "OÜ Mõntu Sadam",
-        "omanik_telefon": "+3724544085;+3724544082",
-        "omanik_epost": "vrhl@hot.ee ; info@montusadam.ee",
+        "omanik_telefon": "+3725145578",
+        "omanik_epost": "mihkel@undrest.ee ; info@montusadam.ee",
         "koduleht": "www.montusadam.ee",
         "sadamakapteni_nimi": "Toivo Pära",
         "sadamakapteni_telefon": "+3724570570",
@@ -1758,7 +1758,7 @@
         "sadama_nimi": "ORJAKU SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Liina Härm",
         "sadamakapteni_telefon": "+3725187580",
@@ -1930,7 +1930,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 344,
-        "sadama_nimi": "RINGSU SADAM",
+        "sadama_nimi": "RUHNU SADAM",
         "omanik": "aktsiaselts Saarte Liinid",
         "omanik_telefon": "+3724530140",
         "omanik_epost": "info@saarteliinid.ee",
@@ -1941,7 +1941,7 @@
         "max_pikkus": "30.0",
         "max_laius": "15.0",
         "max_sygavus": "2.7",
-        "modified_date": "13.06.2022"
+        "modified_date": "05.12.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1966,7 +1966,7 @@
         "max_pikkus": "15.0",
         "max_laius": "6.0",
         "max_sygavus": "1.7",
-        "modified_date": "14.02.2022"
+        "modified_date": "28.12.2022"
       },
       "geometry": {
         "type": "Point",
@@ -1983,7 +1983,7 @@
         "sadama_nimi": "KALANA JAHISADAM (EHITAMISEL)",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2366,7 +2366,7 @@
         "max_pikkus": "13.5",
         "max_laius": "5.0",
         "max_sygavus": "1.2",
-        "modified_date": "30.04.2018"
+        "modified_date": "30.12.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2491,7 +2491,7 @@
         "max_pikkus": "13.5",
         "max_laius": "3.5",
         "max_sygavus": "1.7",
-        "modified_date": "29.06.2022"
+        "modified_date": "30.12.2022"
       },
       "geometry": {
         "type": "Point",
@@ -2586,18 +2586,18 @@
         "omanik_epost": "sadam@parnusadam.eu",
         "koduleht": "www.parnusadam.eu",
         "sadamakapteni_nimi": "Viktor Palmet",
-        "sadamakapteni_telefon": "+3724471700",
+        "sadamakapteni_telefon": "+3725031115",
         "sadamakapteni_epost": "kapten@parnusadam.eu",
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "06.11.2020"
+        "modified_date": "30.11.2022"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.48,
-          58.38333
+          24.47605,
+          58.37955
         ]
       }
     },
@@ -3433,7 +3433,7 @@
         "sadama_nimi": "KÄRDLA SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Liina Härm",
         "sadamakapteni_telefon": "+3725187580",
@@ -3983,7 +3983,7 @@
         "sadama_nimi": "SÕRU JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "liina.harm@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Liina Härm",
         "sadamakapteni_telefon": "+5187580",
