@@ -42,7 +42,7 @@ const fetchPorts = async () => {
     ports.forEach((port, i) => {
       setTimeout(async () => {
         const feature = await fetchPort(port, options);
-        geojson.features.push(feature);
+        if (feature) geojson.features.push(feature);
 
         if (i == ports.length - 1) {
           geojson.features.sort(function (a, b) {
@@ -89,6 +89,11 @@ const fetchPort = async (port) => {
     const json = await response.json();
 
     const { portMainData } = json;
+
+    if (!portMainData) {
+      console.log("Missing json", id, name);
+      return;
+    }
 
     //console.log(json);
 
