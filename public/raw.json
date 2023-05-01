@@ -88,10 +88,10 @@
         "sadamakapteni_nimi": "Rommi Õige",
         "sadamakapteni_telefon": "+37256624415",
         "sadamakapteni_epost": "rommioige@gmail.com",
-        "max_pikkus": "35.0",
-        "max_laius": "6.0",
+        "max_pikkus": "30.0",
+        "max_laius": "8.0",
         "max_sygavus": "1.9",
-        "modified_date": "31.08.2021"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
@@ -241,12 +241,12 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.2",
-        "modified_date": "27.03.2023"
+        "modified_date": "03.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.84188,
+          22.84189,
           59.00223
         ]
       }
@@ -480,7 +480,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 167,
-        "sadama_nimi": "KALEVI JAHTKLUBI",
+        "sadama_nimi": "KALEVI JAHTKLUBI SADAM",
         "omanik": "Kalevi Jahtklubi",
         "omanik_telefon": "+37253010450",
         "omanik_epost": "info@kjk.ee",
@@ -566,13 +566,13 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "1.4",
-        "modified_date": "07.02.2023"
+        "modified_date": "05.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.16722,
-          58.66852
+          27.16721,
+          58.66854
         ]
       }
     },
@@ -657,8 +657,8 @@
         "sadamaregister": 205,
         "sadama_nimi": "KAUNISPE SADAM",
         "omanik": "mittetulundusühing Kaunispe Sadam",
-        "omanik_telefon": "+3725177332",
-        "omanik_epost": "orav.toomas@gmail.com",
+        "omanik_telefon": "+3725178284",
+        "omanik_epost": "kairisaar1@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -666,13 +666,13 @@
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "1.6",
-        "modified_date": "15.06.2018"
+        "modified_date": "06.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.06,
-          58.04333
+          22.05984,
+          58.04298
         ]
       }
     },
@@ -691,13 +691,13 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "16.04.2018"
+        "modified_date": "05.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.19342,
-          58.26956
+          24.19349,
+          58.26962
         ]
       }
     },
@@ -791,13 +791,13 @@
         "max_pikkus": "60.0",
         "max_laius": "15.0",
         "max_sygavus": "3.3",
-        "modified_date": "11.01.2023"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           24.02078,
-          58.14131
+          58.1413
         ]
       }
     },
@@ -841,12 +841,12 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "11.01.2023"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.39654,
+          23.39652,
           58.57366
         ]
       }
@@ -916,12 +916,12 @@
         "max_pikkus": "23.9",
         "max_laius": "4.0",
         "max_sygavus": "2.1",
-        "modified_date": "29.04.2022"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.47061,
+          22.4706,
           58.24406
         ]
       }
@@ -2716,7 +2716,7 @@
         "max_pikkus": "50.0",
         "max_laius": "15.0",
         "max_sygavus": "3.2",
-        "modified_date": "11.01.2023"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3179,6 +3179,31 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 397,
+        "sadama_nimi": "VÕIDU SADAM",
+        "omanik": "Pärnu Linnavalitsus",
+        "omanik_telefon": "+3724448200",
+        "omanik_epost": "linnavalitsus@parnu.ee",
+        "koduleht": "www.parnu.ee",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.0",
+        "modified_date": "12.11.2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02022,
+          58.30849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 398,
         "sadama_nimi": "VÕISTE SADAM",
         "omanik": "Mittetulundusühing Võiste Sadamaarendus",
@@ -3223,6 +3248,31 @@
         "coordinates": [
           23.19851,
           58.68206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 400,
+        "sadama_nimi": "VÄIKE-TURU SADAM",
+        "omanik": "Transpordiamet",
+        "omanik_telefon": "+3726201200",
+        "omanik_epost": "info@transpordiamet.ee",
+        "koduleht": "https://www.transpordiamet.ee/",
+        "sadamakapteni_nimi": "Jürmann Allan",
+        "sadamakapteni_telefon": "+37258999598",
+        "sadamakapteni_epost": "allan.jyrmann@transpordiamet.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.5",
+        "modified_date": "04.10.2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.73663,
+          58.37777
         ]
       }
     },
@@ -3491,13 +3541,13 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "07.02.2023"
+        "modified_date": "03.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.44657,
-          58.8067
+          22.44612,
+          58.80663
         ]
       }
     },
@@ -3841,13 +3891,13 @@
         "max_pikkus": "23.9",
         "max_laius": "4.0",
         "max_sygavus": "2.0",
-        "modified_date": "03.07.2018"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.9715,
-          58.36971
+          22.97157,
+          58.36969
         ]
       }
     },
@@ -3866,13 +3916,13 @@
         "max_pikkus": "24.0",
         "max_laius": "5.0",
         "max_sygavus": "2.1",
-        "modified_date": "25.11.2020"
+        "modified_date": "03.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           25.2784,
-          59.52014
+          59.52008
         ]
       }
     },
@@ -4741,13 +4791,13 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "10.12.2021"
+        "modified_date": "10.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.08602,
-          59.45157
+          28.08612,
+          59.45145
         ]
       }
     },
@@ -5716,12 +5766,12 @@
         "max_pikkus": "24.0",
         "max_laius": "7.0",
         "max_sygavus": "1.3",
-        "modified_date": "27.06.2022"
+        "modified_date": "03.04.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.90631,
+          22.9063,
           58.97631
         ]
       }
