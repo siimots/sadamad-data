@@ -41,13 +41,13 @@
         "max_pikkus": "196.0",
         "max_laius": "32.0",
         "max_sygavus": "12.3",
-        "modified_date": "21.09.2020"
+        "modified_date": "17.05.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81606,
-          59.49939
+          24.81608,
+          59.4994
         ]
       }
     },
@@ -391,13 +391,13 @@
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "3.8",
-        "modified_date": "14.10.2022"
+        "modified_date": "22.05.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.60697,
-          59.45111
+          24.60713,
+          59.45105
         ]
       }
     },
@@ -441,13 +441,13 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "3.0",
-        "modified_date": "24.09.2021"
+        "modified_date": "30.05.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74997,
-          59.44701
+          24.75061,
+          59.44724
         ]
       }
     },
@@ -616,7 +616,7 @@
         "max_pikkus": "190.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "28.03.2023"
+        "modified_date": "09.05.2023"
       },
       "geometry": {
         "type": "Point",
@@ -785,9 +785,9 @@
         "omanik_telefon": "+3724530140",
         "omanik_epost": "info@saarteliinid.ee",
         "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus.maide@saarteliinid.ee",
+        "sadamakapteni_nimi": "Peeter Saar",
+        "sadamakapteni_telefon": "+3725097267",
+        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
         "max_pikkus": "60.0",
         "max_laius": "15.0",
         "max_sygavus": "3.3",
@@ -1085,13 +1085,13 @@
         "omanik_telefon": "+3724530140",
         "omanik_epost": "info@saarteliinid.ee",
         "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus.maide@saarteliinid.ee",
+        "sadamakapteni_nimi": "Peeter Saar",
+        "sadamakapteni_telefon": "+3725097267",
+        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
         "max_pikkus": "45.0",
         "max_laius": "13.0",
         "max_sygavus": "3.5",
-        "modified_date": "27.04.2023"
+        "modified_date": "18.05.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1335,9 +1335,9 @@
         "omanik_telefon": "+3724530140",
         "omanik_epost": "info@saarteliinid.ee",
         "koduleht": "www.saarteliinid.ee",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+3725043888",
-        "sadamakapteni_epost": "andrus.maide@saarteliinid.ee",
+        "sadamakapteni_nimi": "Peeter Saar",
+        "sadamakapteni_telefon": "+3725097267",
+        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
         "max_pikkus": "45.0",
         "max_laius": "13.0",
         "max_sygavus": "3.5",
@@ -1416,13 +1416,13 @@
         "max_pikkus": "15.0",
         "max_laius": "3.5",
         "max_sygavus": "1.7",
-        "modified_date": "04.07.2022"
+        "modified_date": "22.05.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.11884,
-          58.17302
+          22.11883,
+          58.17301
         ]
       }
     },
@@ -1759,7 +1759,7 @@
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
-        "koduleht": "-",
+        "koduleht": "www.hiiumaasadamad.ee",
         "sadamakapteni_nimi": "Liina Härm",
         "sadamakapteni_telefon": "+3725187580",
         "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
@@ -1958,7 +1958,7 @@
         "sadama_nimi": "RISTNA SADAM",
         "omanik": "Mittetulundusühing Ristna sadam",
         "omanik_telefon": "+3725059038",
-        "omanik_epost": "info@ristnasadam.ee",
+        "omanik_epost": "enn.ristna@mail.ee",
         "koduleht": "www.ristnasadam.ee",
         "sadamakapteni_nimi": "Enn Tõnissoo",
         "sadamakapteni_telefon": "+3725059038",
@@ -1966,7 +1966,7 @@
         "max_pikkus": "15.0",
         "max_laius": "6.0",
         "max_sygavus": "1.7",
-        "modified_date": "28.12.2022"
+        "modified_date": "09.05.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1980,18 +1980,18 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 346,
-        "sadama_nimi": "KALANA JAHISADAM (EHITAMISEL)",
+        "sadama_nimi": "KALANA JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "5.0",
-        "max_laius": "1.5",
-        "max_sygavus": "0.5",
-        "modified_date": "14.10.2022"
+        "koduleht": "www.hiiumaasadamad.ee",
+        "sadamakapteni_nimi": "Liina Härm",
+        "sadamakapteni_telefon": "+3725187580",
+        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "max_pikkus": "20.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.6",
+        "modified_date": "26.05.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3382,7 +3382,7 @@
         "sadamaregister": 405,
         "sadama_nimi": "ÖSTERBY SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724720300",
+        "omanik_telefon": "+3724720300;+3725042541",
         "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "Jaanus Kivi",
@@ -3434,7 +3434,7 @@
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
-        "koduleht": "-",
+        "koduleht": "www.hiiumaasadamad.ee",
         "sadamakapteni_nimi": "Liina Härm",
         "sadamakapteni_telefon": "+3725187580",
         "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
@@ -3591,13 +3591,13 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.6",
-        "modified_date": "07.11.2018"
+        "modified_date": "22.05.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.67816,
-          58.52978
+          23.6782,
+          58.52979
         ]
       }
     },
@@ -3741,13 +3741,13 @@
         "max_pikkus": "7.0",
         "max_laius": "2.0",
         "max_sygavus": "0.4",
-        "modified_date": "05.03.2020"
+        "modified_date": "19.05.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.95492,
-          58.93297
+          22.95484,
+          58.93294
         ]
       }
     },
@@ -3984,7 +3984,7 @@
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
-        "koduleht": "-",
+        "koduleht": "www.hiiumaasadamad.ee",
         "sadamakapteni_nimi": "Liina Härm",
         "sadamakapteni_telefon": "+5187580",
         "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
@@ -4807,7 +4807,7 @@
         "sadamaregister": 2152,
         "sadama_nimi": "NÕVA SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724720300",
+        "omanik_telefon": "+3724720300;+3725042541",
         "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "- -",
@@ -4816,7 +4816,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.5",
-        "modified_date": "10.11.2022"
+        "modified_date": "24.05.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4932,7 +4932,7 @@
         "sadamaregister": 2259,
         "sadama_nimi": "HARA SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724720300",
+        "omanik_telefon": "+3724720300;+3725042541",
         "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "Martin Mägi",
@@ -5032,7 +5032,7 @@
         "sadamaregister": 2456,
         "sadama_nimi": "OSMUSSAARE SADAM",
         "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724720300",
+        "omanik_telefon": "+3724720300;+3725042541",
         "omanik_epost": "vv@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "- -",
@@ -5782,8 +5782,8 @@
         "sadamaregister": 8351,
         "sadama_nimi": "KÄSMU MAJAKA SADAM",
         "omanik": "Mittetulundusühing Käsmu Majaka Sadam",
-        "omanik_telefon": "+3725047908",
-        "omanik_epost": "tarmotamm27@gmail.com",
+        "omanik_telefon": "+37253302748",
+        "omanik_epost": "sadam@kasmusadam.ee",
         "koduleht": "www.käsmusadam.ee",
         "sadamakapteni_nimi": "Tarmo Tamm",
         "sadamakapteni_telefon": "+3725047908",
