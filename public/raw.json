@@ -256,17 +256,17 @@
       "properties": {
         "sadamaregister": 158,
         "sadama_nimi": "HUNDIPEA SADAM",
-        "omanik": "Transpordiamet",
-        "omanik_telefon": "+3726201200",
-        "omanik_epost": "info@transpordiamet.ee",
-        "koduleht": "https://www.transpordiamet.ee/",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "omanik": "Riigilaevastik",
+        "omanik_telefon": "+37255970048",
+        "omanik_epost": "sadam@riigilaevastik.ee",
+        "koduleht": "www.riigilaevastik.ee",
+        "sadamakapteni_nimi": "Margus Haljaste",
+        "sadamakapteni_telefon": "+37255970048",
+        "sadamakapteni_epost": "margus.haljaste@riigilaevastik.ee",
         "max_pikkus": "130.0",
         "max_laius": "30.0",
         "max_sygavus": "8.0",
-        "modified_date": "14.10.2022"
+        "modified_date": "24.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -466,7 +466,7 @@
         "max_pikkus": "340.0",
         "max_laius": "42.0",
         "max_sygavus": "10.3",
-        "modified_date": "26.06.2023"
+        "modified_date": "05.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -516,13 +516,13 @@
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.8",
-        "modified_date": "25.07.2022"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.82167,
-          59.46833
+          24.82059,
+          59.46889
         ]
       }
     },
@@ -573,31 +573,6 @@
         "coordinates": [
           27.16721,
           58.66854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 202,
-        "sadama_nimi": "KALLASTE RANNASADAM",
-        "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+3725151976",
-        "omanik_epost": "indekovara@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "3.1",
-        "max_sygavus": "0.8",
-        "modified_date": "12.12.2019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16596,
-          58.6727
         ]
       }
     },
@@ -716,7 +691,7 @@
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "17.09.2020"
+        "modified_date": "05.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -766,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "10.02.2023"
+        "modified_date": "05.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -991,7 +966,7 @@
         "max_pikkus": "200.0",
         "max_laius": "30.0",
         "max_sygavus": "9.5",
-        "modified_date": "27.06.2023"
+        "modified_date": "05.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1166,7 @@
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "17.09.2020"
+        "modified_date": "05.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1691,7 +1666,7 @@
         "max_pikkus": "250.0",
         "max_laius": "45.0",
         "max_sygavus": "14.5",
-        "modified_date": "27.06.2023"
+        "modified_date": "05.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +1966,7 @@
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "2.6",
-        "modified_date": "26.05.2023"
+        "modified_date": "06.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -2066,13 +2041,13 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "1.0",
-        "modified_date": "05.10.2020"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.06245,
-          58.92149
+          22.06261,
+          58.92159
         ]
       }
     },
@@ -2131,23 +2106,23 @@
       "properties": {
         "sadamaregister": 352,
         "sadama_nimi": "ROHUNEEME SADAM",
-        "omanik": "Aktsiaselts Eesti Loots",
-        "omanik_telefon": "+3726053800",
-        "omanik_epost": "loots@loots.ee",
-        "koduleht": "www.loots.ee",
-        "sadamakapteni_nimi": "Aare Pildre",
-        "sadamakapteni_telefon": "+3726053808",
-        "sadamakapteni_epost": "aare.pildre@loots.ee",
+        "omanik": "Riigilaevastik",
+        "omanik_telefon": "+37255970048",
+        "omanik_epost": "sadam@riigilaevastik.ee",
+        "koduleht": "www.riigilaevastik.ee",
+        "sadamakapteni_nimi": "Margus Haljaste",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "margus.haljaste@riigilaevastik.ee",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "11.05.2018"
+        "modified_date": "02.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.79317,
-          59.5585
+          24.79213,
+          59.55893
         ]
       }
     },
@@ -2160,9 +2135,9 @@
         "omanik_telefon": "+37256888825;+3726102205",
         "omanik_epost": "port@noblessner.ee",
         "koduleht": "www.noblessner.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Marek Rauk",
+        "sadamakapteni_telefon": "+3726102753",
+        "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "4.0",
@@ -2316,13 +2291,13 @@
         "max_pikkus": "16.0",
         "max_laius": "6.0",
         "max_sygavus": "1.5",
-        "modified_date": "01.04.2019"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.993,
-          59.43583
+          26.9929,
+          59.43556
         ]
       }
     },
@@ -2566,13 +2541,13 @@
         "max_pikkus": "12.0",
         "max_laius": "2.4",
         "max_sygavus": "0.3",
-        "modified_date": "13.04.2018"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.16992,
-          58.646
+          27.17001,
+          58.64595
         ]
       }
     },
@@ -2816,13 +2791,13 @@
         "max_pikkus": "23.9",
         "max_laius": "8.0",
         "max_sygavus": "3.5",
-        "modified_date": "29.01.2020"
+        "modified_date": "27.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.57433,
-          59.61067
+          25.5743,
+          59.61075
         ]
       }
     },
@@ -3060,9 +3035,9 @@
         "omanik_telefon": "+3726102408",
         "omanik_epost": "blrt@blrt.ee",
         "koduleht": "www.portvenebalti.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Marek Rauk",
+        "sadamakapteni_telefon": "+37256722295",
+        "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "200.0",
         "max_laius": "35.0",
         "max_sygavus": "10.6",
@@ -3256,17 +3231,17 @@
       "properties": {
         "sadamaregister": 400,
         "sadama_nimi": "VÄIKE-TURU SADAM",
-        "omanik": "Transpordiamet",
-        "omanik_telefon": "+3726201200",
-        "omanik_epost": "info@transpordiamet.ee",
-        "koduleht": "https://www.transpordiamet.ee/",
-        "sadamakapteni_nimi": "Jürmann Allan",
+        "omanik": "Riigilaevastik",
+        "omanik_telefon": "+37255970048",
+        "omanik_epost": "sadam@riigilaevastik.ee",
+        "koduleht": "www.riigilaevastik.ee",
+        "sadamakapteni_nimi": "Allan Jürmann",
         "sadamakapteni_telefon": "+37258999598",
-        "sadamakapteni_epost": "allan.jyrmann@transpordiamet.ee",
+        "sadamakapteni_epost": "-",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "04.10.2022"
+        "modified_date": "02.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3387,11 +3362,11 @@
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "Siim Suitsberg",
         "sadamakapteni_telefon": "+37253084816",
-        "sadamakapteni_epost": "ssuitsberg@gmail.com",
+        "sadamakapteni_epost": "sadam@osterbyresto.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.6",
-        "modified_date": "19.06.2023"
+        "modified_date": "04.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3466,13 +3441,13 @@
         "max_pikkus": "14.0",
         "max_laius": "3.5",
         "max_sygavus": "1.0",
-        "modified_date": "09.03.2022"
+        "modified_date": "27.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.50089,
-          58.84447
+          23.50085,
+          58.84449
         ]
       }
     },
@@ -3566,7 +3541,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "08.06.2021"
+        "modified_date": "31.07.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3641,13 +3616,13 @@
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "06.07.2021"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           25.16046,
-          59.53146
+          59.53142
         ]
       }
     },
@@ -4091,13 +4066,13 @@
         "max_pikkus": "24.0",
         "max_laius": "15.0",
         "max_sygavus": "2.0",
-        "modified_date": "08.06.2021"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.20627,
-          59.38318
+          28.20603,
+          59.38364
         ]
       }
     },
@@ -4441,13 +4416,13 @@
         "max_pikkus": "9.0",
         "max_laius": "2.8",
         "max_sygavus": "1.0",
-        "modified_date": "24.09.2018"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.26752,
-          58.49115
+          23.26753,
+          58.49114
         ]
       }
     },
@@ -4666,13 +4641,13 @@
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "0.9",
-        "modified_date": "16.10.2018"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.44163,
-          59.02395
+          23.44205,
+          59.02402
         ]
       }
     },
@@ -5041,13 +5016,13 @@
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "0.8",
-        "modified_date": "27.07.2020"
+        "modified_date": "26.07.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.41118,
-          59.27629
+          23.41132,
+          59.27626
         ]
       }
     },
