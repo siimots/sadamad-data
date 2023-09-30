@@ -391,7 +391,7 @@
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "3.8",
-        "modified_date": "22.05.2023"
+        "modified_date": "13.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +566,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "1.4",
-        "modified_date": "05.04.2023"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +816,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "29.08.2023"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1707,16 +1707,16 @@
         "sadamaregister": 335,
         "sadama_nimi": "ORISSAARE SADAM",
         "omanik": "Perekond Piidivabrik MTÜ",
-        "omanik_telefon": "+37256239358;+37253001330",
-        "omanik_epost": "piidivabrik@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Uspenski Paap",
-        "sadamakapteni_telefon": "+56239358",
-        "sadamakapteni_epost": "paapdipaap@gmail.com",
-        "max_pikkus": "12.0",
+        "omanik_telefon": "+37256239358",
+        "omanik_epost": "info@illiku.ee",
+        "koduleht": "www.illiku.ee",
+        "sadamakapteni_nimi": "Jürgen Visnapuu",
+        "sadamakapteni_telefon": "+37253739913",
+        "sadamakapteni_epost": "sadamakapten@illiku.ee",
+        "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.5",
-        "modified_date": "11.02.2019"
+        "max_sygavus": "1.8",
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1740,8 +1740,8 @@
         "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
-        "max_sygavus": "2.7",
-        "modified_date": "26.10.2020"
+        "max_sygavus": "2.5",
+        "modified_date": "29.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -2041,7 +2041,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "1.0",
-        "modified_date": "26.07.2023"
+        "modified_date": "27.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -2891,7 +2891,7 @@
         "max_pikkus": "13.0",
         "max_laius": "4.0",
         "max_sygavus": "1.3",
-        "modified_date": "13.12.2019"
+        "modified_date": "26.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +2916,7 @@
         "max_pikkus": "70.0",
         "max_laius": "15.0",
         "max_sygavus": "4.0",
-        "modified_date": "12.01.2023"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3005,18 +3005,18 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 389,
-        "sadama_nimi": "VASKNARVA PAADISADAM (EHIT.)",
+        "sadama_nimi": "VASKNARVA PAADISADAM",
         "omanik": "Alutaguse Vallavalitsus",
-        "omanik_telefon": "+3723366901",
+        "omanik_telefon": "+37255553487",
         "omanik_epost": "info@alutagusevald.ee",
         "koduleht": "www.alutagusevald.ee",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "10.0",
-        "max_laius": "3.0",
+        "sadamakapteni_nimi": "Taavi Vogt",
+        "sadamakapteni_telefon": "+37255553487",
+        "sadamakapteni_epost": "taavi.vogt@alutagusevald.ee",
+        "max_pikkus": "23.9",
+        "max_laius": "8.0",
         "max_sygavus": "1.5",
-        "modified_date": "18.10.2019"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3091,7 +3091,7 @@
         "max_pikkus": "130.0",
         "max_laius": "20.0",
         "max_sygavus": "6.5",
-        "modified_date": "07.08.2023"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3237,11 +3237,11 @@
         "koduleht": "www.riigilaevastik.ee",
         "sadamakapteni_nimi": "Allan Jürmann",
         "sadamakapteni_telefon": "+37258999598",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_epost": "allan.jyrmann@riigilaevastik.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "02.07.2023"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4291,7 +4291,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "02.12.2020"
+        "modified_date": "28.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4632,7 +4632,7 @@
         "sadamaregister": 2132,
         "sadama_nimi": "PASLEPA-VIIGI SADAM",
         "omanik": "OÜ HansaAssets",
-        "omanik_telefon": "+3726671250",
+        "omanik_telefon": "+3726623734",
         "omanik_epost": "info@hansaassets.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -4781,9 +4781,9 @@
       "properties": {
         "sadamaregister": 2152,
         "sadama_nimi": "NÕVA SADAM",
-        "omanik": "Lääne-Nigula Vallavalitsus",
-        "omanik_telefon": "+3724724350",
-        "omanik_epost": "noarootsi@laanenigula.ee",
+        "omanik": "Nõva Osavallavalitsus",
+        "omanik_telefon": "+4724670",
+        "omanik_epost": "aivi.heinleht@laanenigula.ee",
         "koduleht": "www.laanenigula.ee",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -4791,7 +4791,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.5",
-        "modified_date": "24.05.2023"
+        "modified_date": "06.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -5759,14 +5759,14 @@
         "omanik": "Mittetulundusühing Käsmu Majaka Sadam",
         "omanik_telefon": "+37253302748",
         "omanik_epost": "sadam@kasmusadam.ee",
-        "koduleht": "www.käsmusadam.ee",
-        "sadamakapteni_nimi": "Tarmo Tamm",
-        "sadamakapteni_telefon": "+3725047908",
-        "sadamakapteni_epost": "tarmotamm27@gmail.com",
+        "koduleht": "www.kasmusadam.ee",
+        "sadamakapteni_nimi": "Margus Välkmann",
+        "sadamakapteni_telefon": "+37253302748",
+        "sadamakapteni_epost": "sadam@kasmusadam.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "11.04.2023"
+        "modified_date": "27.09.2023"
       },
       "geometry": {
         "type": "Point",
@@ -5873,6 +5873,31 @@
         "coordinates": [
           26.9799,
           58.77713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 8977,
+        "sadama_nimi": "VANASAUNA SADAM",
+        "omanik": "Viljandi Vallavalitsus",
+        "omanik_telefon": "+37253035482",
+        "omanik_epost": "viljandivald@viljandivald.ee",
+        "koduleht": "www.viljandivald.ee",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "9.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8",
+        "modified_date": "13.09.2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.96714,
+          58.36928
         ]
       }
     }
