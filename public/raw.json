@@ -1633,15 +1633,15 @@
         "sadama_nimi": "OIU SADAM",
         "omanik": "Pedajased paadimehed OÜ",
         "omanik_telefon": "+3725070712",
-        "omanik_epost": "priit@iglucraft.ee",
+        "omanik_epost": "tarvo@iglucraft.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Tarvo Kuusk",
+        "sadamakapteni_telefon": "+53425817",
+        "sadamakapteni_epost": "tarvo@iglucraft.com",
         "max_pikkus": "12.0",
         "max_laius": "6.0",
         "max_sygavus": "1.2",
-        "modified_date": "09.01.2023"
+        "modified_date": "16.10.2023"
       },
       "geometry": {
         "type": "Point",
@@ -2141,7 +2141,7 @@
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "4.0",
-        "modified_date": "08.08.2023"
+        "modified_date": "24.10.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3391,7 +3391,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "2.0",
-        "modified_date": "31.03.2023"
+        "modified_date": "05.10.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4058,7 +4058,7 @@
         "sadama_nimi": "NARVA LINNASADAM",
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+37255699195",
-        "omanik_epost": "tolik.ivanov@gmail.com",
+        "omanik_epost": "info@narvasadam.ee",
         "koduleht": "http://narvasadam.ee/narva-sadam/%C3%BCldinfo.html",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
@@ -4083,7 +4083,7 @@
         "sadama_nimi": "NARVA KULGU SADAM",
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+37255699195",
-        "omanik_epost": "tolik.ivanov@gmail.com",
+        "omanik_epost": "info@narvasadam.ee",
         "koduleht": "http://narvasadam.ee/narva-sadam/%C3%BCldinfo.html",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+37258503008",
@@ -4091,7 +4091,7 @@
         "max_pikkus": "18.0",
         "max_laius": "7.0",
         "max_sygavus": "0.7",
-        "modified_date": "03.09.2020"
+        "modified_date": "24.10.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4536,7 +4536,7 @@
         "omanik_epost": "tarvi.velstrom@mail.ee ; sadam@harasadam.ee",
         "koduleht": "www.harasadam.ee  https://www.facebook.com/Hara-Sadam-167468077115937/",
         "sadamakapteni_nimi": "Tarvi Velström",
-        "sadamakapteni_telefon": "+372;+3725021000",
+        "sadamakapteni_telefon": "+3725021000",
         "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
@@ -5430,24 +5430,24 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 3870,
-        "sadama_nimi": "VEIBRI SADAM (EHITAMISEL)",
+        "sadama_nimi": "VEIBRI SADAM",
         "omanik": "MTÜ Veibri Sadam",
         "omanik_telefon": "+37259187171",
-        "omanik_epost": "info@alrey.ee  andrey.uafg@gmail.com",
+        "omanik_epost": "info@alrey.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.0",
-        "modified_date": "30.05.2019"
+        "max_sygavus": "0.5",
+        "modified_date": "30.10.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.79198,
-          58.33702
+          26.7917,
+          58.33738
         ]
       }
     },
@@ -5898,6 +5898,81 @@
         "coordinates": [
           25.96714,
           58.36928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9119,
+        "sadama_nimi": "MÄNNIKU SADAM",
+        "omanik": "Indrek Randvee",
+        "omanik_telefon": "-",
+        "omanik_epost": "indrek@paavli.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.85",
+        "modified_date": "18.10.2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.77642,
+          58.78602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9168,
+        "sadama_nimi": "ULGE SADAM",
+        "omanik": "Võrtsjärve Sõprade Selts",
+        "omanik_telefon": "+3725066426",
+        "omanik_epost": "anmar@vortsjarv.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Anmar Pihlak",
+        "sadamakapteni_telefon": "+3725066426",
+        "sadamakapteni_epost": "anmar@oiusadam.ee",
+        "max_pikkus": "20.0",
+        "max_laius": "6.0",
+        "max_sygavus": "1.0",
+        "modified_date": "05.10.2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.01097,
+          58.40575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9169,
+        "sadama_nimi": "JÕESUU SADAM",
+        "omanik": "Võrtsjärve Sõprade Selts",
+        "omanik_telefon": "+3725066426",
+        "omanik_epost": "anmar@vortsjarv.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Anmar Pihlak",
+        "sadamakapteni_telefon": "+3725066426",
+        "sadamakapteni_epost": "anmar@vortsjarv.com",
+        "max_pikkus": "24.0",
+        "max_laius": "8.0",
+        "max_sygavus": "0.6",
+        "modified_date": "05.10.2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.13388,
+          58.38482
         ]
       }
     }
