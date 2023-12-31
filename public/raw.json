@@ -1037,17 +1037,17 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Gregor Elm",
         "sadamakapteni_telefon": "+37253432489",
-        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
+        "sadamakapteni_epost": "gregor.elm@lahesuu.ee",
         "max_pikkus": "160.0",
         "max_laius": "35.0",
         "max_sygavus": "4.1",
-        "modified_date": "18.03.2019"
+        "modified_date": "01.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70301,
-          59.4571
+          24.70295,
+          59.45711
         ]
       }
     },
@@ -1116,7 +1116,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "11.04.2023"
+        "modified_date": "04.12.2023"
       },
       "geometry": {
         "type": "Point",
@@ -1916,13 +1916,13 @@
         "max_pikkus": "30.0",
         "max_laius": "15.0",
         "max_sygavus": "2.7",
-        "modified_date": "11.01.2023"
+        "modified_date": "28.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.27167,
-          57.78
+          23.27164,
+          57.77996
         ]
       }
     },
@@ -2985,9 +2985,9 @@
         "omanik_telefon": "+3725291115",
         "omanik_epost": "asveeresadam@gmail.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Rein Mäeots",
-        "sadamakapteni_telefon": "+3725050959",
-        "sadamakapteni_epost": "aivar@kaluri.ee",
+        "sadamakapteni_nimi": "Mikk Salong",
+        "sadamakapteni_telefon": "+3725208274",
+        "sadamakapteni_epost": "mikk@sfe.ee",
         "max_pikkus": "35.0",
         "max_laius": "20.0",
         "max_sygavus": "3.5",
@@ -3041,7 +3041,7 @@
         "max_pikkus": "200.0",
         "max_laius": "35.0",
         "max_sygavus": "10.6",
-        "modified_date": "13.11.2023"
+        "modified_date": "12.12.2023"
       },
       "geometry": {
         "type": "Point",
@@ -3591,13 +3591,13 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.6",
-        "modified_date": "18.09.2018"
+        "modified_date": "07.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.47664,
-          58.87098
+          23.47677,
+          58.871
         ]
       }
     },
@@ -3731,17 +3731,17 @@
       "properties": {
         "sadamaregister": 1150,
         "sadama_nimi": "VERGI SADAM",
-        "omanik": "OÜ Kroonikeskus",
-        "omanik_telefon": "+3726667328",
-        "omanik_epost": "info@kroonikeskus.ee",
-        "koduleht": "www.vergiport.eu",
+        "omanik": "MTÜ VERGI KALANDUS- JA JAHTKLUBI",
+        "omanik_telefon": "+37255567349",
+        "omanik_epost": "lauri@vergisadam.ee",
+        "koduleht": "vergisadam.ee",
         "sadamakapteni_nimi": "Elmo Ehrlich",
         "sadamakapteni_telefon": "+37255567349",
         "sadamakapteni_epost": "elmo@kroonikeskus.ee",
         "max_pikkus": "23.9",
         "max_laius": "10.0",
-        "max_sygavus": "3.0",
-        "modified_date": "20.06.2023"
+        "max_sygavus": "2.8",
+        "modified_date": "21.12.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4291,13 +4291,13 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "28.09.2023"
+        "modified_date": "05.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.96436,
-          58.25302
+          25.96521,
+          58.25376
         ]
       }
     },
@@ -4533,15 +4533,15 @@
         "sadama_nimi": "HARA SADAM",
         "omanik": "Mittetulundusühing Hara Sadam",
         "omanik_telefon": "+37256900433;+3725021000",
-        "omanik_epost": "tarvi.velstrom@mail.ee ; sadam@harasadam.ee",
+        "omanik_epost": "sadam@harasadam.ee",
         "koduleht": "www.harasadam.ee  https://www.facebook.com/Hara-Sadam-167468077115937/",
         "sadamakapteni_nimi": "Tarvi Velström",
-        "sadamakapteni_telefon": "+3725021000",
+        "sadamakapteni_telefon": "+372;+3725021000",
         "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "3.0",
-        "modified_date": "05.03.2021"
+        "modified_date": "20.12.2023"
       },
       "geometry": {
         "type": "Point",
@@ -4616,13 +4616,13 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "11.04.2023"
+        "modified_date": "04.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.69619,
-          59.06897
+          22.696,
+          59.06895
         ]
       }
     },
@@ -5091,12 +5091,12 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.75",
-        "modified_date": "18.05.2018"
+        "modified_date": "05.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.84895,
+          22.84893,
           58.78198
         ]
       }
@@ -5666,13 +5666,13 @@
         "max_pikkus": "12.5",
         "max_laius": "4.0",
         "max_sygavus": "0.5",
-        "modified_date": "06.10.2022"
+        "modified_date": "12.12.2023"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.45773,
-          59.50216
+          25.45808,
+          59.50197
         ]
       }
     },
@@ -5841,7 +5841,7 @@
         "max_pikkus": "295.0",
         "max_laius": "50.0",
         "max_sygavus": "13.0",
-        "modified_date": "21.03.2023"
+        "modified_date": "29.12.2023"
       },
       "geometry": {
         "type": "Point",
