@@ -1735,13 +1735,13 @@
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Liina Härm",
-        "sadamakapteni_telefon": "+3725187580",
-        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "sadamakapteni_nimi": "Kai Kallas",
+        "sadamakapteni_telefon": "+37256279301",
+        "sadamakapteni_epost": "kai.kallas@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "29.09.2023"
+        "modified_date": "01.02.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2383,7 +2383,7 @@
         "sadama_nimi": "SALINÕMME SADAM",
         "omanik": "Randi Paat",
         "omanik_telefon": "+3725231888",
-        "omanik_epost": "paatrandi@gmail.com",
+        "omanik_epost": "paatrandi@gmail.com ; meretalu@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2391,38 +2391,13 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.1",
-        "modified_date": "03.11.2023"
+        "modified_date": "22.02.2024"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.9504,
-          58.82712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 364,
-        "sadama_nimi": "SALINÕMME KALASADAM",
-        "omanik": "Randi Paat",
-        "omanik_telefon": "+3725231888",
-        "omanik_epost": "paatrandi@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "1.0",
-        "modified_date": "07.05.2018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.95167,
-          58.82643
+          22.94997,
+          58.8264
         ]
       }
     },
@@ -3410,13 +3385,13 @@
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Liina Härm",
-        "sadamakapteni_telefon": "+3725187580",
-        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "sadamakapteni_nimi": "Kai Kallas",
+        "sadamakapteni_telefon": "+37256279301",
+        "sadamakapteni_epost": "kai.kallas@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "9.0",
         "max_sygavus": "3.0",
-        "modified_date": "25.08.2023"
+        "modified_date": "01.02.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3960,13 +3935,13 @@
         "omanik_telefon": "+37256662514",
         "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Liina Härm",
-        "sadamakapteni_telefon": "+5187580",
-        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "sadamakapteni_nimi": "Kai Kallas",
+        "sadamakapteni_telefon": "+37256279301",
+        "sadamakapteni_epost": "kai.kallas@hiiumaa.ee",
         "max_pikkus": "17.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "28.04.2021"
+        "modified_date": "01.02.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4060,13 +4035,13 @@
         "omanik_telefon": "+37255699195",
         "omanik_epost": "info@narvasadam.ee",
         "koduleht": "http://narvasadam.ee/narva-sadam/%C3%BCldinfo.html",
-        "sadamakapteni_nimi": "Deniss Uglanov",
-        "sadamakapteni_telefon": "+37258503008",
-        "sadamakapteni_epost": "narvasadamkapten@gmai.com",
+        "sadamakapteni_nimi": "Anatoli Ivanov",
+        "sadamakapteni_telefon": "+37255699195",
+        "sadamakapteni_epost": "info@narvasadam.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
         "max_sygavus": "2.0",
-        "modified_date": "26.07.2023"
+        "modified_date": "19.02.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4132,22 +4107,22 @@
         "sadamaregister": 1650,
         "sadama_nimi": "SALINÕMME PAADISADAM",
         "omanik": "Paadiühistu Salinõmme",
-        "omanik_telefon": "+3725135680",
-        "omanik_epost": "kalaari@hot.ee",
+        "omanik_telefon": "-",
+        "omanik_epost": "imre@kivikala.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Imre Kivi",
+        "sadamakapteni_telefon": "+5135680",
+        "sadamakapteni_epost": "imre@kivikala.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.2",
         "max_sygavus": "0.9",
-        "modified_date": "07.05.2018"
+        "modified_date": "22.02.2024"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.94848,
-          58.8272
+          22.94921,
+          58.82747
         ]
       }
     },
@@ -4307,22 +4282,22 @@
         "sadamaregister": 1960,
         "sadama_nimi": "KALDU SADAM",
         "omanik": "mittetulundusühing Kaldu Paadisadam",
-        "omanik_telefon": "+37256667595",
-        "omanik_epost": "toomas.alas@gmail.com",
+        "omanik_telefon": "+3725155032;+3725644950",
+        "omanik_epost": "martkappet@gmail.com; helle.alas@mail.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.5",
         "max_laius": "1.5",
-        "max_sygavus": "0.7",
-        "modified_date": "21.05.2018"
+        "max_sygavus": "0.5",
+        "modified_date": "09.02.2024"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.26902,
-          58.45426
+          23.26874,
+          58.45425
         ]
       }
     },
@@ -5016,7 +4991,7 @@
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "0.8",
-        "modified_date": "26.07.2023"
+        "modified_date": "06.02.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5308,7 +5283,7 @@
         "sadama_nimi": "TAMMNEEME SADAM (EHITAMISEL)",
         "omanik": "Tammneeme Sadam MTÜ",
         "omanik_telefon": "+3725044434",
-        "omanik_epost": "alo.tamm@mail.ee",
+        "omanik_epost": "alotamm@mail.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -5316,7 +5291,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.4",
-        "modified_date": "03.11.2023"
+        "modified_date": "02.02.2024"
       },
       "geometry": {
         "type": "Point",
@@ -6023,6 +5998,31 @@
         "coordinates": [
           23.69186,
           58.50474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9354,
+        "sadama_nimi": "KASSARIOTSA SADAM",
+        "omanik": "Kassariotsa Osaühing",
+        "omanik_telefon": "+3725052661",
+        "omanik_epost": "sander@hiiumaale.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "12.0",
+        "max_laius": "4.0",
+        "max_sygavus": "0.75",
+        "modified_date": "08.02.2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8494,
+          58.78134
         ]
       }
     }
