@@ -1733,15 +1733,15 @@
         "sadama_nimi": "ORJAKU SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Kai Kallas",
-        "sadamakapteni_telefon": "+37256279301",
-        "sadamakapteni_epost": "kai.kallas@hiiumaa.ee",
+        "sadamakapteni_nimi": "Romet Keskla",
+        "sadamakapteni_telefon": "+56881400",
+        "sadamakapteni_epost": "orjaku@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "01.02.2024"
+        "modified_date": "13.03.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1958,15 +1958,15 @@
         "sadama_nimi": "KALANA JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Liina Härm",
-        "sadamakapteni_telefon": "+3725187580",
-        "sadamakapteni_epost": "liina.harm@hiiumaa.ee",
+        "sadamakapteni_nimi": "Romet Keskla",
+        "sadamakapteni_telefon": "+56881400",
+        "sadamakapteni_epost": "sadamad@hiiumaa.ee",
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "2.6",
-        "modified_date": "01.11.2023"
+        "modified_date": "13.03.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3015,8 +3015,8 @@
         "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "200.0",
         "max_laius": "35.0",
-        "max_sygavus": "10.6",
-        "modified_date": "12.12.2023"
+        "max_sygavus": "10.2",
+        "modified_date": "18.03.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3383,15 +3383,15 @@
         "sadama_nimi": "KÄRDLA SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Kai Kallas",
-        "sadamakapteni_telefon": "+37256279301",
-        "sadamakapteni_epost": "kai.kallas@hiiumaa.ee",
+        "sadamakapteni_nimi": "Romet Keskla",
+        "sadamakapteni_telefon": "+56881400",
+        "sadamakapteni_epost": "sadamad@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "9.0",
         "max_sygavus": "3.0",
-        "modified_date": "01.02.2024"
+        "modified_date": "13.03.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3933,15 +3933,15 @@
         "sadama_nimi": "SÕRU JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+37256662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "www.hiiumaasadamad.ee",
-        "sadamakapteni_nimi": "Kai Kallas",
-        "sadamakapteni_telefon": "+37256279301",
-        "sadamakapteni_epost": "kai.kallas@hiiumaa.ee",
+        "sadamakapteni_nimi": "Romet Keskla",
+        "sadamakapteni_telefon": "+56881400",
+        "sadamakapteni_epost": "sadamad@hiiumaa.ee",
         "max_pikkus": "17.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "01.02.2024"
+        "modified_date": "13.03.2024"
       },
       "geometry": {
         "type": "Point",
