@@ -1,7 +1,7 @@
 name: Fetch & Deploy to gis.ee/sadamad/
 on:
   schedule:
-    - cron: "25 8 * * 2"
+    - cron: "25 5 * * 1,4"
   push:
     branches:
       - master
