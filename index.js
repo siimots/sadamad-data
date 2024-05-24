@@ -29,54 +29,50 @@ const fetchPorts = async () => {
     features: [],
   };
 
-  try {
-    const response = await fetch(url, options);
-    const json = await response.json();
+  const response = await fetch(url, options);
+  const json = await response.json();
 
-    let ports = json.map(({ id, name }) => [
-      id,
-      name.replace(/\s+/g, " ").trim(),
-    ]);
-    if (DEBUG) ports = ports.slice(10, 12);
+  let ports = json.map(({ id, name }) => [
+    id,
+    name.replace(/\s+/g, " ").trim(),
+  ]);
+  if (DEBUG) ports = ports.slice(10, 12);
 
-    ports.forEach((port, i) => {
-      setTimeout(async () => {
-        const feature = await fetchPort(port, options);
-        if (feature) geojson.features.push(feature);
+  ports.forEach((port, i) => {
+    setTimeout(async () => {
+      const feature = await fetchPort(port, options);
+      if (feature) geojson.features.push(feature);
 
-        if (i == ports.length - 1) {
-          geojson.features.sort(function (a, b) {
-            return (
-              parseFloat(a.properties.sadamaregister) -
-              parseFloat(b.properties.sadamaregister)
-            );
-          });
-
-          fs.writeFile(
-            "public/raw.json",
-            JSON.stringify(geojson, null, 2),
-            (err) => {
-              if (err) throw err;
-            }
+      if (i == ports.length - 1) {
+        geojson.features.sort(function (a, b) {
+          return (
+            parseFloat(a.properties.sadamaregister) -
+            parseFloat(b.properties.sadamaregister)
           );
+        });
 
-          fs.writeFile("public/data.json", JSON.stringify(geojson), (err) => {
+        fs.writeFile(
+          "public/raw.json",
+          JSON.stringify(geojson, null, 2),
+          (err) => {
             if (err) throw err;
-          });
+          },
+        );
 
-          fs.writeFile(
-            "public/data.js",
-            `var sadamadgeoJson = ${JSON.stringify(geojson)};`,
-            (err) => {
-              if (err) throw err;
-            }
-          );
-        }
-      }, i * 200); // 0.2s delay for scraping
-    });
-  } catch (error) {
-    console.log(error);
-  }
+        fs.writeFile("public/data.json", JSON.stringify(geojson), (err) => {
+          if (err) throw err;
+        });
+
+        fs.writeFile(
+          "public/data.js",
+          `var sadamadgeoJson = ${JSON.stringify(geojson)};`,
+          (err) => {
+            if (err) throw err;
+          },
+        );
+      }
+    }, i * 200); // 0.2s delay for scraping
+  });
 };
 
 const fetchPort = async (port) => {
