@@ -1,7 +1,15 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
-const dmsConversion = require("dms-conversion");
+const reproject = require("reproject");
+
 const DEBUG = false;
+
+const EPSG = {
+  "EPSG:3301":
+    "+proj=lcc +lat_1=59.33333333333334 +lat_2=58 +lat_0=57.51755393055556 +lon_0=24 +x_0=500000 +y_0=6375000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs",
+  "EPSG:3857":
+    "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs",
+};
 
 const options = {
   headers: {
@@ -13,7 +21,7 @@ const options = {
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
     "user-agent":
-      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0",
   },
   referrer: "https://www.sadamaregister.ee/",
   referrerPolicy: "strict-origin-when-cross-origin",
@@ -22,8 +30,14 @@ const options = {
   mode: "cors",
 };
 
+const formatNumbers = (val) => {
+  if (isNaN(val)) return "-";
+
+  return Number(val).toFixed(1);
+};
+
 const fetchPorts = async () => {
-  const url = "https://www.sadamaregister.ee/ports";
+  const url = "https://sadamaregister.ee/api/ports/public-active";
   const geojson = {
     type: "FeatureCollection",
     features: [],
@@ -32,11 +46,13 @@ const fetchPorts = async () => {
   const response = await fetch(url, options);
   const json = await response.json();
 
-  let ports = json.map(({ id, name }) => [
-    id,
+  let ports = json.map(({ publicId, name }) => [
+    publicId,
     name.replace(/\s+/g, " ").trim(),
   ]);
-  if (DEBUG) ports = ports.slice(10, 12);
+  if (DEBUG) ports = ports.slice(0, 5);
+
+  console.log("Total ports:", ports.length);
 
   ports.forEach((port, i) => {
     setTimeout(async () => {
@@ -78,16 +94,23 @@ const fetchPorts = async () => {
 const fetchPort = async (port) => {
   const [id, name] = port;
 
-  const url = `https://www.sadamaregister.ee/ports/${id}/json`;
+  const url = `https://sadamaregister.ee/api/ports/${id}/public-details`;
 
   const response = await fetch(url, options);
   const json = await response.json();
 
-  const { portMainData } = json;
+  const {
+    portManagerContacts,
+    portMainData,
+    portTechnicalData,
+    harbourMasterData,
+  } = json;
 
   if (!portMainData) {
     throw `Missing json ${id} ${name}`;
   }
+
+  let { muutmineKp } = portMainData;
 
   let {
     sadamaPidajaEesnimi,
@@ -95,18 +118,17 @@ const fetchPort = async (port) => {
     sadamaPidajaTelefon,
     sadamaPidajaEpost,
     sadamaPidajaKoduleht,
+  } = portManagerContacts;
 
+  let { veesoidukiMaxPikkus, veesoidukiMaxLaius, veesoidukiMaxSyvis } =
+    portTechnicalData;
+
+  let {
     sadamaKaptenEesnimi,
     sadamaKaptenPerenimi,
     sadamaKaptenTelefon,
     sadamaKaptenEpost,
-
-    veesoidukiMaxPikkus,
-    veesoidukiMaxLaius,
-    veesoidukiMaxSyvis,
-
-    muutmineKp,
-  } = portMainData;
+  } = harbourMasterData;
 
   let omanik = "-";
   if (sadamaPidajaEesnimi && sadamaPidajaArinimiPerenimi) {
@@ -117,7 +139,7 @@ const fetchPort = async (port) => {
 
   let omanik_telefon = "-";
   if (sadamaPidajaTelefon && sadamaPidajaTelefon.length !== 0) {
-    omanik_telefon = sadamaPidajaTelefon.join(";");
+    omanik_telefon = sadamaPidajaTelefon.join(" ").split(" +").join(";+");
   }
 
   let omanik_epost = "-";
@@ -137,7 +159,10 @@ const fetchPort = async (port) => {
 
   let sadamakapteni_telefon = "-";
   if (sadamaKaptenTelefon && sadamaKaptenTelefon.length !== 0) {
-    sadamakapteni_telefon = sadamaKaptenTelefon.join(";");
+    sadamakapteni_telefon = sadamaKaptenTelefon
+      .join(" ")
+      .split(" +")
+      .join(";+");
   }
 
   let sadamakapteni_epost = "-";
@@ -147,22 +172,27 @@ const fetchPort = async (port) => {
 
   let max_pikkus = "-";
   if (veesoidukiMaxPikkus) {
-    max_pikkus = veesoidukiMaxPikkus;
+    max_pikkus = formatNumbers(veesoidukiMaxPikkus);
   }
 
   let max_laius = "-";
   if (veesoidukiMaxLaius) {
-    max_laius = veesoidukiMaxLaius;
+    max_laius = formatNumbers(veesoidukiMaxLaius);
   }
 
   let max_sygavus = "-";
   if (veesoidukiMaxSyvis) {
-    max_sygavus = veesoidukiMaxSyvis;
+    max_sygavus = formatNumbers(veesoidukiMaxSyvis);
   }
 
-  let coords = portMainData.sadamaAsukoht.split(";");
-  coords = coords.map((str) => str.trim());
-  const [lat, lon] = coords.map(dmsConversion.parseDms);
+  let coords = portTechnicalData.sadamaAsukoht;
+  const input = {
+    type: "Point",
+    coordinates: [coords.x, coords.y],
+  };
+
+  const output = reproject.reproject(input, "EPSG:3301", "EPSG:4326", EPSG);
+  const [lon, lat] = output.coordinates;
 
   let feature = {
     type: "Feature",
