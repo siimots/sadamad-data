@@ -1136,12 +1136,12 @@
         "omanik_epost": "info@meremuuseum.ee",
         "koduleht": "https://www.meremuuseum.ee/",
         "sadamakapteni_nimi": "Rein Raudsalu",
-        "sadamakapteni_telefon": "+372 57704988",
+        "sadamakapteni_telefon": "+372 56205552",
         "sadamakapteni_epost": "sadam@lennusadam.eu",
         "max_pikkus": "90.0",
         "max_laius": "30.0",
         "max_sygavus": "7.0",
-        "modified_date": "28.05.2024"
+        "modified_date": "03.06.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4257,16 +4257,16 @@
         "sadamaregister": 1939,
         "sadama_nimi": "JÕE PAADISADAM",
         "omanik": "mittetulundusühing Paadisadam Jõe",
-        "omanik_telefon": "+372 5274280",
+        "omanik_telefon": "+372 58026290",
         "omanik_epost": "paadisadam@gmail.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Valmar Evert",
-        "sadamakapteni_telefon": "5274280",
-        "sadamakapteni_epost": "valmar.evert@gmail.com",
+        "sadamakapteni_nimi": "Rait Kuusik",
+        "sadamakapteni_telefon": "58026290",
+        "sadamakapteni_epost": "rait@cke.ee ",
         "max_pikkus": "7.0",
         "max_laius": "2.5",
         "max_sygavus": "1.0",
-        "modified_date": "05.04.2024"
+        "modified_date": "05.06.2024"
       },
       "geometry": {
         "type": "Point",
