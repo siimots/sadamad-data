@@ -1407,16 +1407,16 @@
         "sadamaregister": 323,
         "sadama_nimi": "MUSTVEE SADAM",
         "omanik": "Mustvee Vallavalitsus",
-        "omanik_telefon": "+372 77 26 161",
+        "omanik_telefon": "+372 772 6161",
         "omanik_epost": "info@mustvee.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Sergei Uleksin",
-        "sadamakapteni_telefon": "+372 50 55 061",
-        "sadamakapteni_epost": "mustteenus@gmail.com",
+        "sadamakapteni_nimi": "Kaupo Kaasik",
+        "sadamakapteni_telefon": "+372 5112278",
+        "sadamakapteni_epost": "kaupokaasik@gmail.com",
         "max_pikkus": "23.9",
         "max_laius": "10.0",
         "max_sygavus": "1.1",
-        "modified_date": "05.04.2024"
+        "modified_date": "13.06.2024"
       },
       "geometry": {
         "type": "Point",
