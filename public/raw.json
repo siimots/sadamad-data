@@ -9,14 +9,14 @@
         "omanik": "OÜ Koljunuki Sadam",
         "omanik_telefon": "+372 5235000",
         "omanik_epost": "sadam@koljunuki.ee",
-        "koduleht": "https://www.koljunuki.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Andres Vainola",
         "sadamakapteni_telefon": "+372 5035000",
         "sadamakapteni_epost": "sadam@koljunuki.ee",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "2.5",
-        "modified_date": "05.04.2024"
+        "modified_date": "17.06.2024"
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +166,7 @@
         "max_pikkus": "18.0",
         "max_laius": "5.0",
         "max_sygavus": "2.1",
-        "modified_date": "30.05.2024"
+        "modified_date": "17.06.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
         "max_pikkus": "23.9",
         "max_laius": "10.0",
         "max_sygavus": "1.1",
-        "modified_date": "13.06.2024"
+        "modified_date": "17.06.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +1991,7 @@
         "max_pikkus": "250.0",
         "max_laius": "36.0",
         "max_sygavus": "12.0",
-        "modified_date": "05.04.2024"
+        "modified_date": "18.06.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2606,17 +2606,17 @@
       "properties": {
         "sadamaregister": 373,
         "sadama_nimi": "SUUR-HOLMI SADAM",
-        "omanik": "OÜ Modify",
-        "omanik_telefon": "+372 5030777",
-        "omanik_epost": "aivar.lohmist@ieg.ee",
+        "omanik": "GHM Halduse OÜ",
+        "omanik_telefon": "+372 5652887",
+        "omanik_epost": "ieg@ieg.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Valdo Kivi",
-        "sadamakapteni_telefon": "+372 5652887",
+        "sadamakapteni_telefon": "+3725652887",
         "sadamakapteni_epost": "valdo.kivi@ieg.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "10.05.2024"
+        "modified_date": "17.06.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4041,7 @@
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "05.04.2024"
+        "modified_date": "18.06.2024"
       },
       "geometry": {
         "type": "Point",
