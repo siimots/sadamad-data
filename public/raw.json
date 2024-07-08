@@ -2807,16 +2807,16 @@
         "sadamaregister": 382,
         "sadama_nimi": "TOILA SADAM",
         "omanik": "Toila Sadam",
-        "omanik_telefon": "-",
+        "omanik_telefon": "+372 5209403",
         "omanik_epost": "sadam@toila.ee",
-        "koduleht": "https://www.visitestonia.com/en/toila-harbour-18",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Simm Veiko",
         "sadamakapteni_telefon": "+372 56663590",
         "sadamakapteni_epost": "veiko.simm@toila.ee",
         "max_pikkus": "18.0",
         "max_laius": "6.0",
         "max_sygavus": "1.3",
-        "modified_date": "05.04.2024"
+        "modified_date": "04.07.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4059,14 +4059,14 @@
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+372 55699195",
         "omanik_epost": "info@narvasadam.ee",
-        "koduleht": "http://narvasadam.ee/narva-sadam/%C3%BCldinfo.html",
+        "koduleht": "http://www.narvasadam.ee/",
         "sadamakapteni_nimi": "Anatoli Ivanov",
         "sadamakapteni_telefon": "+372 55699195",
         "sadamakapteni_epost": "info@narvasadam.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
-        "max_sygavus": "2.0",
-        "modified_date": "05.04.2024"
+        "max_sygavus": "2.2",
+        "modified_date": "05.07.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4084,14 +4084,14 @@
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+372 55699195",
         "omanik_epost": "info@narvasadam.ee",
-        "koduleht": "http://narvasadam.ee/narva-sadam/%C3%BCldinfo.html",
+        "koduleht": "http://www.narvasadam.ee/",
         "sadamakapteni_nimi": "Anatoli Ivanov",
         "sadamakapteni_telefon": "+372 55699195",
         "sadamakapteni_epost": "info@narvasadam.ee",
         "max_pikkus": "18.0",
         "max_laius": "7.0",
-        "max_sygavus": "0.7",
-        "modified_date": "05.04.2024"
+        "max_sygavus": "1.0",
+        "modified_date": "05.07.2024"
       },
       "geometry": {
         "type": "Point",
