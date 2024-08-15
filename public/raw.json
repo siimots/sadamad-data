@@ -3681,9 +3681,9 @@
       "properties": {
         "sadamaregister": 901,
         "sadama_nimi": "VEERE VANASADAM",
-        "omanik": "Osaühing Politeia",
-        "omanik_telefon": "+372 5017378",
-        "omanik_epost": "kilumets@tt.ee",
+        "omanik": "Energy Port OÜ",
+        "omanik_telefon": "+372 56647926",
+        "omanik_epost": "fred@sfe.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3691,7 +3691,7 @@
         "max_pikkus": "23.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "05.04.2024"
+        "modified_date": "14.08.2024"
       },
       "geometry": {
         "type": "Point",
