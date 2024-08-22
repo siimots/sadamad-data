@@ -1866,7 +1866,7 @@
         "max_pikkus": "5.0",
         "max_laius": "2.0",
         "max_sygavus": "0.5",
-        "modified_date": "16.08.2024"
+        "modified_date": "21.08.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5898,6 +5898,31 @@
         "coordinates": [
           25.96714,
           58.36928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9000,
+        "sadama_nimi": "MEREMÄE SADAM",
+        "omanik": "Shiny OÜ",
+        "omanik_telefon": "+372 5185857",
+        "omanik_epost": "helenaveanes@gmail.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "6.0",
+        "max_laius": "2.2",
+        "max_sygavus": "0.9",
+        "modified_date": "21.08.2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.94916,
+          58.82786
         ]
       }
     },
