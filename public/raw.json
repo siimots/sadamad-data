@@ -2316,7 +2316,7 @@
         "max_pikkus": "23.9",
         "max_laius": "7.5",
         "max_sygavus": "1.2",
-        "modified_date": "01.08.2024"
+        "modified_date": "30.08.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "06.05.2024"
+        "modified_date": "30.08.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3383,15 +3383,15 @@
         "sadama_nimi": "KÄRDLA SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadam@hiiumaa.ee",
+        "omanik_epost": "sadamad@hiiumaa.ee",
         "koduleht": "https://www.hiiumaasadamad.ee/",
         "sadamakapteni_nimi": "Romet Keskla",
-        "sadamakapteni_telefon": "56881400",
+        "sadamakapteni_telefon": "56662514",
         "sadamakapteni_epost": "sadamad@hiiumaa.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "9.0",
-        "max_sygavus": "3.0",
-        "modified_date": "05.04.2024"
+        "max_pikkus": "24.0",
+        "max_laius": "8.0",
+        "max_sygavus": "3.2",
+        "modified_date": "30.08.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3958,15 +3958,15 @@
         "sadama_nimi": "SÕRU JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadam@hiiumaa.ee",
-        "koduleht": "https://www.hiiumaasadamad.ee/",
+        "omanik_epost": "sadamad@hiiumaa.ee",
+        "koduleht": "https://hiiumaasadamad.ee/",
         "sadamakapteni_nimi": "Romet Keskla",
-        "sadamakapteni_telefon": "56881400",
+        "sadamakapteni_telefon": "56662514",
         "sadamakapteni_epost": "sadamad@hiiumaa.ee",
-        "max_pikkus": "17.0",
+        "max_pikkus": "24.0",
         "max_laius": "6.0",
-        "max_sygavus": "2.0",
-        "modified_date": "05.04.2024"
+        "max_sygavus": "2.3",
+        "modified_date": "30.08.2024"
       },
       "geometry": {
         "type": "Point",
