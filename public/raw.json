@@ -141,7 +141,7 @@
         "max_pikkus": "90.0",
         "max_laius": "12.0",
         "max_sygavus": "3.7",
-        "modified_date": "06.05.2024"
+        "modified_date": "24.09.2024"
       },
       "geometry": {
         "type": "Point",
@@ -882,16 +882,16 @@
         "sadamaregister": 302,
         "sadama_nimi": "KURESSAARE SADAM",
         "omanik": "Saaremaa Merispordi Selts",
-        "omanik_telefon": "+372 4544140",
+        "omanik_telefon": "+372 5092676",
         "omanik_epost": "kommodoor@saaremaamerispordiselts.ee",
-        "koduleht": "-",
+        "koduleht": "http://www.saaremaamerispordiselts.ee/",
         "sadamakapteni_nimi": "Oskar Jõgi",
         "sadamakapteni_telefon": "+372 453 3450",
         "sadamakapteni_epost": "sadam@kuressaare.ee",
         "max_pikkus": "23.9",
         "max_laius": "4.0",
         "max_sygavus": "2.1",
-        "modified_date": "09.09.2024"
+        "modified_date": "24.09.2024"
       },
       "geometry": {
         "type": "Point",
