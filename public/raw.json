@@ -816,7 +816,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "05.04.2024"
+        "modified_date": "27.09.2024"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +891,7 @@
         "max_pikkus": "23.9",
         "max_laius": "4.0",
         "max_sygavus": "2.1",
-        "modified_date": "24.09.2024"
+        "modified_date": "27.09.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2316,7 @@
         "max_pikkus": "23.9",
         "max_laius": "7.5",
         "max_sygavus": "1.2",
-        "modified_date": "30.08.2024"
+        "modified_date": "27.09.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2891,7 +2891,7 @@
         "max_pikkus": "70.0",
         "max_laius": "15.0",
         "max_sygavus": "4.0",
-        "modified_date": "05.04.2024"
+        "modified_date": "27.09.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2982,16 +2982,16 @@
         "sadamaregister": 389,
         "sadama_nimi": "VASKNARVA PAADISADAM",
         "omanik": "Sihtasutus Alutagusemaa",
-        "omanik_telefon": "53409362",
-        "omanik_epost": "info@alutagusemaa.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Taavi Vogt",
-        "sadamakapteni_telefon": "+372 55553487",
-        "sadamakapteni_epost": "taavi.vogt@alutagusevald.ee",
+        "omanik_telefon": "+372 5304 0818",
+        "omanik_epost": "sadam@alutagusemaa.ee",
+        "koduleht": "https://alutagusemaa.ee/",
+        "sadamakapteni_nimi": "Aivar Oja",
+        "sadamakapteni_telefon": "+372 5304 0818",
+        "sadamakapteni_epost": "aivar.oja@alutagusemaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "8.0",
         "max_sygavus": "1.5",
-        "modified_date": "09.07.2024"
+        "modified_date": "26.09.2024"
       },
       "geometry": {
         "type": "Point",
