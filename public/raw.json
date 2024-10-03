@@ -886,12 +886,12 @@
         "omanik_epost": "kommodoor@saaremaamerispordiselts.ee",
         "koduleht": "http://www.saaremaamerispordiselts.ee/",
         "sadamakapteni_nimi": "Oskar Jõgi",
-        "sadamakapteni_telefon": "+372 453 3450",
-        "sadamakapteni_epost": "sadam@kuressaare.ee",
+        "sadamakapteni_telefon": "+372 5031953",
+        "sadamakapteni_epost": "info@kuressaarejahisadam.ee",
         "max_pikkus": "23.9",
         "max_laius": "4.0",
         "max_sygavus": "2.1",
-        "modified_date": "27.09.2024"
+        "modified_date": "02.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3016,7 +3016,7 @@
         "max_pikkus": "200.0",
         "max_laius": "35.0",
         "max_sygavus": "10.2",
-        "modified_date": "05.04.2024"
+        "modified_date": "30.09.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5834,14 +5834,14 @@
         "omanik": "AS Eesti Varude Keskus",
         "omanik_telefon": "+372 6600900",
         "omanik_epost": "info@espa.ee",
-        "koduleht": "-",
+        "koduleht": "https://www.espa.ee/",
         "sadamakapteni_nimi": "Peeter Sepp",
         "sadamakapteni_telefon": "+372 520 8342",
         "sadamakapteni_epost": "p.sepp@ts.ee",
         "max_pikkus": "295.0",
         "max_laius": "50.0",
         "max_sygavus": "13.0",
-        "modified_date": "12.04.2024"
+        "modified_date": "02.10.2024"
       },
       "geometry": {
         "type": "Point",
