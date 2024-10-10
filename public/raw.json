@@ -1708,15 +1708,15 @@
         "sadama_nimi": "ORISSAARE SADAM",
         "omanik": "Perekond Piidivabrik MTÜ",
         "omanik_telefon": "+372 56239358",
-        "omanik_epost": "info@illiku.ee",
-        "koduleht": "https://www.illiku.ee/",
+        "omanik_epost": "piidivabrik@gmail.com",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Jürgen Visnapuu",
         "sadamakapteni_telefon": "+37253739913",
         "sadamakapteni_epost": "sadamakapten@illiku.ee",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.8",
-        "modified_date": "05.04.2024"
+        "modified_date": "07.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "30.08.2024"
+        "modified_date": "09.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5157,16 +5157,16 @@
         "sadamaregister": 2659,
         "sadama_nimi": "ALLIKLEPA SADAM",
         "omanik": "Alliklepa Sadam OÜ",
-        "omanik_telefon": "+372 5258735",
-        "omanik_epost": "info@alliklepasadam.ee",
-        "koduleht": "https://www.alliklepasadam.ee/",
+        "omanik_telefon": "+372 6180820",
+        "omanik_epost": "mart.rask@rask.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Märt Rask",
         "sadamakapteni_telefon": "+3725258735",
         "sadamakapteni_epost": "info@alliklepasadam.ee",
         "max_pikkus": "12.2",
         "max_laius": "4.0",
         "max_sygavus": "2.3",
-        "modified_date": "05.04.2024"
+        "modified_date": "07.10.2024"
       },
       "geometry": {
         "type": "Point",
