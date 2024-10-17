@@ -65,8 +65,8 @@
         "sadamakapteni_epost": "andrus.saat@saarteliinid.ee",
         "max_pikkus": "40.0",
         "max_laius": "15.0",
-        "max_sygavus": "2.5",
-        "modified_date": "28.06.2024"
+        "max_sygavus": "2.7",
+        "modified_date": "16.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1366,7 +1366,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "04.10.2024"
+        "modified_date": "16.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1532,16 +1532,16 @@
         "sadamaregister": 328,
         "sadama_nimi": "NASVA SADAM",
         "omanik": "Baltic Workboats AS",
-        "omanik_telefon": "+372 5096667",
-        "omanik_epost": "info@bwb.ee",
+        "omanik_telefon": "+372 4521140",
+        "omanik_epost": "teade@bwb.ee",
         "koduleht": "https://www.balticworkboats.ee/",
         "sadamakapteni_nimi": "Gregor Elm",
         "sadamakapteni_telefon": "+372 53432489",
-        "sadamakapteni_epost": "gregor@lahesuu.ee",
+        "sadamakapteni_epost": "gregor.elm@lahesuu.ee",
         "max_pikkus": "130.0",
         "max_laius": "25.0",
         "max_sygavus": "3.8",
-        "modified_date": "05.04.2024"
+        "modified_date": "16.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3266,7 +3266,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "2.3",
-        "modified_date": "03.09.2024"
+        "modified_date": "15.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5923,6 +5923,31 @@
         "coordinates": [
           22.94916,
           58.82786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9003,
+        "sadama_nimi": "RAHUSTE SADAM (EHITAMISEL)",
+        "omanik": "HEYSIP OÜ",
+        "omanik_telefon": "+372 53483783",
+        "omanik_epost": "siim@heysip.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Siim Pärn",
+        "sadamakapteni_telefon": "53483783",
+        "sadamakapteni_epost": "Siim@heysip.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.5",
+        "modified_date": "16.10.2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1335,
+          58.07089
         ]
       }
     },
