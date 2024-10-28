@@ -385,13 +385,13 @@
         "omanik_telefon": "+37253700023",
         "omanik_epost": "marina@havenk.com",
         "koduleht": "https://havenk.com/",
-        "sadamakapteni_nimi": "Rein Raudsalu",
-        "sadamakapteni_telefon": "+37253700023",
-        "sadamakapteni_epost": "marina@havenk.com",
+        "sadamakapteni_nimi": "Andres Kungla",
+        "sadamakapteni_telefon": "5049361",
+        "sadamakapteni_epost": "kunglaandres@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "3.4",
-        "modified_date": "10.06.2024"
+        "modified_date": "24.10.2024"
       },
       "geometry": {
         "type": "Point",
