@@ -1541,7 +1541,7 @@
         "max_pikkus": "130.0",
         "max_laius": "25.0",
         "max_sygavus": "3.8",
-        "modified_date": "16.10.2024"
+        "modified_date": "31.10.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5841,7 +5841,7 @@
         "max_pikkus": "295.0",
         "max_laius": "50.0",
         "max_sygavus": "13.0",
-        "modified_date": "02.10.2024"
+        "modified_date": "31.10.2024"
       },
       "geometry": {
         "type": "Point",
