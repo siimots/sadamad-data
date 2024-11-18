@@ -1066,7 +1066,7 @@
         "max_pikkus": "45.0",
         "max_laius": "13.0",
         "max_sygavus": "3.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "15.11.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1316,7 +1316,7 @@
         "max_pikkus": "45.0",
         "max_laius": "13.0",
         "max_sygavus": "3.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "15.11.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5948,6 +5948,31 @@
         "coordinates": [
           22.1335,
           58.07089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9005,
+        "sadama_nimi": "KIRDERANNA SADAM",
+        "omanik": "Saaremaa Vallavalitsus",
+        "omanik_telefon": "+372 4525000",
+        "omanik_epost": "vald@saaremaavald.ee",
+        "koduleht": "https://www.saaremaavald.ee/",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "6.0",
+        "max_laius": "2.0",
+        "max_sygavus": "0.5",
+        "modified_date": "15.11.2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.86415,
+          58.62091
         ]
       }
     },
