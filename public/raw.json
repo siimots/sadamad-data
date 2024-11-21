@@ -4980,18 +4980,18 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 2354,
-        "sadama_nimi": "KAREPA SADAM (EHITAMISEL)",
+        "sadama_nimi": "KAREPA SADAM",
         "omanik": "Mittetulundusühing Karepa Kalasadam",
-        "omanik_telefon": "+372 5205763",
+        "omanik_telefon": "+372 5036650",
         "omanik_epost": "karepasadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
+        "max_pikkus": "10.0",
         "max_laius": "2.5",
-        "max_sygavus": "0.8",
-        "modified_date": "05.04.2024"
+        "max_sygavus": "1.0",
+        "modified_date": "20.11.2024"
       },
       "geometry": {
         "type": "Point",
