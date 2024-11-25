@@ -1207,7 +1207,7 @@
         "sadamaregister": 315,
         "sadama_nimi": "LINDI SADAM",
         "omanik": "Mittetulundusühing Lindi Sadamaarendus",
-        "omanik_telefon": "+372 5206931",
+        "omanik_telefon": "+372 5092768",
         "omanik_epost": "lindi.sadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -1216,7 +1216,7 @@
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "13.11.2024"
+        "modified_date": "21.11.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1366,7 +1366,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "21.11.2024"
       },
       "geometry": {
         "type": "Point",
@@ -4532,16 +4532,16 @@
         "sadamaregister": 2114,
         "sadama_nimi": "HARA SADAM",
         "omanik": "Mittetulundusühing Hara Sadam",
-        "omanik_telefon": "+372 56900433;+372 5021000",
-        "omanik_epost": "sadam@harasadam.ee",
-        "koduleht": "https://www.harasadam.ee/",
+        "omanik_telefon": "+372 5021000",
+        "omanik_epost": "tarvi.velstrom@mail.ee",
+        "koduleht": "https://harasadam.ee/",
         "sadamakapteni_nimi": "Tarvi Velström",
-        "sadamakapteni_telefon": "+372;+372 5021000",
+        "sadamakapteni_telefon": "+372 5021000",
         "sadamakapteni_epost": "tarvi.velstrom@mail.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "3.0",
-        "modified_date": "13.11.2024"
+        "modified_date": "21.11.2024"
       },
       "geometry": {
         "type": "Point",
