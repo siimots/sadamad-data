@@ -107,7 +107,7 @@
         "sadamaregister": 150,
         "sadama_nimi": "BEKKERI SADAM",
         "omanik": "OÜ Tallinna Bekkeri Sadam",
-        "omanik_telefon": "+372 58550008",
+        "omanik_telefon": "+372 6201600",
         "omanik_epost": "info@tallinnbekkerport.com",
         "koduleht": "https://www.tallinnbekkerport.com/",
         "sadamakapteni_nimi": "Gunnar Kellamov",
@@ -116,7 +116,7 @@
         "max_pikkus": "190.0",
         "max_laius": "31.0",
         "max_sygavus": "10.2",
-        "modified_date": "13.11.2024"
+        "modified_date": "04.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -386,12 +386,12 @@
         "omanik_epost": "marina@havenk.com",
         "koduleht": "https://havenk.com/",
         "sadamakapteni_nimi": "Andres Kungla",
-        "sadamakapteni_telefon": "5049361",
-        "sadamakapteni_epost": "kunglaandres@gmail.com",
+        "sadamakapteni_telefon": "+372 53700023",
+        "sadamakapteni_epost": "marina@havenk.com",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "3.4",
-        "modified_date": "13.11.2024"
+        "modified_date": "03.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +816,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "04.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5030,7 +5030,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 2501,
-        "sadama_nimi": "MAHU SADAM (EHITAMISEL)",
+        "sadama_nimi": "MAHU SADAM",
         "omanik": "Viru-Nigula vallavalitsus",
         "omanik_telefon": "+372 3255960",
         "omanik_epost": "vallavalitsus@viru-nigula.ee",
@@ -5041,13 +5041,13 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "05.04.2024"
+        "modified_date": "04.12.2024"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.72785,
-          59.51989
+          26.72677,
+          59.52098
         ]
       }
     },
