@@ -41,7 +41,7 @@
         "max_pikkus": "196.0",
         "max_laius": "32.0",
         "max_sygavus": "12.3",
-        "modified_date": "13.11.2024"
+        "modified_date": "11.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +82,7 @@
         "sadamaregister": 101,
         "sadama_nimi": "AEGNA SADAM",
         "omanik": "Tallinna Transpordiamet",
-        "omanik_telefon": "+372 6404618;+372 6404620",
+        "omanik_telefon": "+372 6404618",
         "omanik_epost": "tta@tallinnlv.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Rommi Õige",
@@ -91,7 +91,7 @@
         "max_pikkus": "30.0",
         "max_laius": "8.0",
         "max_sygavus": "1.9",
-        "modified_date": "13.11.2024"
+        "modified_date": "09.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -132,16 +132,16 @@
         "sadamaregister": 151,
         "sadama_nimi": "DIRHAMI SADAM",
         "omanik": "MELLSON GRUPP OÜ",
-        "omanik_telefon": "+372 4797221",
+        "omanik_telefon": "+372 56233232",
         "omanik_epost": "info@portdirham.ee",
-        "koduleht": "https://www.dirhami.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "VIKTOR ROHTLA",
         "sadamakapteni_telefon": "+37256233232",
         "sadamakapteni_epost": "info@portdirham.ee",
         "max_pikkus": "90.0",
         "max_laius": "12.0",
         "max_sygavus": "3.7",
-        "modified_date": "13.11.2024"
+        "modified_date": "09.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "06.12.2024"
+        "modified_date": "11.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1035,13 +1035,13 @@
         "omanik_telefon": "+372 516 7657",
         "omanik_epost": "info@lahesuu.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Gregor Elm",
+        "sadamakapteni_telefon": "+372 6833300",
+        "sadamakapteni_epost": "lahesuu@lahesuu.ee",
         "max_pikkus": "160.0",
         "max_laius": "35.0",
         "max_sygavus": "4.1",
-        "modified_date": "13.11.2024"
+        "modified_date": "10.12.2024"
       },
       "geometry": {
         "type": "Point",
