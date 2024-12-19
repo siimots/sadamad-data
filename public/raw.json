@@ -841,7 +841,7 @@
         "max_pikkus": "150.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "13.11.2024"
+        "modified_date": "18.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3009,14 +3009,14 @@
         "omanik": "BLRT Grupp AS",
         "omanik_telefon": "+372 6102408",
         "omanik_epost": "blrt@blrt.ee",
-        "koduleht": "https://www.portvenebalti.ee/",
+        "koduleht": "https://www.blrt.ee/",
         "sadamakapteni_nimi": "Marek Rauk",
         "sadamakapteni_telefon": "+372 56722295",
         "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "200.0",
         "max_laius": "35.0",
         "max_sygavus": "10.2",
-        "modified_date": "13.11.2024"
+        "modified_date": "17.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3166,7 +3166,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.9",
-        "modified_date": "13.11.2024"
+        "modified_date": "18.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -5091,7 +5091,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "13.11.2024"
+        "modified_date": "17.12.2024"
       },
       "geometry": {
         "type": "Point",
