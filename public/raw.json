@@ -441,7 +441,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "3.0",
-        "modified_date": "13.11.2024"
+        "modified_date": "19.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +816,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.5",
-        "modified_date": "04.12.2024"
+        "modified_date": "20.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -991,7 +991,7 @@
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "1.0",
-        "modified_date": "06.12.2024"
+        "modified_date": "20.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1716,7 @@
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.8",
-        "modified_date": "13.11.2024"
+        "modified_date": "20.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3066,7 @@
         "max_pikkus": "130.0",
         "max_laius": "20.0",
         "max_sygavus": "6.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "20.12.2024"
       },
       "geometry": {
         "type": "Point",
@@ -3273,31 +3273,6 @@
         "coordinates": [
           23.98852,
           58.30924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 403,
-        "sadama_nimi": "WESTMERI SADAM",
-        "omanik": "Osaühing Morobell",
-        "omanik_telefon": "+372 5303 9129",
-        "omanik_epost": "info@westmeri.ee",
-        "koduleht": "https://westmeri.ee/",
-        "sadamakapteni_nimi": "Andres Niglas",
-        "sadamakapteni_telefon": "+37253039129",
-        "sadamakapteni_epost": "info@morobell.ee",
-        "max_pikkus": "35.0",
-        "max_laius": "10.0",
-        "max_sygavus": "3.2",
-        "modified_date": "13.11.2024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.52372,
-          58.96042
         ]
       }
     },
@@ -5756,17 +5731,17 @@
       "properties": {
         "sadamaregister": 8351,
         "sadama_nimi": "KÄSMU MAJAKA SADAM",
-        "omanik": "Mittetulundusühing Käsmu Majaka Sadam",
-        "omanik_telefon": "-",
+        "omanik": "Mittetulundusühing Käsmu Sadam",
+        "omanik_telefon": "+372 5066622",
         "omanik_epost": "sadam@kasmusadam.ee",
-        "koduleht": "https://www.kasmusadam.ee/",
+        "koduleht": "https://www.käsmusadam.ee/",
         "sadamakapteni_nimi": "Margus Välkmann",
         "sadamakapteni_telefon": "+37253302748",
         "sadamakapteni_epost": "sadam@kasmusadam.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "19.12.2024"
       },
       "geometry": {
         "type": "Point",
