@@ -3279,6 +3279,31 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 403,
+        "sadama_nimi": "WESTMERI SADAM",
+        "omanik": "Osaühing Morobell",
+        "omanik_telefon": "+372 5303 9129",
+        "omanik_epost": "info@westmeri.ee",
+        "koduleht": "https://westmeri.ee/",
+        "sadamakapteni_nimi": "Andres Niglas",
+        "sadamakapteni_telefon": "+37253039129",
+        "sadamakapteni_epost": "info@morobell.ee",
+        "max_pikkus": "35.0",
+        "max_laius": "10.0",
+        "max_sygavus": "3.2",
+        "modified_date": "13.11.2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52372,
+          58.96042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 404,
         "sadama_nimi": "WESTMERI JAHISADAM",
         "omanik": "Osaühing Morobell",
