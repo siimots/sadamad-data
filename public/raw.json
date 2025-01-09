@@ -2241,7 +2241,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "31.12.2024"
+        "modified_date": "08.01.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5973,6 +5973,31 @@
         "coordinates": [
           22.86415,
           58.62091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9006,
+        "sadama_nimi": "VESTSILLA SADAM",
+        "omanik": "Andres Sikkal",
+        "omanik_telefon": "+3725161460",
+        "omanik_epost": "andres@weldmets.com",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Andres Sikkal",
+        "sadamakapteni_telefon": "+3725161460",
+        "sadamakapteni_epost": "andres@weldmets.com",
+        "max_pikkus": "12.0",
+        "max_laius": "3.5",
+        "max_sygavus": "1.4",
+        "modified_date": "07.01.2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.45839,
+          58.94121
         ]
       }
     },
