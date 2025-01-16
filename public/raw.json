@@ -5929,6 +5929,31 @@
     {
       "type": "Feature",
       "properties": {
+        "sadamaregister": 9001,
+        "sadama_nimi": "NARVA-JÕESUU JAHTKLUBI SADAM",
+        "omanik": "MTÜ Narva-Jõesuu Jahtklubi",
+        "omanik_telefon": "+372 5280804",
+        "omanik_epost": "narvajoesuu.jahtklubi@gmail.com",
+        "koduleht": "https://www.facebook.com/narvajoesuujahtklubi",
+        "sadamakapteni_nimi": "Tarmo Kalme",
+        "sadamakapteni_telefon": "5280804",
+        "sadamakapteni_epost": "narvajoesuu.jahtklubi@gmail.com",
+        "max_pikkus": "24.0",
+        "max_laius": "4.0",
+        "max_sygavus": "2.0",
+        "modified_date": "15.01.2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05655,
+          59.45981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "sadamaregister": 9003,
         "sadama_nimi": "RAHUSTE SADAM (EHITAMISEL)",
         "omanik": "HEYSIP OÜ",
