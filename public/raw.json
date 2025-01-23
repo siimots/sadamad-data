@@ -466,7 +466,7 @@
         "max_pikkus": "340.0",
         "max_laius": "42.0",
         "max_sygavus": "10.3",
-        "modified_date": "02.01.2025"
+        "modified_date": "20.01.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1116,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "13.11.2024"
+        "modified_date": "22.01.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1657,7 +1657,7 @@
         "sadamaregister": 333,
         "sadama_nimi": "PALDISKI LÕUNASADAM",
         "omanik": "aktsiaselts TALLINNA SADAM",
-        "omanik_telefon": "+372 6318002;+372 6318555",
+        "omanik_telefon": "+372 6318555",
         "omanik_epost": "ts@ts.ee",
         "koduleht": "https://www.ts.ee/",
         "sadamakapteni_nimi": "Peeter Sepp",
@@ -1666,7 +1666,7 @@
         "max_pikkus": "250.0",
         "max_laius": "45.0",
         "max_sygavus": "14.5",
-        "modified_date": "13.11.2024"
+        "modified_date": "21.01.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2016,7 @@
         "max_pikkus": "30.0",
         "max_laius": "8.0",
         "max_sygavus": "1.9",
-        "modified_date": "09.01.2025"
+        "modified_date": "22.01.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3691,7 +3691,7 @@
         "max_pikkus": "23.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "17.01.2025"
+        "modified_date": "20.01.2025"
       },
       "geometry": {
         "type": "Point",
