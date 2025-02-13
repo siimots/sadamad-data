@@ -207,7 +207,7 @@
         "sadamaregister": 156,
         "sadama_nimi": "ALAJÕE KALASADAM",
         "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+372 5151976",
+        "omanik_telefon": "+372 5033724",
         "omanik_epost": "indekovara@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -216,7 +216,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.1",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -241,7 +241,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -266,7 +266,7 @@
         "max_pikkus": "130.0",
         "max_laius": "30.0",
         "max_sygavus": "8.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "11.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -991,7 +991,7 @@
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "12.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2116,7 +2116,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "11.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2716,7 +2716,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3216,7 +3216,7 @@
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "11.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3357,16 +3357,16 @@
         "sadamaregister": 450,
         "sadama_nimi": "EISMA SADAM",
         "omanik": "Mittetulundusühing EISMA SADAM",
-        "omanik_telefon": "+372 53452487",
-        "omanik_epost": "info@eismasadam.ee",
-        "koduleht": "https://www.eismasadam.ee/",
+        "omanik_telefon": "+372 5131442",
+        "omanik_epost": "tiiupedaja@gmail.com",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Kaarel Einpalu",
         "sadamakapteni_telefon": "+372 53452487",
         "sadamakapteni_epost": "kapten@eismasadam.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "2.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3491,7 +3491,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5183,15 +5183,15 @@
         "sadama_nimi": "AHOI JÕESADAM",
         "omanik": "Hillar Lipp",
         "omanik_telefon": "+372 5183187",
-        "omanik_epost": "hillarlipp@hot.ee",
+        "omanik_epost": "hillarlipp@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "Hillar Lipp",
         "sadamakapteni_telefon": "+372 5183187",
-        "sadamakapteni_epost": "hillarlipp@hot.ee",
+        "sadamakapteni_epost": "hillarlipp@gmail.com",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5641,7 +5641,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.6",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5806,8 +5806,8 @@
       "properties": {
         "sadamaregister": 8403,
         "sadama_nimi": "BERESJE SADAM",
-        "omanik": "Setomaa vald",
-        "omanik_telefon": "+372 796 4733",
+        "omanik": "Setomaa Vallavalitsus",
+        "omanik_telefon": "+372 7964733",
         "omanik_epost": "vald@setomaa.ee",
         "koduleht": "https://setomaa.kovtp.ee/",
         "sadamakapteni_nimi": "- -",
@@ -5816,7 +5816,7 @@
         "max_pikkus": "6.1",
         "max_laius": "2.4",
         "max_sygavus": "1.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.02.2025"
       },
       "geometry": {
         "type": "Point",
