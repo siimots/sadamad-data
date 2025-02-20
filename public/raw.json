@@ -316,7 +316,7 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "17.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +366,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "17.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2241,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "17.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5107,7 +5107,7 @@
         "sadamaregister": 2640,
         "sadama_nimi": "KAAVI PAADISADAM",
         "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+372 4525000 372 5225547",
+        "omanik_telefon": "+372 4525000 ;+372 5225547",
         "omanik_epost": "vald@saaremaavald.ee",
         "koduleht": "https://www.saaremaavald.ee/",
         "sadamakapteni_nimi": "- -",
@@ -5116,7 +5116,7 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "1.4",
-        "modified_date": "06.02.2025"
+        "modified_date": "19.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5341,7 +5341,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "2.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "17.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6091,7 +6091,7 @@
         "max_pikkus": "24.0",
         "max_laius": "8.0",
         "max_sygavus": "0.6",
-        "modified_date": "06.02.2025"
+        "modified_date": "17.02.2025"
       },
       "geometry": {
         "type": "Point",
