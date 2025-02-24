@@ -1391,7 +1391,7 @@
         "max_pikkus": "15.0",
         "max_laius": "3.5",
         "max_sygavus": "1.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "21.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2258,7 +2258,7 @@
         "sadama_nimi": "ROOPA SADAM",
         "omanik": "Karala Vabatahtlik Tuletõrje Selts",
         "omanik_telefon": "+372 53403242",
-        "omanik_epost": "mihkel.raud@rescue.ee",
+        "omanik_epost": "mihkelraud@hotmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2266,7 +2266,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.6",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2407,7 +2407,7 @@
         "sadamaregister": 365,
         "sadama_nimi": "SALME JÕESADAM",
         "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+372 452 5000;+372 52 28547",
+        "omanik_telefon": "+372 4525000;+372 5228547",
         "omanik_epost": "vald@saaremaavald.ee",
         "koduleht": "https://www.saaremaavald.ee/",
         "sadamakapteni_nimi": "- -",
@@ -2416,7 +2416,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4432,7 +4432,7 @@
         "sadamaregister": 2058,
         "sadama_nimi": "TAALIKU SADAM",
         "omanik": "Mittetulundusühing Taaliku Sadam",
-        "omanik_telefon": "+372 5345 2698;+372 452 5000",
+        "omanik_telefon": "+372 53452698",
         "omanik_epost": "urmasmagi1963@hot.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -4441,7 +4441,7 @@
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "1.1",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4841,7 +4841,7 @@
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.1",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.02.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5216,7 +5216,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.02.2025"
       },
       "geometry": {
         "type": "Point",
