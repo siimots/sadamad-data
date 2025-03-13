@@ -1841,7 +1841,7 @@
         "max_pikkus": "11.7",
         "max_laius": "3.1",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1933,15 +1933,15 @@
         "sadama_nimi": "RISTNA SADAM",
         "omanik": "Mittetulundusühing Ristna sadam",
         "omanik_telefon": "+372 5059038",
-        "omanik_epost": "info@ristnasadam.ee",
-        "koduleht": "https://www.ristnasadam.ee/",
+        "omanik_epost": "enn.ristna@mail.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Enn Tõnissoo",
         "sadamakapteni_telefon": "+372 5059038",
         "sadamakapteni_epost": "enn.ristna@mail.ee",
         "max_pikkus": "15.0",
         "max_laius": "6.0",
         "max_sygavus": "1.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2506,9 +2506,9 @@
       "properties": {
         "sadamaregister": 369,
         "sadama_nimi": "PUSI VÄIKESADAM",
-        "omanik": "Peipsi Ühendus",
-        "omanik_telefon": "+372 55533493",
-        "omanik_epost": "toivo.kivi@gmail.com",
+        "omanik": "Kaldar OÜ",
+        "omanik_telefon": "+372 5034729",
+        "omanik_epost": "jannotomson@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2516,7 +2516,7 @@
         "max_pikkus": "12.0",
         "max_laius": "2.4",
         "max_sygavus": "0.3",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2732,7 +2732,7 @@
         "sadamaregister": 378,
         "sadama_nimi": "UNGUMA SADAM",
         "omanik": "Mittetulundusühing UNGUMA PAADISADAM",
-        "omanik_telefon": "+372 5160792",
+        "omanik_telefon": "+372 5150221",
         "omanik_epost": "unguma.paadisadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -2741,7 +2741,7 @@
         "max_pikkus": "7.1",
         "max_laius": "2.3",
         "max_sygavus": "0.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "12.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4132,7 +4132,7 @@
         "sadamaregister": 1650,
         "sadama_nimi": "SALINÕMME PAADISADAM",
         "omanik": "Paadiühistu Salinõmme",
-        "omanik_telefon": "-",
+        "omanik_telefon": "+372 5135680",
         "omanik_epost": "imre@kivikala.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Imre Kivi",
@@ -4141,7 +4141,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.2",
         "max_sygavus": "0.9",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4466,7 +4466,7 @@
         "max_pikkus": "10.0",
         "max_laius": "5.0",
         "max_sygavus": "0.9",
-        "modified_date": "05.03.2025"
+        "modified_date": "11.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +4941,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5316,7 +5316,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.4",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5441,7 +5441,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "0.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.03.2025"
       },
       "geometry": {
         "type": "Point",
