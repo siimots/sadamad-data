@@ -1141,7 +1141,7 @@
         "max_pikkus": "90.0",
         "max_laius": "30.0",
         "max_sygavus": "7.0",
-        "modified_date": "13.02.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2316,7 @@
         "max_pikkus": "23.9",
         "max_laius": "7.5",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2332,16 +2332,16 @@
         "sadamaregister": 361,
         "sadama_nimi": "SAAREPERA SADAM",
         "omanik": "Räpina Vallavalitsus",
-        "omanik_telefon": "+372 799 9500",
+        "omanik_telefon": "+372 7999500",
         "omanik_epost": "vald@rapina.ee",
-        "koduleht": "https://www.rapina.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "13.5",
         "max_laius": "5.0",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2732,7 +2732,7 @@
         "sadamaregister": 378,
         "sadama_nimi": "UNGUMA SADAM",
         "omanik": "Mittetulundusühing UNGUMA PAADISADAM",
-        "omanik_telefon": "+372 5150221",
+        "omanik_telefon": "+372 5150221;+372 5160792;+372 53454830",
         "omanik_epost": "unguma.paadisadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -2741,7 +2741,7 @@
         "max_pikkus": "7.1",
         "max_laius": "2.3",
         "max_sygavus": "0.5",
-        "modified_date": "12.03.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3091,7 +3091,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3109,14 +3109,14 @@
         "omanik": "K.MET AS",
         "omanik_telefon": "+372 4775380",
         "omanik_epost": "kmet@kmet.ee",
-        "koduleht": "-",
+        "koduleht": "http://www.kmet.ee/",
         "sadamakapteni_nimi": "Mardo Leiumaa",
         "sadamakapteni_telefon": "+372 5030259",
         "sadamakapteni_epost": "mardo@kmet.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3141,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3191,7 +3191,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3241,7 +3241,7 @@
         "max_pikkus": "13.5",
         "max_laius": "5.0",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3282,16 +3282,16 @@
         "sadamaregister": 403,
         "sadama_nimi": "WESTMERI SADAM",
         "omanik": "Osaühing Morobell",
-        "omanik_telefon": "+372 5303 9129",
-        "omanik_epost": "info@westmeri.ee",
-        "koduleht": "https://westmeri.ee/",
+        "omanik_telefon": "+372 4725515",
+        "omanik_epost": "info@morobell.ee",
+        "koduleht": "https://www.morobell.ee/",
         "sadamakapteni_nimi": "Andres Niglas",
         "sadamakapteni_telefon": "+37253039129",
         "sadamakapteni_epost": "info@morobell.ee",
         "max_pikkus": "35.0",
         "max_laius": "10.0",
         "max_sygavus": "3.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3316,7 +3316,7 @@
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "2.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4284,14 +4284,14 @@
         "omanik": "Viljandi Vallavalitsus",
         "omanik_telefon": "+372 53035482",
         "omanik_epost": "viljandivald@viljandivald.ee",
-        "koduleht": "https://www.viljandivald.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5233,7 +5233,7 @@
         "sadama_nimi": "ÜRGORU PAADISADAM",
         "omanik": "OÜ Ürgoru Paadisadam",
         "omanik_telefon": "+372 5266794",
-        "omanik_epost": "info@urgoru.ee",
+        "omanik_epost": "allanlill78@gmail.com",
         "koduleht": "https://www.urgoru.ee/",
         "sadamakapteni_nimi": "Allan Lill",
         "sadamakapteni_telefon": "+3725266794",
@@ -5241,7 +5241,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.5",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5391,7 +5391,7 @@
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5609,14 +5609,14 @@
         "omanik": "Seto Line Reisid OÜ",
         "omanik_telefon": "+372 5037616",
         "omanik_epost": "info@setoline.ee",
-        "koduleht": "https://www.setoline.ee/",
+        "koduleht": "https://setoline.ee/",
         "sadamakapteni_nimi": "Mart Linnus",
         "sadamakapteni_telefon": "+372 53499980",
         "sadamakapteni_epost": "varskasadam@setoline.ee",
         "max_pikkus": "23.0",
         "max_laius": "5.0",
         "max_sygavus": "1.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5884,14 +5884,14 @@
         "omanik": "Viljandi Vallavalitsus",
         "omanik_telefon": "+372 53035482",
         "omanik_epost": "viljandivald@viljandivald.ee",
-        "koduleht": "https://www.viljandivald.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "9.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "13.03.2025"
       },
       "geometry": {
         "type": "Point",
