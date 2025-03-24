@@ -632,8 +632,8 @@
         "sadamaregister": 205,
         "sadama_nimi": "KAUNISPE SADAM",
         "omanik": "mittetulundusühing Kaunispe Sadam",
-        "omanik_telefon": "+372 5178284",
-        "omanik_epost": "kairisaar1@gmail.com",
+        "omanik_telefon": "+372 5510326",
+        "omanik_epost": "kaunispesadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -641,7 +641,7 @@
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "1.6",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2241,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "17.02.2025"
+        "modified_date": "21.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3066,7 @@
         "max_pikkus": "130.0",
         "max_laius": "20.0",
         "max_sygavus": "6.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "21.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3508,15 +3508,15 @@
         "sadama_nimi": "TALVESADAM",
         "omanik": "VL Kaatrid OÜ",
         "omanik_telefon": "+372 5500400",
-        "omanik_epost": "info@rendikaater.ee",
-        "koduleht": "https://www.rendikaater.ee/",
+        "omanik_epost": "lauri@paal.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Raul Sarandi",
         "sadamakapteni_telefon": "+372 5283077",
         "sadamakapteni_epost": "raul.sarandi@gmail.com",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "21.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4706,17 +4706,17 @@
       "properties": {
         "sadamaregister": 2139,
         "sadama_nimi": "NAISTLAIU SADAM",
-        "omanik": "Pühalepa Osavalla Valitsus",
-        "omanik_telefon": "+372 463 6840",
-        "omanik_epost": "pyhalepa@hiiumaa.ee",
-        "koduleht": "-",
+        "omanik": "Hiiumaa Vallavalitsus",
+        "omanik_telefon": "+ 372 463 6082 ;+372 506 4565",
+        "omanik_epost": "valitsus@hiiumaa.ee",
+        "koduleht": "https://vald.hiiumaa.ee/",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "20.03.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4859,14 +4859,14 @@
         "omanik": "MTÜ Muratsi kalur",
         "omanik_telefon": "+372 53974722",
         "omanik_epost": "sadam@muratsi.ee",
-        "koduleht": "https://www.muratsi.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Hiie Siim",
         "sadamakapteni_telefon": "+372 53974722",
         "sadamakapteni_epost": "sadam@muratsi.ee",
         "max_pikkus": "8.0",
         "max_laius": "1.5",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "21.03.2025"
       },
       "geometry": {
         "type": "Point",
