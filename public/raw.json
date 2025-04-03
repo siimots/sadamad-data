@@ -616,7 +616,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "01.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -682,16 +682,16 @@
         "sadamaregister": 207,
         "sadama_nimi": "KELNASE SADAM",
         "omanik": "Viimsi Vallavalitsus",
-        "omanik_telefon": "+372 602 8800",
-        "omanik_epost": "kommunaal@viimsivv.ee",
-        "koduleht": "https://www.viimsivald.ee/",
+        "omanik_telefon": "+372 6028800",
+        "omanik_epost": "info@viimsi.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Viktor Palmet",
         "sadamakapteni_telefon": "+372 5128188",
         "sadamakapteni_epost": "kapten@viimsivv.ee",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "01.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -707,16 +707,16 @@
         "sadamaregister": 208,
         "sadama_nimi": "KELVINGI SADAM",
         "omanik": "KELVINGI PAADISADAM",
-        "omanik_telefon": "+372 6313465;+372 6312801",
+        "omanik_telefon": "+372 5032826",
         "omanik_epost": "avo.frei@gmail.com",
-        "koduleht": "https://www.kelvingisadam.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Avo Freibach",
         "sadamakapteni_telefon": "+372 5032826",
         "sadamakapteni_epost": "avo.frei@gmail.com",
         "max_pikkus": "10.0",
         "max_laius": "3.5",
         "max_sygavus": "1.3",
-        "modified_date": "06.02.2025"
+        "modified_date": "02.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -783,15 +783,15 @@
         "sadama_nimi": "KOGUVA SADAM",
         "omanik": "mittetulundusühing Ankur",
         "omanik_telefon": "+372 5133446",
-        "omanik_epost": "ragnar@postman.ee",
+        "omanik_epost": "info@koguva.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Ragnar Põllu",
-        "sadamakapteni_telefon": "+3725133446",
+        "sadamakapteni_telefon": "+372 5133446",
         "sadamakapteni_epost": "ragnar@postman.ee",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "02.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -858,15 +858,15 @@
         "sadama_nimi": "KUNGLA SADAM",
         "omanik": "Mittetulundusühing Kungla Sadam",
         "omanik_telefon": "+372 56472104",
-        "omanik_epost": "kunglasadam@gmail.com",
-        "koduleht": "https://www.kunglasadam.ee/",
+        "omanik_epost": "andro@mkkonsult.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Kert Kreem",
         "sadamakapteni_telefon": "+37253411457",
         "sadamakapteni_epost": "kunglasadam@gmail.com",
         "max_pikkus": "15.0",
         "max_laius": "3.5",
         "max_sygavus": "1.0",
-        "modified_date": "06.03.2025"
+        "modified_date": "02.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1157,16 +1157,16 @@
         "sadamaregister": 313,
         "sadama_nimi": "LEPPNEEME SADAM",
         "omanik": "Viimsi Vallavalitsus",
-        "omanik_telefon": "+372 602 8800",
-        "omanik_epost": "kommunaal@viimsivv.ee",
-        "koduleht": "https://www.viimsivald.ee/",
+        "omanik_telefon": "+372 6028800",
+        "omanik_epost": "info@viimsi.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Viktor Palmet",
         "sadamakapteni_telefon": "+372 512 8188",
         "sadamakapteni_epost": "kapten@viimsivv.ee",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "01.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "01.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2757,8 +2757,8 @@
         "sadamaregister": 380,
         "sadama_nimi": "TAPURLA SADAM",
         "omanik": "Sihtasutus Tapurla Sadam",
-        "omanik_telefon": "+372 5252434;+37256566828;+372 5055375",
-        "omanik_epost": "rannakalur@gmail.com",
+        "omanik_telefon": "+372 6061990",
+        "omanik_epost": "rannasadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2766,7 +2766,7 @@
         "max_pikkus": "23.9",
         "max_laius": "8.0",
         "max_sygavus": "3.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "02.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3657,8 +3657,8 @@
         "sadamaregister": 854,
         "sadama_nimi": "KESSE-JAANI SADAM",
         "omanik": "Kesse Kuningriik OÜ",
-        "omanik_telefon": "+372 5130809",
-        "omanik_epost": "indrek@pluss.ee",
+        "omanik_telefon": "+372 5177579",
+        "omanik_epost": "gtiivas@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3666,7 +3666,7 @@
         "max_pikkus": "16.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "02.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5532,7 +5532,7 @@
         "sadamaregister": 3989,
         "sadama_nimi": "KIIDEVA SADAM",
         "omanik": "Mittetulundusühing Kiideva külaselts",
-        "omanik_telefon": "+372 5022493",
+        "omanik_telefon": "+372 56158443",
         "omanik_epost": "kiidevakulaselts@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -5541,7 +5541,7 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "02.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5941,7 +5941,7 @@
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "2.0",
-        "modified_date": "28.03.2025"
+        "modified_date": "01.04.2025"
       },
       "geometry": {
         "type": "Point",
