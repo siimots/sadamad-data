@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "07.02.2025"
+        "modified_date": "08.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -908,15 +908,15 @@
         "sadama_nimi": "KURKSE SADAM",
         "omanik": "Kurkse Sadam OÜ",
         "omanik_telefon": "+372 5036435",
-        "omanik_epost": "kurksesadam@hot.ee",
-        "koduleht": "https://www.kurksesadam.ee/",
+        "omanik_epost": " info@kurksesadam.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Aleksandr Gavriljuk",
         "sadamakapteni_telefon": "+ 372 5036435",
         "sadamakapteni_epost": "disanta66@gmail.com",
         "max_pikkus": "10.0",
         "max_laius": "2.5",
         "max_sygavus": "1.2",
-        "modified_date": "06.02.2025"
+        "modified_date": "07.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1666,7 +1666,7 @@
         "max_pikkus": "250.0",
         "max_laius": "45.0",
         "max_sygavus": "14.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "08.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2516,7 +2516,7 @@
         "max_pikkus": "12.0",
         "max_laius": "2.4",
         "max_sygavus": "0.3",
-        "modified_date": "10.03.2025"
+        "modified_date": "07.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "01.04.2025"
+        "modified_date": "08.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3991,7 +3991,7 @@
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "2.5",
-        "modified_date": "24.03.2025"
+        "modified_date": "09.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4466,7 +4466,7 @@
         "max_pikkus": "10.0",
         "max_laius": "5.0",
         "max_sygavus": "0.9",
-        "modified_date": "11.03.2025"
+        "modified_date": "07.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5457,7 +5457,7 @@
         "sadamaregister": 3921,
         "sadama_nimi": "UISUSADAM",
         "omanik": "MTÜ Orissaare Kalasadam",
-        "omanik_telefon": "+372 5253544;+372 5012507",
+        "omanik_telefon": "+372 5012507",
         "omanik_epost": "jlem@online.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -5466,7 +5466,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "07.04.2025"
       },
       "geometry": {
         "type": "Point",
