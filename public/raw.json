@@ -482,7 +482,7 @@
         "sadamaregister": 167,
         "sadama_nimi": "KALEVI JAHTKLUBI SADAM",
         "omanik": "Kalevi Jahtklubi",
-        "omanik_telefon": "+37253010450",
+        "omanik_telefon": "+372 6239154",
         "omanik_epost": "info@kjk.ee",
         "koduleht": "https://www.kjk.ee/",
         "sadamakapteni_nimi": "Andres Tamm",
@@ -491,7 +491,7 @@
         "max_pikkus": "24.0",
         "max_laius": "5.0",
         "max_sygavus": "3.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "10.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3841,7 +3841,7 @@
         "max_pikkus": "2.5",
         "max_laius": "1.0",
         "max_sygavus": "0.3",
-        "modified_date": "06.02.2025"
+        "modified_date": "14.04.2025"
       },
       "geometry": {
         "type": "Point",
