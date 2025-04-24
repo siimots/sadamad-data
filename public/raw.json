@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "08.04.2025"
+        "modified_date": "21.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1032,7 +1032,7 @@
         "sadamaregister": 308,
         "sadama_nimi": "LAHESUU SADAM",
         "omanik": "Lahesuu Sadama aktsiaselts",
-        "omanik_telefon": "+372 516 7657",
+        "omanik_telefon": "+372 6833363",
         "omanik_epost": "info@lahesuu.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Gregor Elm",
@@ -1041,7 +1041,7 @@
         "max_pikkus": "160.0",
         "max_laius": "35.0",
         "max_sygavus": "4.1",
-        "modified_date": "06.02.2025"
+        "modified_date": "23.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1682,7 +1682,7 @@
         "sadamaregister": 334,
         "sadama_nimi": "OMEDU RAND",
         "omanik": "Peipsi Trade LTD OÜ",
-        "omanik_telefon": "+372 5151976",
+        "omanik_telefon": "+372 5033724",
         "omanik_epost": "indekovara@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -1691,7 +1691,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.1",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "23.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1733,15 +1733,15 @@
         "sadama_nimi": "ORJAKU SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadam@hiiumaa.ee",
-        "koduleht": "https://www.hiiumaasadamad.ee/",
+        "omanik_epost": "sadamad@hiiumaa.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Romet Keskla",
         "sadamakapteni_telefon": "56881400",
         "sadamakapteni_epost": "orjaku@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "23.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2132,16 +2132,16 @@
         "sadamaregister": 353,
         "sadama_nimi": "NOBLESSNERI SADAM",
         "omanik": "Port Noblessner OÜ",
-        "omanik_telefon": "+372 56888825;+372 6102205",
-        "omanik_epost": "port@noblessner.ee",
-        "koduleht": "https://www.noblessner.ee/",
+        "omanik_telefon": "+372 6102408",
+        "omanik_epost": "noblessner@noblessner.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Marek Rauk",
         "sadamakapteni_telefon": "+372 5688 8825",
         "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "4.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "23.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3666,7 @@
         "max_pikkus": "16.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "02.04.2025"
+        "modified_date": "23.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +4941,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "10.03.2025"
+        "modified_date": "21.04.2025"
       },
       "geometry": {
         "type": "Point",
