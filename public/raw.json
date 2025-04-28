@@ -4781,17 +4781,17 @@
       "properties": {
         "sadamaregister": 2152,
         "sadama_nimi": "NÕVA SADAM",
-        "omanik": "Nõva Osavallavalitsus",
-        "omanik_telefon": "4724670",
-        "omanik_epost": "aivi.heinleht@laanenigula.ee",
-        "koduleht": "https://www.laanenigula.ee/",
+        "omanik": "Nõva Osavalla Valitsus",
+        "omanik_telefon": "+372 56688219",
+        "omanik_epost": "nova@laanenigula.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "24.04.2025"
       },
       "geometry": {
         "type": "Point",
