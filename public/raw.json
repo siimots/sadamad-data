@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "21.04.2025"
+        "modified_date": "30.04.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2490,8 +2490,8 @@
         "sadamakapteni_epost": "r.sirol@silport.ee",
         "max_pikkus": "275.0",
         "max_laius": "56.0",
-        "max_sygavus": "15.2",
-        "modified_date": "24.03.2025"
+        "max_sygavus": "15.3",
+        "modified_date": "29.04.2025"
       },
       "geometry": {
         "type": "Point",
