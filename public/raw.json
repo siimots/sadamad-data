@@ -841,7 +841,7 @@
         "max_pikkus": "150.0",
         "max_laius": "30.0",
         "max_sygavus": "8.6",
-        "modified_date": "18.03.2025"
+        "modified_date": "06.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3916,7 +3916,7 @@
         "max_pikkus": "23.9",
         "max_laius": "5.0",
         "max_sygavus": "2.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "07.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4691,7 +4691,7 @@
         "max_pikkus": "8.0",
         "max_laius": "2.4",
         "max_sygavus": "1.0",
-        "modified_date": "04.03.2025"
+        "modified_date": "07.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6023,6 +6023,31 @@
         "coordinates": [
           23.45839,
           58.94121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9008,
+        "sadama_nimi": "MEERAPALU SADAM",
+        "omanik": "Meerapalu Sadam OÜ",
+        "omanik_telefon": "5291015",
+        "omanik_epost": "gerrit@brggrupp.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Gerrit Oberg",
+        "sadamakapteni_telefon": "5291015",
+        "sadamakapteni_epost": "Gerrit@brggrupp.ee",
+        "max_pikkus": "15.0",
+        "max_laius": "4.0",
+        "max_sygavus": "1.2",
+        "modified_date": "07.05.2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.37398,
+          58.38742
         ]
       }
     },
