@@ -66,7 +66,7 @@
         "max_pikkus": "40.0",
         "max_laius": "15.0",
         "max_sygavus": "2.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "08.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "30.04.2025"
+        "modified_date": "09.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2207,7 +2207,7 @@
         "sadamaregister": 356,
         "sadama_nimi": "PIIRIVALVESADAM",
         "omanik": "Politsei- ja Piirivalveamet",
-        "omanik_telefon": "+372 612 3300",
+        "omanik_telefon": "1247",
         "omanik_epost": "ppa@politsei.ee",
         "koduleht": "https://www.politsei.ee/",
         "sadamakapteni_nimi": "Urmas Karming",
@@ -2216,7 +2216,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "08.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3816,7 +3816,7 @@
         "max_pikkus": "23.9",
         "max_laius": "5.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "09.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4083,15 +4083,15 @@
         "sadama_nimi": "NARVA KULGU SADAM",
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+372 55699195",
-        "omanik_epost": "info@narvasadam.ee",
-        "koduleht": "http://www.narvasadam.ee/",
+        "omanik_epost": "tolik.ivanov@gmail.com",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Anatoli Ivanov",
         "sadamakapteni_telefon": "+372 55699195",
         "sadamakapteni_epost": "info@narvasadam.ee",
         "max_pikkus": "18.0",
         "max_laius": "7.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "08.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4557,16 +4557,16 @@
         "sadamaregister": 2115,
         "sadama_nimi": "NARVA-JÕESUU SADAM",
         "omanik": "Narva-Jõesuu Linnavalitsus",
-        "omanik_telefon": "+372 5850 3008",
-        "omanik_epost": "sadam@narva-joesuu.ee",
-        "koduleht": "https://www.njsadam.ee/",
+        "omanik_telefon": "+372 3599580",
+        "omanik_epost": "info@narva-joesuu.ee",
+        "koduleht": "https://narva-joesuu.ee/",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+372 58503008",
         "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
         "max_sygavus": "2.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "08.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5582,16 +5582,16 @@
         "sadamaregister": 6155,
         "sadama_nimi": "NARVA-JÕESUU KALURISADAM",
         "omanik": "Narva-Jõesuu Linnavalitsus",
-        "omanik_telefon": "+372 5850 3008",
-        "omanik_epost": "sadam@narva-joesuu.ee",
-        "koduleht": "https://www.njsadam.ee/",
+        "omanik_telefon": "+372 3599580",
+        "omanik_epost": "info@narva-joesuu.ee",
+        "koduleht": "https://narva-joesuu.ee/",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+372 58503008",
         "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "08.05.2025"
       },
       "geometry": {
         "type": "Point",
