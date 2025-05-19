@@ -16,7 +16,7 @@
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "2.5",
-        "modified_date": "06.02.2025"
+        "modified_date": "16.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2841,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.7",
-        "modified_date": "06.02.2025"
+        "modified_date": "15.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2932,8 +2932,8 @@
         "sadamaregister": 387,
         "sadama_nimi": "TÄRKMA SADAM",
         "omanik": "Mittetulundusühing Tärkma Sadama Selts",
-        "omanik_telefon": "+372 5043016",
-        "omanik_epost": "tarkmasadam@gmail.com",
+        "omanik_telefon": "+372 56651395",
+        "omanik_epost": "margus.kastein@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "Margus Kastein",
         "sadamakapteni_telefon": "+3725043016",
@@ -2941,7 +2941,7 @@
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "0.8",
-        "modified_date": "06.02.2025"
+        "modified_date": "15.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4141,7 +4141,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.2",
         "max_sygavus": "0.9",
-        "modified_date": "25.03.2025"
+        "modified_date": "15.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5259,14 +5259,14 @@
         "omanik": "Mittetulundusühing Suaru Kalasadam",
         "omanik_telefon": "+372 5119242",
         "omanik_epost": "ingvar.saare@gmail.com",
-        "koduleht": "https://kihnu.kovtp.ee/suaru-kalasadam",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Ingvar Saare",
         "sadamakapteni_telefon": "+3725119242",
         "sadamakapteni_epost": "ingvar.saare@gmail.com",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "15.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6087,11 +6087,11 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Anmar Pihlak",
         "sadamakapteni_telefon": "+372 5066426",
-        "sadamakapteni_epost": "anmar@oiusadam.ee",
+        "sadamakapteni_epost": "anmar@vortsjarv.com",
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "1.0",
-        "modified_date": "06.02.2025"
+        "modified_date": "15.05.2025"
       },
       "geometry": {
         "type": "Point",
