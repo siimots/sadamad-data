@@ -5657,7 +5657,7 @@
         "sadamaregister": 7151,
         "sadama_nimi": "KADARIKU SADAM",
         "omanik": "Enriko Sala",
-        "omanik_telefon": "+372 502 2251",
+        "omanik_telefon": "+372 502 2251;+3725022251",
         "omanik_epost": "enriko@desala.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Enriko Sala",
@@ -5666,7 +5666,7 @@
         "max_pikkus": "8.0",
         "max_laius": "4.0",
         "max_sygavus": "1.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "23.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6048,6 +6048,31 @@
         "coordinates": [
           27.37398,
           58.38742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9009,
+        "sadama_nimi": "PÄRNU VANASADAM",
+        "omanik": "OÜ LSV Holding",
+        "omanik_telefon": "+372 5166317",
+        "omanik_epost": "kaspar.kokk@transcom.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "120.0",
+        "max_laius": "12.0",
+        "max_sygavus": "6.0",
+        "modified_date": "23.05.2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4914,
+          58.38764
         ]
       }
     },
