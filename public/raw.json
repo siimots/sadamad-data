@@ -1986,12 +1986,12 @@
         "omanik_epost": "info@portofpaldiski.ee",
         "koduleht": "https://www.portofpaldiski.ee/",
         "sadamakapteni_nimi": "Riho Randoja",
-        "sadamakapteni_telefon": "+372 6391366",
+        "sadamakapteni_telefon": "+372 5060651",
         "sadamakapteni_epost": "kapten@portofpaldiski.ee",
         "max_pikkus": "250.0",
         "max_laius": "36.0",
         "max_sygavus": "12.0",
-        "modified_date": "20.05.2025"
+        "modified_date": "28.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2030,18 +2030,18 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 349,
-        "sadama_nimi": "RISTNA LÕUNASADAM (EHITAMISEL)",
+        "sadama_nimi": "RISTNA LÕUNASADAM",
         "omanik": "OÜ Ewent",
         "omanik_telefon": "+372 5652060",
         "omanik_epost": "endelevert@hotmail.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "ENDEL Evert",
+        "sadamakapteni_telefon": "372 5652060",
+        "sadamakapteni_epost": "endelevert@hotmail.com",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
-        "max_sygavus": "1.0",
-        "modified_date": "19.05.2025"
+        "max_sygavus": "0.5",
+        "modified_date": "26.05.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3991,7 +3991,7 @@
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "2.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "26.05.2025"
       },
       "geometry": {
         "type": "Point",
