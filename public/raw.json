@@ -1513,10 +1513,10 @@
         "sadamakapteni_nimi": "Gunnar Kellamov",
         "sadamakapteni_telefon": "+372 56921417",
         "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
-        "max_pikkus": "140.0",
+        "max_pikkus": "120.0",
         "max_laius": "24.0",
         "max_sygavus": "6.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "02.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5257,16 +5257,16 @@
         "sadamaregister": 2674,
         "sadama_nimi": "ABAJA SADAM",
         "omanik": "Mittetulundusühing ABAJA PUHKEALA",
-        "omanik_telefon": "+372 56647711",
+        "omanik_telefon": "+37256647711;+37253403409",
         "omanik_epost": "taavi@ait.ee",
-        "koduleht": "https://www.abaja.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "02.06.2025"
       },
       "geometry": {
         "type": "Point",
