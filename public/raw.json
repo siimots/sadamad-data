@@ -266,7 +266,7 @@
         "max_pikkus": "130.0",
         "max_laius": "30.0",
         "max_sygavus": "8.0",
-        "modified_date": "09.06.2025"
+        "modified_date": "13.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2091,7 @@
         "max_pikkus": "120.0",
         "max_laius": "20.0",
         "max_sygavus": "4.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "13.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6073,6 +6073,31 @@
         "coordinates": [
           24.4914,
           58.38764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9010,
+        "sadama_nimi": "JÕEÄÄRE PAADISADAM",
+        "omanik": "MTÜ Jõeääre Paadisadam",
+        "omanik_telefon": "+372 511 81 74",
+        "omanik_epost": "lauri@sahkar.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Lauri Roosiorg",
+        "sadamakapteni_telefon": "+3725118174",
+        "sadamakapteni_epost": "lauri@sahkar.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "10.0",
+        "max_sygavus": "1.9",
+        "modified_date": "12.06.2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.78721,
+          58.3336
         ]
       }
     },
