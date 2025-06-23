@@ -116,7 +116,7 @@
         "max_pikkus": "190.0",
         "max_laius": "31.0",
         "max_sygavus": "10.2",
-        "modified_date": "19.05.2025"
+        "modified_date": "20.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +132,7 @@
         "sadamaregister": 151,
         "sadama_nimi": "DIRHAMI SADAM",
         "omanik": "MELLSON GRUPP OÜ",
-        "omanik_telefon": "+372 56233232",
+        "omanik_telefon": "+372 56234523",
         "omanik_epost": "info@portdirham.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "VIKTOR ROHTLA",
@@ -141,7 +141,7 @@
         "max_pikkus": "90.0",
         "max_laius": "12.0",
         "max_sygavus": "3.7",
-        "modified_date": "19.05.2025"
+        "modified_date": "19.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1516,7 +1516,7 @@
         "max_pikkus": "120.0",
         "max_laius": "24.0",
         "max_sygavus": "6.3",
-        "modified_date": "02.06.2025"
+        "modified_date": "20.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1641,7 @@
         "max_pikkus": "12.0",
         "max_laius": "6.0",
         "max_sygavus": "1.2",
-        "modified_date": "19.05.2025"
+        "modified_date": "20.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2666,7 +2666,7 @@
         "max_pikkus": "50.0",
         "max_laius": "15.0",
         "max_sygavus": "3.2",
-        "modified_date": "19.05.2025"
+        "modified_date": "20.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2741,13 +2741,13 @@
         "max_pikkus": "7.1",
         "max_laius": "2.3",
         "max_sygavus": "0.5",
-        "modified_date": "16.06.2025"
+        "modified_date": "19.06.2025"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           23.14719,
-          58.46047
+          58.46038
         ]
       }
     },
@@ -3991,7 +3991,7 @@
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "2.5",
-        "modified_date": "26.05.2025"
+        "modified_date": "19.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4591,13 +4591,13 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "21.05.2025"
+        "modified_date": "19.06.2025"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.93244,
-          58.33279
+          22.9326,
+          58.33278
         ]
       }
     },
@@ -4941,7 +4941,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "19.05.2025"
+        "modified_date": "19.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6091,7 +6091,7 @@
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.9",
-        "modified_date": "18.06.2025"
+        "modified_date": "19.06.2025"
       },
       "geometry": {
         "type": "Point",
