@@ -2566,7 +2566,7 @@
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.7",
-        "modified_date": "19.05.2025"
+        "modified_date": "26.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3916,7 +3916,7 @@
         "max_pikkus": "23.9",
         "max_laius": "5.0",
         "max_sygavus": "2.0",
-        "modified_date": "09.06.2025"
+        "modified_date": "27.06.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6005,7 +6005,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 9007,
-        "sadama_nimi": "TOOMINGA SADAM",
+        "sadama_nimi": "TOOMINGA VÄIKESADAM",
         "omanik": "Mihkel Piilmann",
         "omanik_telefon": "+3725264873",
         "omanik_epost": "mihkelpiilmann@gmail.com",
@@ -6016,7 +6016,7 @@
         "max_pikkus": "15.0",
         "max_laius": "3.0",
         "max_sygavus": "1.5",
-        "modified_date": "20.05.2025"
+        "modified_date": "26.06.2025"
       },
       "geometry": {
         "type": "Point",
