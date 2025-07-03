@@ -966,7 +966,7 @@
         "max_pikkus": "200.0",
         "max_laius": "30.0",
         "max_sygavus": "9.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "01.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2560,13 +2560,13 @@
         "omanik_telefon": "+372 57222222",
         "omanik_epost": "info@soelasadam.ee",
         "koduleht": "https://www.soelasadam.ee/",
-        "sadamakapteni_nimi": "Urmas Metsamaa",
-        "sadamakapteni_telefon": "+372 53887707",
-        "sadamakapteni_epost": "urmas.bio@gmail.com",
+        "sadamakapteni_nimi": "Raido Martinson",
+        "sadamakapteni_telefon": "+372 58054123",
+        "sadamakapteni_epost": "raido.martinson.001@gmail.com",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.7",
-        "modified_date": "26.06.2025"
+        "modified_date": "02.07.2025"
       },
       "geometry": {
         "type": "Point",
