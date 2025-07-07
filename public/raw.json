@@ -41,7 +41,7 @@
         "max_pikkus": "196.0",
         "max_laius": "32.0",
         "max_sygavus": "12.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "03.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "19.05.2025"
+        "modified_date": "03.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6060,13 +6060,13 @@
         "omanik_telefon": "+372 5166317",
         "omanik_epost": "kaspar.kokk@transcom.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Gregor Elm",
+        "sadamakapteni_telefon": "53432489",
+        "sadamakapteni_epost": "gregor@ms-consultant.com",
         "max_pikkus": "120.0",
         "max_laius": "12.0",
         "max_sygavus": "6.0",
-        "modified_date": "23.05.2025"
+        "modified_date": "07.07.2025"
       },
       "geometry": {
         "type": "Point",
