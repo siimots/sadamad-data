@@ -1733,15 +1733,15 @@
         "sadama_nimi": "ORJAKU SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "Romet Keskla",
-        "sadamakapteni_telefon": "56881400",
+        "omanik_epost": "sadam@hiiumaa.ee",
+        "koduleht": "http://www.hiiumaasadamad.ee/",
+        "sadamakapteni_nimi": "Siim Arras",
+        "sadamakapteni_telefon": "53455059",
         "sadamakapteni_epost": "orjaku@hiiumaa.ee",
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "08.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1958,15 +1958,15 @@
         "sadama_nimi": "KALANA JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "https://www.hiiumaasadamad.ee/",
-        "sadamakapteni_nimi": "Romet Keskla",
-        "sadamakapteni_telefon": "56881400",
-        "sadamakapteni_epost": "sadamad@hiiumaa.ee",
+        "sadamakapteni_nimi": "Enn Randmaa",
+        "sadamakapteni_telefon": "53006343",
+        "sadamakapteni_epost": "sadam@hiiumaa.ee",
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "2.6",
-        "modified_date": "19.05.2025"
+        "modified_date": "09.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3383,15 +3383,15 @@
         "sadama_nimi": "KÄRDLA SADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "https://www.hiiumaasadamad.ee/",
         "sadamakapteni_nimi": "Romet Keskla",
         "sadamakapteni_telefon": "56662514",
-        "sadamakapteni_epost": "sadamad@hiiumaa.ee",
+        "sadamakapteni_epost": "sadam@hiiumaa.ee",
         "max_pikkus": "24.0",
         "max_laius": "8.0",
         "max_sygavus": "3.2",
-        "modified_date": "19.05.2025"
+        "modified_date": "09.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3958,15 +3958,15 @@
         "sadama_nimi": "SÕRU JAHISADAM",
         "omanik": "Sihtasutus Hiiumaa Sadamad",
         "omanik_telefon": "+372 56662514",
-        "omanik_epost": "sadamad@hiiumaa.ee",
+        "omanik_epost": "sadam@hiiumaa.ee",
         "koduleht": "https://hiiumaasadamad.ee/",
         "sadamakapteni_nimi": "Romet Keskla",
-        "sadamakapteni_telefon": "56662514",
-        "sadamakapteni_epost": "sadamad@hiiumaa.ee",
+        "sadamakapteni_telefon": "5145206",
+        "sadamakapteni_epost": "sadam@hiiumaa.ee",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "09.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4766,7 +4766,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "09.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6062,11 +6062,11 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Gregor Elm",
         "sadamakapteni_telefon": "53432489",
-        "sadamakapteni_epost": "gregor@ms-consultant.com",
+        "sadamakapteni_epost": "parnuoldharbour@veeteed.com",
         "max_pikkus": "120.0",
         "max_laius": "12.0",
         "max_sygavus": "6.0",
-        "modified_date": "07.07.2025"
+        "modified_date": "08.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6098,6 +6098,31 @@
         "coordinates": [
           26.78721,
           58.3336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9011,
+        "sadama_nimi": "UUS SADAM",
+        "omanik": "OÜ Modify",
+        "omanik_telefon": "5030777",
+        "omanik_epost": "aivar.lohmist@ieg.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Valdo Kivi",
+        "sadamakapteni_telefon": "+3725652887",
+        "sadamakapteni_epost": "valdo.kivi@ieg.ee",
+        "max_pikkus": "24.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.5",
+        "modified_date": "08.07.2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50935,
+          58.95943
         ]
       }
     },
