@@ -3066,7 +3066,7 @@
         "max_pikkus": "130.0",
         "max_laius": "20.0",
         "max_sygavus": "6.5",
-        "modified_date": "16.06.2025"
+        "modified_date": "11.07.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4756,17 +4756,17 @@
       "properties": {
         "sadamaregister": 2152,
         "sadama_nimi": "NÕVA SADAM",
-        "omanik": "Nõva Osavalla Valitsus",
-        "omanik_telefon": "+372 56688219",
-        "omanik_epost": "nova@laanenigula.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "omanik": "Lääne-Nigula Vallavalitsus",
+        "omanik_telefon": "+372 4720300",
+        "omanik_epost": "vv@laanenigula.ee",
+        "koduleht": "http://www.laanenigula.ee/",
+        "sadamakapteni_nimi": "Aivar Oruste",
+        "sadamakapteni_telefon": "+3725100755",
+        "sadamakapteni_epost": "aivar@kalasaba.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
         "max_sygavus": "1.5",
-        "modified_date": "09.07.2025"
+        "modified_date": "10.07.2025"
       },
       "geometry": {
         "type": "Point",
