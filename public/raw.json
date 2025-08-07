@@ -2566,7 +2566,7 @@
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.7",
-        "modified_date": "02.07.2025"
+        "modified_date": "05.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2666,7 +2666,7 @@
         "max_pikkus": "50.0",
         "max_laius": "15.0",
         "max_sygavus": "3.2",
-        "modified_date": "28.07.2025"
+        "modified_date": "06.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3216,7 +3216,7 @@
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "31.07.2025"
+        "modified_date": "04.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4241,7 +4241,7 @@
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "0.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "06.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5266,7 +5266,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "02.06.2025"
+        "modified_date": "06.08.2025"
       },
       "geometry": {
         "type": "Point",
