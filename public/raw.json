@@ -2185,13 +2185,13 @@
         "omanik_telefon": "+372 463 6609",
         "omanik_epost": "jari.lindroos@roograhu.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "Raivo Kreis",
+        "sadamakapteni_nimi": "Toivo Pähna",
         "sadamakapteni_telefon": "+372 5151426",
         "sadamakapteni_epost": "info@roograhu.ee",
         "max_pikkus": "10.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.2",
-        "modified_date": "19.05.2025"
+        "max_sygavus": "1.6",
+        "modified_date": "12.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2712,11 +2712,11 @@
         "koduleht": "https://www.haapsalu.ee/",
         "sadamakapteni_nimi": "Taavi Suitsberg",
         "sadamakapteni_telefon": "+372 513 6263",
-        "sadamakapteni_epost": "taavi@parila-klaas.ee",
+        "sadamakapteni_epost": "taavisuitsberg@gmail.com",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "12.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -6091,7 +6091,7 @@
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.9",
-        "modified_date": "29.07.2025"
+        "modified_date": "13.08.2025"
       },
       "geometry": {
         "type": "Point",
