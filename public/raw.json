@@ -1216,7 +1216,7 @@
         "max_pikkus": "15.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "15.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4834,14 +4834,14 @@
         "omanik": "MTÜ Muratsi kalur",
         "omanik_telefon": "+372 53974722",
         "omanik_epost": "sadam@muratsi.ee",
-        "koduleht": "-",
+        "koduleht": "https://www.muratsi.ee/",
         "sadamakapteni_nimi": "Hiie Siim",
         "sadamakapteni_telefon": "+372 53974722",
         "sadamakapteni_epost": "sadam@muratsi.ee",
         "max_pikkus": "8.0",
         "max_laius": "1.5",
         "max_sygavus": "1.0",
-        "modified_date": "19.05.2025"
+        "modified_date": "14.08.2025"
       },
       "geometry": {
         "type": "Point",
