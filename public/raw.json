@@ -4386,12 +4386,12 @@
         "omanik_epost": "urmas@silvernet.eu",
         "koduleht": "https://www.saaga.ee/",
         "sadamakapteni_nimi": "Urmas Ild",
-        "sadamakapteni_telefon": "+3725025024",
+        "sadamakapteni_telefon": "+37253461647",
         "sadamakapteni_epost": "sadam@saaga.ee",
         "max_pikkus": "15.0",
-        "max_laius": "3.5",
-        "max_sygavus": "1.9",
-        "modified_date": "19.05.2025"
+        "max_laius": "4.5",
+        "max_sygavus": "1.6",
+        "modified_date": "25.08.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5280,7 +5280,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 2680,
-        "sadama_nimi": "TAMMNEEME SADAM (EHITAMISEL)",
+        "sadama_nimi": "TAMMNEEME SADAM",
         "omanik": "Tammneeme Sadam MTÜ",
         "omanik_telefon": "+372 5044434",
         "omanik_epost": "alotamm@mail.ee",
@@ -5291,7 +5291,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.4",
-        "modified_date": "19.05.2025"
+        "modified_date": "26.08.2025"
       },
       "geometry": {
         "type": "Point",
