@@ -3212,11 +3212,11 @@
         "koduleht": "https://www.riigilaevastik.ee/",
         "sadamakapteni_nimi": "Allan Jürmann",
         "sadamakapteni_telefon": "+372 58 999 598",
-        "sadamakapteni_epost": "allan.jyrmann@riigilaevastik.ee",
+        "sadamakapteni_epost": "allan.jurmann@riigilaevastik.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "04.08.2025"
+        "modified_date": "04.09.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3432,7 +3432,7 @@
         "sadamaregister": 705,
         "sadama_nimi": "PAATSALU SADAM",
         "omanik": "Rein Feld",
-        "omanik_telefon": "+372 5028040",
+        "omanik_telefon": "+372 5028040 5028040",
         "omanik_epost": "rein@paatsalu.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Rein Feld",
@@ -3441,7 +3441,7 @@
         "max_pikkus": "15.0",
         "max_laius": "4.5",
         "max_sygavus": "1.0",
-        "modified_date": "19.05.2025"
+        "modified_date": "04.09.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3457,7 +3457,7 @@
         "sadamaregister": 707,
         "sadama_nimi": "LÄÄNE SADAM",
         "omanik": "Rein Feld",
-        "omanik_telefon": "+372 5028040",
+        "omanik_telefon": "+372 5028040 5028040",
         "omanik_epost": "rein@paatsalu.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Rein Feld",
@@ -3466,7 +3466,7 @@
         "max_pikkus": "10.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "19.05.2025"
+        "modified_date": "04.09.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5491,7 +5491,7 @@
         "max_pikkus": "11.0",
         "max_laius": "3.0",
         "max_sygavus": "0.5",
-        "modified_date": "01.09.2025"
+        "modified_date": "04.09.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5666,7 +5666,7 @@
         "max_pikkus": "8.0",
         "max_laius": "4.0",
         "max_sygavus": "1.3",
-        "modified_date": "23.05.2025"
+        "modified_date": "04.09.2025"
       },
       "geometry": {
         "type": "Point",
