@@ -4556,17 +4556,17 @@
       "properties": {
         "sadamaregister": 2115,
         "sadama_nimi": "NARVA-JÕESUU SADAM",
-        "omanik": "Narva-Jõesuu Linnavalitsus",
-        "omanik_telefon": "+372 3599580",
-        "omanik_epost": "info@narva-joesuu.ee",
-        "koduleht": "https://narva-joesuu.ee/",
+        "omanik": "Sihtasutus Narva-Jõesuu sadam",
+        "omanik_telefon": "53329984",
+        "omanik_epost": "sadam@narva-joesuu.ee",
+        "koduleht": "http://www.njsadam.ee/",
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+372 58503008",
         "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
         "max_sygavus": "2.7",
-        "modified_date": "19.05.2025"
+        "modified_date": "16.09.2025"
       },
       "geometry": {
         "type": "Point",
