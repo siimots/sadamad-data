@@ -1666,7 +1666,7 @@
         "max_pikkus": "250.0",
         "max_laius": "45.0",
         "max_sygavus": "14.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "01.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3707,7 +3707,7 @@
         "sadamaregister": 1056,
         "sadama_nimi": "VÄRSSU SADAM",
         "omanik": "MTÜ Värssu Sadam",
-        "omanik_telefon": "+372 565 1560",
+        "omanik_telefon": "+372 5651560",
         "omanik_epost": "kiur.aarma@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -3715,8 +3715,8 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "7.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.4",
-        "modified_date": "19.05.2025"
+        "max_sygavus": "0.8",
+        "modified_date": "30.09.2025"
       },
       "geometry": {
         "type": "Point",
