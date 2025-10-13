@@ -1741,7 +1741,7 @@
         "max_pikkus": "23.9",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "23.09.2025"
+        "modified_date": "09.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2057,7 +2057,7 @@
         "sadamaregister": 350,
         "sadama_nimi": "PEERNI SADAM",
         "omanik": "Maido Kaja",
-        "omanik_telefon": "+372 566 53088",
+        "omanik_telefon": "+372 566 53088 56653088",
         "omanik_epost": "maidokaja@hotmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -2066,7 +2066,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "10.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2716,7 +2716,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.5",
-        "modified_date": "12.08.2025"
+        "modified_date": "10.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4460,13 +4460,13 @@
         "omanik_telefon": "+372 5296318",
         "omanik_epost": "vv@vormsi.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Liina Jutt",
+        "sadamakapteni_telefon": "5207333",
+        "sadamakapteni_epost": "liina.jutt@gmail.com",
         "max_pikkus": "10.0",
         "max_laius": "5.0",
         "max_sygavus": "0.9",
-        "modified_date": "22.09.2025"
+        "modified_date": "10.10.2025"
       },
       "geometry": {
         "type": "Point",
