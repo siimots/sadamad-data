@@ -416,7 +416,7 @@
         "max_pikkus": "7.0",
         "max_laius": "2.0",
         "max_sygavus": "0.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -616,7 +616,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "28.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +666,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@
         "max_pikkus": "300.0",
         "max_laius": "50.0",
         "max_sygavus": "16.9",
-        "modified_date": "03.07.2025"
+        "modified_date": "27.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -1113,10 +1113,10 @@
         "sadamakapteni_nimi": "Marek Kiiver",
         "sadamakapteni_telefon": "+372 6030700",
         "sadamakapteni_epost": "tonu@hiiukalur.ee",
-        "max_pikkus": "6.0",
+        "max_pikkus": "12.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "19.05.2025"
+        "modified_date": "28.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -2266,7 +2266,7 @@
         "max_pikkus": "12.0",
         "max_laius": "3.6",
         "max_sygavus": "0.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "28.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3141,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "19.05.2025"
+        "modified_date": "28.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3716,7 +3716,7 @@
         "max_pikkus": "7.0",
         "max_laius": "2.0",
         "max_sygavus": "0.8",
-        "modified_date": "30.09.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4316,7 +4316,7 @@
         "max_pikkus": "6.5",
         "max_laius": "1.5",
         "max_sygavus": "0.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4806,17 +4806,17 @@
       "properties": {
         "sadamaregister": 2200,
         "sadama_nimi": "NASVA JÕESADAM",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+372 4525000;+372 5228547",
-        "omanik_epost": "vald@saaremaavald.ee",
-        "koduleht": "https://www.saaremaavald.ee/",
+        "omanik": "Nasva Jõesadama Ühing",
+        "omanik_telefon": "+372 5023860",
+        "omanik_epost": "undrest@hotmail.com",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
         "max_sygavus": "1.1",
-        "modified_date": "19.05.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5181,17 +5181,17 @@
       "properties": {
         "sadamaregister": 2665,
         "sadama_nimi": "TORI JÕESADAM",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+372 4525000 372 5225547",
-        "omanik_epost": "vald@saaremaavald.ee",
-        "koduleht": "https://www.saaremaavald.ee/",
+        "omanik": "mittetulundusühing Tori Sadama ja Kalurite Ühing",
+        "omanik_telefon": "+372 5023860",
+        "omanik_epost": "undrest@hotmail.com",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "28.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5266,7 +5266,7 @@
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.3",
-        "modified_date": "06.08.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5316,7 +5316,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "2.0",
-        "modified_date": "19.05.2025"
+        "modified_date": "29.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5956,17 +5956,17 @@
       "properties": {
         "sadamaregister": 9005,
         "sadama_nimi": "KIRDERANNA SADAM",
-        "omanik": "Saaremaa Vallavalitsus",
-        "omanik_telefon": "+372 4525000",
-        "omanik_epost": "vald@saaremaavald.ee",
-        "koduleht": "https://www.saaremaavald.ee/",
+        "omanik": "Kirderanna Külaselts",
+        "omanik_telefon": "+372 5112998",
+        "omanik_epost": "aigar.kolk@mail.ee",
+        "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.5",
-        "modified_date": "19.05.2025"
+        "modified_date": "28.10.2025"
       },
       "geometry": {
         "type": "Point",
