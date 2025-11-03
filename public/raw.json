@@ -2182,7 +2182,7 @@
         "sadamaregister": 355,
         "sadama_nimi": "ROOGRAHU SADAM",
         "omanik": "OÜ Roograhu Sadam",
-        "omanik_telefon": "+372 463 6609",
+        "omanik_telefon": "+372 53441716",
         "omanik_epost": "jari.lindroos@roograhu.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Toivo Pähna",
@@ -2191,7 +2191,7 @@
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "1.6",
-        "modified_date": "12.08.2025"
+        "modified_date": "31.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -3016,7 +3016,7 @@
         "max_pikkus": "200.0",
         "max_laius": "35.0",
         "max_sygavus": "10.2",
-        "modified_date": "14.10.2025"
+        "modified_date": "30.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4791,7 +4791,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "22.08.2025"
+        "modified_date": "30.10.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5566,7 +5566,7 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "19.05.2025"
+        "modified_date": "30.10.2025"
       },
       "geometry": {
         "type": "Point",
