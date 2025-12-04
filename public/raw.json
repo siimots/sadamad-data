@@ -3866,7 +3866,7 @@
         "max_pikkus": "23.9",
         "max_laius": "5.0",
         "max_sygavus": "2.5",
-        "modified_date": "21.03.2024"
+        "modified_date": "02.12.2025"
       },
       "geometry": {
         "type": "Point",
@@ -4348,31 +4348,6 @@
         "coordinates": [
           23.23284,
           58.49646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 1964,
-        "sadama_nimi": "LÕPESUU SADAM",
-        "omanik": "Mittetulundusühing Rannamaa",
-        "omanik_telefon": "+372 5044169",
-        "omanik_epost": "mty.rannamaa@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.8",
-        "modified_date": "21.03.2024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.27395,
-          58.48966
         ]
       }
     },
@@ -5066,7 +5041,7 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "1.4",
-        "modified_date": "21.03.2024"
+        "modified_date": "02.12.2025"
       },
       "geometry": {
         "type": "Point",
@@ -5181,17 +5156,17 @@
       "properties": {
         "sadamaregister": 2669,
         "sadama_nimi": "ÜRGORU PAADISADAM",
-        "omanik": "OÜ Ürgoru Paadisadam",
-        "omanik_telefon": "+372 5266794",
-        "omanik_epost": "allanlill78@gmail.com",
-        "koduleht": "https://www.urgoru.ee/",
-        "sadamakapteni_nimi": "Allan Lill",
-        "sadamakapteni_telefon": "+3725266794",
-        "sadamakapteni_epost": "info@urgoru.ee",
+        "omanik": "Osaühing Eesti Viljasalv",
+        "omanik_telefon": "+372 7400508",
+        "omanik_epost": "margit@eviljasalv.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Tõnis Leetjõe",
+        "sadamakapteni_telefon": "+372 50 92 358",
+        "sadamakapteni_epost": "tonis@eviljasalv.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.5",
         "max_sygavus": "1.0",
-        "modified_date": "21.03.2024"
+        "modified_date": "03.12.2025"
       },
       "geometry": {
         "type": "Point",
