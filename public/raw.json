@@ -3081,9 +3081,9 @@
       "properties": {
         "sadamaregister": 395,
         "sadama_nimi": "VIRTSU KALASADAM",
-        "omanik": "Lääneranna Vallavalitsus",
-        "omanik_telefon": "+372 4724630",
-        "omanik_epost": "vallavalitsus@laaneranna.ee",
+        "omanik": "Mittetulundusühing Vanalinna",
+        "omanik_telefon": "+372 5267874",
+        "omanik_epost": "marko@ehconnector.se",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -3091,7 +3091,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "21.03.2024"
+        "modified_date": "09.12.2025"
       },
       "geometry": {
         "type": "Point",
