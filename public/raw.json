@@ -2506,7 +2506,7 @@
       "properties": {
         "sadamaregister": 370,
         "sadama_nimi": "PÄRNU SADAM",
-        "omanik": "AS Pärnu Sadam",
+        "omanik": "OÜ Pärnu Sadam",
         "omanik_telefon": "+372 4471700",
         "omanik_epost": "sadam@parnusadam.eu",
         "koduleht": "https://www.parnusadam.eu/",
@@ -2516,7 +2516,7 @@
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "08.04.2025"
+        "modified_date": "08.01.2026"
       },
       "geometry": {
         "type": "Point",
