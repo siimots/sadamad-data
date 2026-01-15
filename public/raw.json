@@ -307,16 +307,16 @@
         "sadamaregister": 160,
         "sadama_nimi": "JUHETA VÄIKESADAM",
         "omanik": "Mittetulundusühing Saulepa Sadam",
-        "omanik_telefon": "+372 5013489",
-        "omanik_epost": "siim.suursild@gmail.com",
+        "omanik_telefon": "+372 5168132",
+        "omanik_epost": "saulepasadam@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "Ain Lopsik",
         "sadamakapteni_telefon": "+372 5234698",
         "sadamakapteni_epost": "siim.suursild@gmail.com",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.7",
-        "modified_date": "21.03.2024"
+        "max_sygavus": "0.5",
+        "modified_date": "14.01.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2516,7 +2516,7 @@
         "max_pikkus": "140.0",
         "max_laius": "25.0",
         "max_sygavus": "6.8",
-        "modified_date": "08.01.2026"
+        "modified_date": "14.01.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5413,10 +5413,10 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "11.0",
+        "max_pikkus": "9.0",
         "max_laius": "3.0",
         "max_sygavus": "0.5",
-        "modified_date": "04.09.2025"
+        "modified_date": "14.01.2026"
       },
       "geometry": {
         "type": "Point",
