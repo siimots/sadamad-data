@@ -116,7 +116,7 @@
         "max_pikkus": "190.0",
         "max_laius": "31.0",
         "max_sygavus": "10.2",
-        "modified_date": "20.06.2025"
+        "modified_date": "16.01.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
         "max_pikkus": "23.9",
         "max_laius": "10.0",
         "max_sygavus": "1.1",
-        "modified_date": "07.11.2025"
+        "modified_date": "16.01.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1516,7 +1516,7 @@
         "max_pikkus": "120.0",
         "max_laius": "24.0",
         "max_sygavus": "6.3",
-        "modified_date": "20.06.2025"
+        "modified_date": "16.01.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1666,7 +1666,7 @@
         "max_pikkus": "250.0",
         "max_laius": "45.0",
         "max_sygavus": "14.5",
-        "modified_date": "30.12.2025"
+        "modified_date": "16.01.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1873,31 +1873,6 @@
         "coordinates": [
           26.74914,
           58.36776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 343,
-        "sadama_nimi": "REMNIKU VANASADAM",
-        "omanik": "Karumetsa OÜ",
-        "omanik_telefon": "+372 5033724",
-        "omanik_epost": "karumetsaou2020@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "8.0",
-        "max_laius": "1.7",
-        "max_sygavus": "0.7",
-        "modified_date": "21.03.2024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.54309,
-          59.01073
         ]
       }
     },
@@ -4641,7 +4616,7 @@
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "21.03.2024"
+        "modified_date": "16.01.2026"
       },
       "geometry": {
         "type": "Point",
