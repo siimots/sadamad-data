@@ -1556,17 +1556,17 @@
       "properties": {
         "sadamaregister": 329,
         "sadama_nimi": "NURME SADAM",
-        "omanik": "Laine Osa",
-        "omanik_telefon": "+372 527 9233",
-        "omanik_epost": "aivarosa@hot.ee",
+        "omanik": "Aivar Osa",
+        "omanik_telefon": "+3725084822",
+        "omanik_epost": "osaaivar@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "20.0",
         "max_laius": "8.0",
-        "max_sygavus": "2.0",
-        "modified_date": "21.03.2024"
+        "max_sygavus": "1.5",
+        "modified_date": "13.02.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1756,17 +1756,17 @@
       "properties": {
         "sadamaregister": 337,
         "sadama_nimi": "OTI SADAM",
-        "omanik": "Laine Osa",
-        "omanik_telefon": "+372 527 9233",
-        "omanik_epost": "aivarosa@hot.ee",
+        "omanik": "Aivar Osa",
+        "omanik_telefon": "+3725084822",
+        "omanik_epost": "osaaivar@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "5.0",
-        "max_sygavus": "2.0",
-        "modified_date": "21.03.2024"
+        "max_sygavus": "1.5",
+        "modified_date": "13.02.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2966,7 +2966,7 @@
         "max_pikkus": "200.0",
         "max_laius": "35.0",
         "max_sygavus": "10.2",
-        "modified_date": "14.10.2025"
+        "modified_date": "13.02.2026"
       },
       "geometry": {
         "type": "Point",
