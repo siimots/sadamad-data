@@ -2641,7 +2641,7 @@
         "max_pikkus": "55.0",
         "max_laius": "15.0",
         "max_sygavus": "3.9",
-        "modified_date": "11.02.2026"
+        "modified_date": "18.02.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3106,7 +3106,7 @@
       "properties": {
         "sadamaregister": 398,
         "sadama_nimi": "VÕISTE SADAM",
-        "omanik": "Mittetulundusühing Võiste Sadamaarendus",
+        "omanik": "Võiste Sadamaühing",
         "omanik_telefon": "+372 5527892",
         "omanik_epost": "argomengel@gmail.com",
         "koduleht": "-",
@@ -3116,13 +3116,13 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.9",
-        "modified_date": "21.03.2024"
+        "modified_date": "17.02.2026"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.4679,
-          58.21491
+          24.4692,
+          58.21535
         ]
       }
     },
@@ -4607,7 +4607,7 @@
         "sadamaregister": 2139,
         "sadama_nimi": "NAISTLAIU SADAM",
         "omanik": "Hiiumaa Vallavalitsus",
-        "omanik_telefon": "+ 372 463 6082 ;+372 506 4565",
+        "omanik_telefon": "+372 506 4565",
         "omanik_epost": "valitsus@hiiumaa.ee",
         "koduleht": "https://vald.hiiumaa.ee/",
         "sadamakapteni_nimi": "- -",
@@ -4616,7 +4616,7 @@
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "27.01.2026"
+        "modified_date": "16.02.2026"
       },
       "geometry": {
         "type": "Point",
