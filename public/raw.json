@@ -1365,14 +1365,14 @@
         "sadamakapteni_epost": "einar.kukk@gmail.com",
         "max_pikkus": "120.0",
         "max_laius": "20.0",
-        "max_sygavus": "4.5",
-        "modified_date": "21.03.2024"
+        "max_sygavus": "4.0",
+        "modified_date": "23.02.2026"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.69883,
-          59.5835
+          25.70369,
+          59.58447
         ]
       }
     },
@@ -5731,8 +5731,8 @@
       "properties": {
         "sadamaregister": 8909,
         "sadama_nimi": "KALDASILLA SADAM",
-        "omanik": "OÜ Peipsi Kalatööstus",
-        "omanik_telefon": "+372 7727240",
+        "omanik": "Mittetulundusühing Kalda Sadam",
+        "omanik_telefon": "+372 5165540",
         "omanik_epost": "peipsikalakuld@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -5741,7 +5741,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "0.8",
-        "modified_date": "21.03.2024"
+        "modified_date": "23.02.2026"
       },
       "geometry": {
         "type": "Point",
