@@ -2261,12 +2261,12 @@
         "omanik_epost": "vald@rapina.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Marko Kajasalu",
-        "sadamakapteni_telefon": "+3725251225",
+        "sadamakapteni_telefon": "+372 525 1225",
         "sadamakapteni_epost": "marko@rapinasadam.ee",
         "max_pikkus": "23.9",
         "max_laius": "7.5",
         "max_sygavus": "1.2",
-        "modified_date": "29.01.2026"
+        "modified_date": "02.03.2026"
       },
       "geometry": {
         "type": "Point",
