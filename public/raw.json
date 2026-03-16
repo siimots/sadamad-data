@@ -1584,14 +1584,14 @@
         "omanik": "OÜ Mõntu Sadam",
         "omanik_telefon": "+372 5145578",
         "omanik_epost": "mihkel@undrest.ee",
-        "koduleht": "https://www.montusadam.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Toivo Pära",
-        "sadamakapteni_telefon": "+372 4570570",
-        "sadamakapteni_epost": "vhl@hot.ee",
+        "sadamakapteni_telefon": "+3724570570",
+        "sadamakapteni_epost": "info@montusadam.ee",
         "max_pikkus": "100.0",
         "max_laius": "18.0",
         "max_sygavus": "4.0",
-        "modified_date": "16.06.2023"
+        "modified_date": "12.03.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5284,14 +5284,14 @@
         "omanik": "Vahtrepa Väikepaadisadam",
         "omanik_telefon": "+372 5535722",
         "omanik_epost": "vahtrepapaadisadam@gmail.com",
-        "koduleht": "-",
+        "koduleht": "https://www.facebook.com/profile.php?id=61574629061895",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.5",
         "max_laius": "2.5",
-        "max_sygavus": "0.4",
-        "modified_date": "26.06.2023"
+        "max_sygavus": "0.3",
+        "modified_date": "12.03.2026"
       },
       "geometry": {
         "type": "Point",
