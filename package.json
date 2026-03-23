@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "node-fetch": "2.7.0",
     "reproject": "1.2.7"
   }
 }

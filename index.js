@@ -1,6 +1,5 @@
-const fs = require("fs");
-const fetch = require("node-fetch");
-const reproject = require("reproject");
+import { writeFile } from "node:fs";
+import * as reproject from "reproject";
 
 const DEBUG = false;
 
@@ -67,7 +66,7 @@ const fetchPorts = async () => {
           );
         });
 
-        fs.writeFile(
+        writeFile(
           "public/raw.json",
           JSON.stringify(geojson, null, 2),
           (err) => {
@@ -75,11 +74,11 @@ const fetchPorts = async () => {
           },
         );
 
-        fs.writeFile("public/data.json", JSON.stringify(geojson), (err) => {
+        writeFile("public/data.json", JSON.stringify(geojson), (err) => {
           if (err) throw err;
         });
 
-        fs.writeFile(
+        writeFile(
           "public/data.js",
           `var sadamadgeoJson = ${JSON.stringify(geojson)};`,
           (err) => {
