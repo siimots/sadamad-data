@@ -4610,9 +4610,9 @@
         "omanik_telefon": "+372 506 4565",
         "omanik_epost": "valitsus@hiiumaa.ee",
         "koduleht": "https://vald.hiiumaa.ee/",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Endel Kaevats",
+        "sadamakapteni_telefon": "+372 53992305",
+        "sadamakapteni_epost": "naistlaid@gmail.com",
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
@@ -5230,7 +5230,7 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 3703,
-        "sadama_nimi": "ASERI VÄIKESADAM (EHITAMISEL)",
+        "sadama_nimi": "ASERI VÄIKESADAM",
         "omanik": "OÜ Aseri Sadam",
         "omanik_telefon": "+372 56216452",
         "omanik_epost": "gaido.kentem@gkehitus.ee",
@@ -5241,13 +5241,13 @@
         "max_pikkus": "6.0",
         "max_laius": "2.5",
         "max_sygavus": "0.6",
-        "modified_date": "31.03.2023"
+        "modified_date": "01.04.2026"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.87926,
-          59.45726
+          26.88365,
+          59.45869
         ]
       }
     },
@@ -5991,7 +5991,7 @@
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.9",
-        "modified_date": "18.06.2025"
+        "modified_date": "01.04.2026"
       },
       "geometry": {
         "type": "Point",
