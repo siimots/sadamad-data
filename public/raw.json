@@ -4033,15 +4033,15 @@
         "sadama_nimi": "NARVA KULGU SADAM",
         "omanik": "Sihtasutus Narva Sadam",
         "omanik_telefon": "+372 55699195",
-        "omanik_epost": "tolik.ivanov@gmail.com",
-        "koduleht": "-",
+        "omanik_epost": "info@narvasadam.ee",
+        "koduleht": "http://www.narvasadam.ee/",
         "sadamakapteni_nimi": "Anatoli Ivanov",
         "sadamakapteni_telefon": "+372 55699195",
         "sadamakapteni_epost": "info@narvasadam.ee",
         "max_pikkus": "18.0",
         "max_laius": "7.0",
         "max_sygavus": "1.0",
-        "modified_date": "05.07.2024"
+        "modified_date": "08.04.2026"
       },
       "geometry": {
         "type": "Point",
