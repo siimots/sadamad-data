@@ -2232,8 +2232,8 @@
         "sadamaregister": 359,
         "sadama_nimi": "PURTSE SADAM",
         "omanik": "Boriss Avdejev",
-        "omanik_telefon": "+372 5018881",
-        "omanik_epost": "-",
+        "omanik_telefon": "+372 5018881 5018881",
+        "omanik_epost": "boriss.avdejev@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
@@ -2241,7 +2241,7 @@
         "max_pikkus": "16.0",
         "max_laius": "6.0",
         "max_sygavus": "1.5",
-        "modified_date": "26.07.2023"
+        "modified_date": "15.04.2026"
       },
       "geometry": {
         "type": "Point",
