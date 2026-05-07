@@ -81,17 +81,17 @@
       "properties": {
         "sadamaregister": 101,
         "sadama_nimi": "AEGNA SADAM",
-        "omanik": "Tallinna Transpordiamet",
+        "omanik": "Tallinna Liikuvusamet",
         "omanik_telefon": "+372 6404618",
-        "omanik_epost": "tta@tallinnlv.ee",
-        "koduleht": "-",
+        "omanik_epost": "liikuvusamet@tallinnlv.ee",
+        "koduleht": "https://www.tallinn.ee/",
         "sadamakapteni_nimi": "Rommi Õige",
         "sadamakapteni_telefon": "+372 56624415",
         "sadamakapteni_epost": "rommioige@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "8.0",
         "max_sygavus": "1.9",
-        "modified_date": "09.12.2024"
+        "modified_date": "06.05.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1391,7 @@
         "max_pikkus": "15.0",
         "max_laius": "3.5",
         "max_sygavus": "1.7",
-        "modified_date": "22.04.2024"
+        "modified_date": "06.05.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1981,17 +1981,17 @@
       "properties": {
         "sadamaregister": 348,
         "sadama_nimi": "PATAREISADAM",
-        "omanik": "Tallinna Transpordiamet",
+        "omanik": "Tallinna Liikuvusamet",
         "omanik_telefon": "+372 6404618",
-        "omanik_epost": "tta@tallinnlv.ee",
-        "koduleht": "-",
+        "omanik_epost": "liikuvusamet@tallinnlv.ee",
+        "koduleht": "https://www.tallinn.ee/",
         "sadamakapteni_nimi": "Rommi Õige",
         "sadamakapteni_telefon": "+372 56624415",
         "sadamakapteni_epost": "rommioige@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "8.0",
         "max_sygavus": "1.9",
-        "modified_date": "09.01.2025"
+        "modified_date": "06.05.2026"
       },
       "geometry": {
         "type": "Point",
