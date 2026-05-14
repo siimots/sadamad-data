@@ -3391,7 +3391,7 @@
         "max_pikkus": "10.0",
         "max_laius": "4.0",
         "max_sygavus": "1.0",
-        "modified_date": "04.09.2025"
+        "modified_date": "12.05.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3714,9 +3714,9 @@
         "sadamakapteni_telefon": "+372 53078777",
         "sadamakapteni_epost": "sadam@jahtklubi.ee",
         "max_pikkus": "24.0",
-        "max_laius": "5.0",
+        "max_laius": "8.0",
         "max_sygavus": "3.5",
-        "modified_date": "17.01.2025"
+        "modified_date": "12.05.2026"
       },
       "geometry": {
         "type": "Point",
