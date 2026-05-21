@@ -1159,14 +1159,14 @@
         "omanik": "Viimsi Vallavalitsus",
         "omanik_telefon": "+372 6028800",
         "omanik_epost": "info@viimsi.ee",
-        "koduleht": "-",
+        "koduleht": "https://viimsi.ee/",
         "sadamakapteni_nimi": "Viktor Palmet",
         "sadamakapteni_telefon": "+372 512 8188",
-        "sadamakapteni_epost": "kapten@viimsivv.ee",
+        "sadamakapteni_epost": "kapten@viimsi.ee",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
         "max_sygavus": "2.5",
-        "modified_date": "05.07.2023"
+        "modified_date": "19.05.2026"
       },
       "geometry": {
         "type": "Point",
