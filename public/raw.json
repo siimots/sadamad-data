@@ -85,9 +85,9 @@
         "omanik_telefon": "+372 6404618",
         "omanik_epost": "liikuvusamet@tallinnlv.ee",
         "koduleht": "https://www.tallinn.ee/",
-        "sadamakapteni_nimi": "Rommi Õige",
-        "sadamakapteni_telefon": "+372 56624415",
-        "sadamakapteni_epost": "rommioige@gmail.com",
+        "sadamakapteni_nimi": "Kuido Koppel",
+        "sadamakapteni_telefon": "+3725130600",
+        "sadamakapteni_epost": "kuidokoppel@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "8.0",
         "max_sygavus": "1.9",
@@ -116,7 +116,7 @@
         "max_pikkus": "190.0",
         "max_laius": "31.0",
         "max_sygavus": "10.2",
-        "modified_date": "16.01.2026"
+        "modified_date": "29.05.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1516,7 +1516,7 @@
         "max_pikkus": "120.0",
         "max_laius": "24.0",
         "max_sygavus": "6.3",
-        "modified_date": "16.01.2026"
+        "modified_date": "29.05.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1985,9 +1985,9 @@
         "omanik_telefon": "+372 6404618",
         "omanik_epost": "liikuvusamet@tallinnlv.ee",
         "koduleht": "https://www.tallinn.ee/",
-        "sadamakapteni_nimi": "Rommi Õige",
-        "sadamakapteni_telefon": "+372 56624415",
-        "sadamakapteni_epost": "rommioige@gmail.com",
+        "sadamakapteni_nimi": "Kuido Koppel",
+        "sadamakapteni_telefon": "+3725130600",
+        "sadamakapteni_epost": "kuidokoppel@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "8.0",
         "max_sygavus": "1.9",
