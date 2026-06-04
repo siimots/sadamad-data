@@ -2006,17 +2006,17 @@
       "properties": {
         "sadamaregister": 349,
         "sadama_nimi": "RISTNA LÕUNASADAM",
-        "omanik": "OÜ Ewent",
-        "omanik_telefon": "+372 5652060",
-        "omanik_epost": "endelevert@hotmail.com",
+        "omanik": "HKN OÜ",
+        "omanik_telefon": "+372 5123344",
+        "omanik_epost": "kristjan.novitski@gmail.com",
         "koduleht": "-",
-        "sadamakapteni_nimi": "ENDEL Evert",
-        "sadamakapteni_telefon": "372 5652060",
-        "sadamakapteni_epost": "endelevert@hotmail.com",
+        "sadamakapteni_nimi": "- -",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
         "max_sygavus": "0.5",
-        "modified_date": "26.05.2025"
+        "modified_date": "03.06.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2111,12 +2111,12 @@
         "omanik_epost": "noblessner@noblessner.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Marek Rauk",
-        "sadamakapteni_telefon": "+372 5688 8825",
+        "sadamakapteni_telefon": "+372 56722295",
         "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "4.0",
-        "modified_date": "24.10.2023"
+        "modified_date": "02.06.2026"
       },
       "geometry": {
         "type": "Point",
