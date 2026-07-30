@@ -3211,12 +3211,12 @@
         "omanik_epost": "info@westmeri.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Andres Niglas",
-        "sadamakapteni_telefon": "+37253039129",
-        "sadamakapteni_epost": "info@morobell.ee",
+        "sadamakapteni_telefon": "+372 5303 9129",
+        "sadamakapteni_epost": "info@westmeri.ee",
         "max_pikkus": "35.0",
         "max_laius": "12.0",
         "max_sygavus": "3.2",
-        "modified_date": "28.08.2025"
+        "modified_date": "28.07.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3523,31 +3523,6 @@
         "coordinates": [
           25.16046,
           59.53142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "sadamaregister": 805,
-        "sadama_nimi": "LAUTRI SADAM",
-        "omanik": "Mihkel Valk",
-        "omanik_telefon": "+372 56626161",
-        "omanik_epost": "lautri@hot.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "24.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.8",
-        "modified_date": "28.05.2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.08976,
-          58.91554
         ]
       }
     },
@@ -5164,9 +5139,9 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
-        "max_laius": "2.0",
-        "max_sygavus": "0.4",
-        "modified_date": "26.08.2025"
+        "max_laius": "3.0",
+        "max_sygavus": "0.5",
+        "modified_date": "28.07.2026"
       },
       "geometry": {
         "type": "Point",
