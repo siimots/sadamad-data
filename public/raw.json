@@ -1779,31 +1779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 338,
-        "sadama_nimi": "OTSA VÄIKESADAM",
-        "omanik": "Jüri Till",
-        "omanik_telefon": "+372 53495035",
-        "omanik_epost": "kalux@hot.ee",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "6.1",
-        "max_laius": "2.1",
-        "max_sygavus": "0.9",
-        "modified_date": "28.10.2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16912,
-          58.64905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 339,
         "sadama_nimi": "RANNAMETSA SADAM",
         "omanik": "mittetulundusühing Rannametsa paadisadam",
@@ -2107,16 +2082,16 @@
         "sadamaregister": 353,
         "sadama_nimi": "NOBLESSNERI SADAM",
         "omanik": "Port Noblessner OÜ",
-        "omanik_telefon": "+372 6102408",
-        "omanik_epost": "noblessner@noblessner.ee",
-        "koduleht": "-",
+        "omanik_telefon": "+372 5688 8825",
+        "omanik_epost": "port@noblessner.ee",
+        "koduleht": "https://www.noblessner.ee/sadam",
         "sadamakapteni_nimi": "Marek Rauk",
         "sadamakapteni_telefon": "+372 56722295",
         "sadamakapteni_epost": "marek.rauk@blrt.ee",
-        "max_pikkus": "30.0",
+        "max_pikkus": "40.0",
         "max_laius": "9.0",
         "max_sygavus": "4.0",
-        "modified_date": "02.06.2026"
+        "modified_date": "12.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2441,7 @@
         "max_pikkus": "12.0",
         "max_laius": "2.4",
         "max_sygavus": "0.3",
-        "modified_date": "10.03.2025"
+        "modified_date": "11.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4716,7 +4691,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "28.05.2026"
+        "modified_date": "12.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4891,7 +4866,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "11.02.2026"
+        "modified_date": "12.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5210,13 +5185,13 @@
         "omanik_telefon": "+372 5153793",
         "omanik_epost": "enn051@hot.ee",
         "koduleht": "-",
-        "sadamakapteni_nimi": "- -",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "Enno Aim",
+        "sadamakapteni_telefon": "5153793",
+        "sadamakapteni_epost": "enn051@hot.ee",
         "max_pikkus": "8.0",
         "max_laius": "2.5",
         "max_sygavus": "0.8",
-        "modified_date": "05.02.2021"
+        "modified_date": "11.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5309,14 +5284,14 @@
         "omanik": "Sihtasutus Luunja Jõesadam",
         "omanik_telefon": "+372 5166213",
         "omanik_epost": "sadam@luunja.ee",
-        "koduleht": "https://www.luunja.ee/",
-        "sadamakapteni_nimi": "Lenno Tobreluts",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Tõnu Rüütel",
         "sadamakapteni_telefon": "+372 5166213",
         "sadamakapteni_epost": "sadam@luunja.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
         "max_sygavus": "1.5",
-        "modified_date": "19.11.2025"
+        "modified_date": "11.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5357,7 +5332,7 @@
         "sadamaregister": 3989,
         "sadama_nimi": "KIIDEVA SADAM",
         "omanik": "Mittetulundusühing Kiideva külaselts",
-        "omanik_telefon": "+372 56158443",
+        "omanik_telefon": "56158443",
         "omanik_epost": "kiidevakulaselts@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
@@ -5366,7 +5341,7 @@
         "max_pikkus": "8.0",
         "max_laius": "3.0",
         "max_sygavus": "0.8",
-        "modified_date": "14.10.2019"
+        "modified_date": "12.08.2026"
       },
       "geometry": {
         "type": "Point",
