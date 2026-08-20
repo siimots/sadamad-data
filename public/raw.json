@@ -840,8 +840,8 @@
         "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
         "max_pikkus": "150.0",
         "max_laius": "30.0",
-        "max_sygavus": "8.6",
-        "modified_date": "28.04.2026"
+        "max_sygavus": "8.4",
+        "modified_date": "17.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2066,7 +2066,7 @@
         "max_pikkus": "24.0",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
-        "modified_date": "23.04.2026"
+        "modified_date": "18.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3607,16 +3607,16 @@
         "sadamaregister": 1150,
         "sadama_nimi": "VERGI SADAM",
         "omanik": "MTÜ VERGI KALANDUS- JA JAHTKLUBI",
-        "omanik_telefon": "+372 55567325",
-        "omanik_epost": "sardis@kroonikeskus.ee",
-        "koduleht": "http://www.vergiport.eu/",
+        "omanik_telefon": "56571833",
+        "omanik_epost": "lauri@vergisadam.ee",
+        "koduleht": "https://www.vergisadam.ee/",
         "sadamakapteni_nimi": "Elmo Ehrlich",
         "sadamakapteni_telefon": "+372 55567349",
         "sadamakapteni_epost": "elmo@kroonikeskus.ee",
         "max_pikkus": "23.9",
         "max_laius": "10.0",
         "max_sygavus": "2.8",
-        "modified_date": "21.12.2023"
+        "modified_date": "17.08.2026"
       },
       "geometry": {
         "type": "Point",
