@@ -159,14 +159,14 @@
         "omanik": "GHM Halduse OÜ",
         "omanik_telefon": "+372 5652887",
         "omanik_epost": "ieg@ieg.ee",
-        "koduleht": "-",
+        "koduleht": "https://www.veskiviigi.ee/",
         "sadamakapteni_nimi": "Valdo Kivi",
         "sadamakapteni_telefon": "+372 5652887",
         "sadamakapteni_epost": "valdo.kivi@ieg.ee",
         "max_pikkus": "18.0",
         "max_laius": "5.0",
         "max_sygavus": "2.1",
-        "modified_date": "17.06.2024"
+        "modified_date": "27.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -908,7 +908,7 @@
         "sadama_nimi": "KURKSE SADAM",
         "omanik": "Kurkse Sadam OÜ",
         "omanik_telefon": "+372 5036435",
-        "omanik_epost": " info@kurksesadam.ee",
+        "omanik_epost": "info@kurksesadam.ee",
         "koduleht": "-",
         "sadamakapteni_nimi": "Aleksandr Gavriljuk",
         "sadamakapteni_telefon": "+ 372 5036435",
@@ -1232,22 +1232,22 @@
         "sadamaregister": 316,
         "sadama_nimi": "MERELAIU VÄIKESADAM",
         "omanik": "Johannes Kasearu",
-        "omanik_telefon": "+372 501 7067",
-        "omanik_epost": "merelaiu@hot.ee",
+        "omanik_telefon": "+372 501 7067 5017067",
+        "omanik_epost": "meralaiupuhkekula@gmail.com",
         "koduleht": "-",
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "1.0",
-        "modified_date": "05.02.2019"
+        "max_pikkus": "8.0",
+        "max_laius": "3.0",
+        "max_sygavus": "0.8",
+        "modified_date": "25.08.2026"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.02283,
-          58.30454
+          24.02158,
+          58.30427
         ]
       }
     },
@@ -1765,8 +1765,8 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.5",
-        "modified_date": "13.02.2026"
+        "max_sygavus": "1.0",
+        "modified_date": "27.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3211,12 +3211,12 @@
         "omanik_epost": "info@westmeri.ee",
         "koduleht": "https://westmeri.ee/",
         "sadamakapteni_nimi": "Karel Saarkopli",
-        "sadamakapteni_telefon": "+372 5303 9129",
+        "sadamakapteni_telefon": "+372 5341 6247",
         "sadamakapteni_epost": "info@westmeri.ee",
         "max_pikkus": "24.0",
         "max_laius": "4.0",
         "max_sygavus": "2.2",
-        "modified_date": "28.08.2025"
+        "modified_date": "25.08.2026"
       },
       "geometry": {
         "type": "Point",
