@@ -641,7 +641,7 @@
         "max_pikkus": "20.0",
         "max_laius": "6.0",
         "max_sygavus": "1.6",
-        "modified_date": "20.03.2025"
+        "modified_date": "28.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2634,14 +2634,14 @@
         "omanik": "Haapsalu Linnavalitsus",
         "omanik_telefon": "+372 4725300",
         "omanik_epost": "hlv@haapsalulv.ee",
-        "koduleht": "https://www.haapsalu.ee/",
+        "koduleht": "-",
         "sadamakapteni_nimi": "Taavi Suitsberg",
         "sadamakapteni_telefon": "+372 513 6263",
         "sadamakapteni_epost": "taavisuitsberg@gmail.com",
         "max_pikkus": "12.0",
-        "max_laius": "4.0",
-        "max_sygavus": "1.5",
-        "modified_date": "12.08.2025"
+        "max_laius": "3.5",
+        "max_sygavus": "1.0",
+        "modified_date": "31.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5616,7 +5616,7 @@
         "max_pikkus": "6.1",
         "max_laius": "2.4",
         "max_sygavus": "1.5",
-        "modified_date": "18.08.2023"
+        "modified_date": "31.08.2026"
       },
       "geometry": {
         "type": "Point",
