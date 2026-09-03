@@ -1016,7 +1016,7 @@
         "max_pikkus": "40.0",
         "max_laius": "10.0",
         "max_sygavus": "1.2",
-        "modified_date": "11.02.2026"
+        "modified_date": "02.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1540,8 +1540,8 @@
         "sadamakapteni_epost": "gregor.elm@lahesuu.ee",
         "max_pikkus": "130.0",
         "max_laius": "25.0",
-        "max_sygavus": "3.8",
-        "modified_date": "31.10.2024"
+        "max_sygavus": "2.5",
+        "modified_date": "01.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2646,8 +2646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.45452,
-          58.76514
+          23.45451,
+          58.76513
         ]
       }
     },
@@ -3241,7 +3241,7 @@
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.4",
-        "modified_date": "09.06.2026"
+        "modified_date": "31.08.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4091,7 +4091,7 @@
         "max_pikkus": "40.0",
         "max_laius": "10.0",
         "max_sygavus": "1.7",
-        "modified_date": "11.02.2026"
+        "modified_date": "02.09.2026"
       },
       "geometry": {
         "type": "Point",
