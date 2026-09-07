@@ -2359,14 +2359,14 @@
         "omanik": "Kuusalu Vallavalitsus",
         "omanik_telefon": "+372 606 6370",
         "omanik_epost": "vallavalitsus@kuusalu.ee",
-        "koduleht": "https://www.kuusalu.ee/salmistusadam",
+        "koduleht": "https://www.kuusalu.ee/salmistu-sadam",
         "sadamakapteni_nimi": "Madis Praks",
         "sadamakapteni_telefon": "+372 53307301",
         "sadamakapteni_epost": "Madis.praks@kuusalu.ee",
         "max_pikkus": "13.5",
         "max_laius": "3.5",
         "max_sygavus": "1.7",
-        "modified_date": "09.03.2026"
+        "modified_date": "04.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4541,7 +4541,7 @@
         "max_pikkus": "10.0",
         "max_laius": "3.0",
         "max_sygavus": "1.0",
-        "modified_date": "16.02.2026"
+        "modified_date": "04.09.2026"
       },
       "geometry": {
         "type": "Point",
