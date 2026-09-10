@@ -15,7 +15,7 @@
         "sadamakapteni_epost": "sadam@koljunuki.ee",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "16.05.2025"
       },
       "geometry": {
@@ -40,7 +40,7 @@
         "sadamakapteni_epost": "kapten@miidurannasadam.ee",
         "max_pikkus": "196.0",
         "max_laius": "32.0",
-        "max_sygavus": "12.3",
+        "max_sygavus": "-",
         "modified_date": "13.02.2025"
       },
       "geometry": {
@@ -56,17 +56,16 @@
       "properties": {
         "sadamaregister": 53,
         "sadama_nimi": "ABRUKA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Andrus Saat",
-        "sadamakapteni_telefon": "+372 529 4467",
-        "sadamakapteni_epost": "andrus.saat@saarteliinid.ee",
+        "omanik": "AS Saarte Liinid",
+        "sadamakapteni_telefon": "+372 5332 8096",
+        "sadamakapteni_epost": "abruka@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/abruka-jahisadam/",
         "max_pikkus": "40.0",
-        "max_laius": "15.0",
-        "max_sygavus": "2.7",
-        "modified_date": "11.02.2026"
+        "max_laius": "20.0",
+        "max_sygavus": "2.5",
+        "kaikohtade_arv": "33",
+        "allikas": "https://slmarinas.ee/ports/abruka-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -90,7 +89,7 @@
         "sadamakapteni_epost": "kuidokoppel@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "8.0",
-        "max_sygavus": "1.9",
+        "max_sygavus": "-",
         "modified_date": "09.06.2026"
       },
       "geometry": {
@@ -115,7 +114,7 @@
         "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
         "max_pikkus": "190.0",
         "max_laius": "31.0",
-        "max_sygavus": "10.2",
+        "max_sygavus": "-",
         "modified_date": "29.05.2026"
       },
       "geometry": {
@@ -140,7 +139,7 @@
         "sadamakapteni_epost": "info@portdirham.ee",
         "max_pikkus": "90.0",
         "max_laius": "12.0",
-        "max_sygavus": "3.7",
+        "max_sygavus": "-",
         "modified_date": "19.06.2025"
       },
       "geometry": {
@@ -165,7 +164,7 @@
         "sadamakapteni_epost": "valdo.kivi@ieg.ee",
         "max_pikkus": "18.0",
         "max_laius": "5.0",
-        "max_sygavus": "2.1",
+        "max_sygavus": "-",
         "modified_date": "27.08.2026"
       },
       "geometry": {
@@ -181,17 +180,16 @@
       "properties": {
         "sadamaregister": 154,
         "sadama_nimi": "HELTERMAA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+372 5043888",
-        "sadamakapteni_epost": "andrus.maide@saarteliinid.ee",
-        "max_pikkus": "118.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.8",
-        "modified_date": "11.02.2026"
+        "omanik": "AS Saarte Liinid",
+        "sadamakapteni_telefon": "+372 523 7633",
+        "sadamakapteni_epost": "heltermaa@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/heltermaa/",
+        "max_pikkus": "18.0",
+        "max_laius": "9.0",
+        "max_sygavus": "2.6",
+        "kaikohtade_arv": "42",
+        "allikas": "https://slmarinas.ee/ports/heltermaa/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +212,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
-        "max_laius": "3.1",
-        "max_sygavus": "0.8",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "18.10.2022"
       },
       "geometry": {
@@ -240,7 +238,7 @@
         "sadamakapteni_epost": "mart.varblane@mail.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "03.04.2023"
       },
       "geometry": {
@@ -290,7 +288,7 @@
         "sadamakapteni_epost": "silver@jaagupisadam.ee",
         "max_pikkus": "5.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "09.05.2024"
       },
       "geometry": {
@@ -315,7 +313,7 @@
         "sadamakapteni_epost": "siim.suursild@gmail.com",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "14.01.2026"
       },
       "geometry": {
@@ -340,7 +338,7 @@
         "sadamakapteni_epost": "Info@atlasadam.ee",
         "max_pikkus": "12.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.4",
+        "max_sygavus": "-",
         "modified_date": "11.03.2026"
       },
       "geometry": {
@@ -390,7 +388,7 @@
         "sadamakapteni_epost": "marina@havenk.com",
         "max_pikkus": "30.0",
         "max_laius": "9.0",
-        "max_sygavus": "3.4",
+        "max_sygavus": "-",
         "modified_date": "10.06.2024"
       },
       "geometry": {
@@ -415,7 +413,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "7.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "20.05.2021"
       },
       "geometry": {
@@ -465,7 +463,7 @@
         "sadamakapteni_epost": "a.klaus@ts.ee",
         "max_pikkus": "340.0",
         "max_laius": "42.0",
-        "max_sygavus": "10.3",
+        "max_sygavus": "-",
         "modified_date": "24.07.2026"
       },
       "geometry": {
@@ -513,9 +511,9 @@
         "sadamakapteni_nimi": "TOOMAS TUTK",
         "sadamakapteni_telefon": "+372 508 28 37",
         "sadamakapteni_epost": "toomas@piritatop.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "6.0",
-        "max_sygavus": "2.8",
+        "max_sygavus": "-",
         "modified_date": "27.01.2025"
       },
       "geometry": {
@@ -540,7 +538,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.7",
+        "max_sygavus": "-",
         "modified_date": "11.04.2023"
       },
       "geometry": {
@@ -565,7 +563,7 @@
         "sadamakapteni_epost": "info@rannapuura.ee",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.4",
+        "max_sygavus": "-",
         "modified_date": "06.09.2023"
       },
       "geometry": {
@@ -590,7 +588,7 @@
         "sadamakapteni_epost": "stanislav.vassenin@hundipea.ee",
         "max_pikkus": "190.0",
         "max_laius": "30.0",
-        "max_sygavus": "8.6",
+        "max_sygavus": "-",
         "modified_date": "15.05.2026"
       },
       "geometry": {
@@ -615,7 +613,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "12.11.2020"
       },
       "geometry": {
@@ -640,7 +638,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "20.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.6",
+        "max_sygavus": "-",
         "modified_date": "28.08.2026"
       },
       "geometry": {
@@ -665,7 +663,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "05.04.2023"
       },
       "geometry": {
@@ -690,7 +688,7 @@
         "sadamakapteni_epost": "kapten@viimsivv.ee",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "05.07.2023"
       },
       "geometry": {
@@ -714,8 +712,8 @@
         "sadamakapteni_telefon": "+372 5032826",
         "sadamakapteni_epost": "avo.frei@gmail.com",
         "max_pikkus": "10.0",
-        "max_laius": "3.5",
-        "max_sygavus": "1.3",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "24.04.2026"
       },
       "geometry": {
@@ -740,7 +738,7 @@
         "sadamakapteni_epost": "a.klaus@ts.ee",
         "max_pikkus": "300.0",
         "max_laius": "50.0",
-        "max_sygavus": "16.9",
+        "max_sygavus": "-",
         "modified_date": "24.04.2026"
       },
       "geometry": {
@@ -755,18 +753,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 211,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "KIHNU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+372 5097267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
-        "max_pikkus": "60.0",
-        "max_laius": "15.0",
-        "max_sygavus": "3.3",
-        "modified_date": "11.02.2026"
+        "sadamakapteni_telefon": "+372 5697 9932",
+        "sadamakapteni_epost": "kihnu@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/kihnu-jahisadam/",
+        "max_pikkus": "45.0",
+        "max_laius": "12.0",
+        "max_sygavus": "3.5",
+        "kaikohtade_arv": "40",
+        "allikas": "https://slmarinas.ee/ports/kihnu-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +787,7 @@
         "sadamakapteni_epost": "ragnar@postman.ee",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "13.01.2022"
       },
       "geometry": {
@@ -805,18 +802,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 250,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "KUIVASTU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Janis Osa",
-        "sadamakapteni_telefon": "+372 5302 6741",
-        "sadamakapteni_epost": "janis.osa@saarteliinid.ee",
-        "max_pikkus": "120.0",
-        "max_laius": "20.0",
-        "max_sygavus": "4.5",
-        "modified_date": "11.02.2026"
+        "sadamakapteni_telefon": "+372 5400 4131",
+        "sadamakapteni_epost": "kuivastu@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/kuivastu-jahisadam/",
+        "max_pikkus": "30.0",
+        "max_laius": "6.0",
+        "max_sygavus": "2.9",
+        "kaikohtade_arv": "50",
+        "allikas": "https://slmarinas.ee/ports/kuivastu-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -840,7 +836,7 @@
         "sadamakapteni_epost": "eiki.orgmets@kundasadam.ee",
         "max_pikkus": "150.0",
         "max_laius": "30.0",
-        "max_sygavus": "8.4",
+        "max_sygavus": "-",
         "modified_date": "17.08.2026"
       },
       "geometry": {
@@ -864,7 +860,7 @@
         "sadamakapteni_telefon": "+37253411457",
         "sadamakapteni_epost": "kunglasadam@gmail.com",
         "max_pikkus": "15.0",
-        "max_laius": "3.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "04.03.2019"
       },
@@ -888,9 +884,9 @@
         "sadamakapteni_nimi": "Oskar Jõgi",
         "sadamakapteni_telefon": "+372 5031953",
         "sadamakapteni_epost": "info@kuressaarejahisadam.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "4.0",
-        "max_sygavus": "2.1",
+        "max_sygavus": "-",
         "modified_date": "20.02.2026"
       },
       "geometry": {
@@ -914,8 +910,8 @@
         "sadamakapteni_telefon": "+ 372 5036435",
         "sadamakapteni_epost": "disanta66@gmail.com",
         "max_pikkus": "10.0",
-        "max_laius": "2.5",
-        "max_sygavus": "1.2",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "23.10.2018"
       },
       "geometry": {
@@ -939,8 +935,8 @@
         "sadamakapteni_telefon": "+372 504 9165",
         "sadamakapteni_epost": "priit.post@esmarehitus.ee",
         "max_pikkus": "24.0",
-        "max_laius": "5.5",
-        "max_sygavus": "2.5",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "26.06.2024"
       },
       "geometry": {
@@ -965,7 +961,7 @@
         "sadamakapteni_epost": "p.sepp@ts.ee",
         "max_pikkus": "200.0",
         "max_laius": "30.0",
-        "max_sygavus": "9.5",
+        "max_sygavus": "-",
         "modified_date": "27.04.2026"
       },
       "geometry": {
@@ -989,7 +985,7 @@
         "sadamakapteni_telefon": "+372 5058277",
         "sadamakapteni_epost": "heikiraudsepp@hotmail.com",
         "max_pikkus": "8.0",
-        "max_laius": "2.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "20.12.2024"
       },
@@ -1005,18 +1001,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 307,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "LAAKSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+372 53328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 5304 4446",
+        "sadamakapteni_epost": "laaksaare@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/laaksaare-jahisadam/",
         "max_pikkus": "40.0",
         "max_laius": "10.0",
         "max_sygavus": "1.2",
-        "modified_date": "02.09.2026"
+        "kaikohtade_arv": "23",
+        "allikas": "https://slmarinas.ee/ports/laaksaare-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1040,7 +1035,7 @@
         "sadamakapteni_epost": "lahesuu@lahesuu.ee",
         "max_pikkus": "160.0",
         "max_laius": "35.0",
-        "max_sygavus": "4.1",
+        "max_sygavus": "-",
         "modified_date": "01.12.2023"
       },
       "geometry": {
@@ -1055,18 +1050,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 309,
-        "sadama_nimi": "MANILAIU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+372 509 7267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
-        "max_pikkus": "45.0",
-        "max_laius": "13.0",
-        "max_sygavus": "3.5",
-        "modified_date": "11.02.2026"
+        "omanik": "AS Saarte Liinid",
+        "sadama_nimi": "MANIJA SADAM",
+        "sadamakapteni_telefon": "+372 5688 4443",
+        "sadamakapteni_epost": "manija@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/manija-sadam/",
+        "max_pikkus": "18.0",
+        "max_laius": "5.0",
+        "max_sygavus": "2.5",
+        "kaikohtade_arv": "5",
+        "allikas": "https://slmarinas.ee/ports/manija-sadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1115,7 +1109,7 @@
         "sadamakapteni_epost": "tonu@hiiukalur.ee",
         "max_pikkus": "12.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.3",
+        "max_sygavus": "-",
         "modified_date": "12.11.2025"
       },
       "geometry": {
@@ -1165,7 +1159,7 @@
         "sadamakapteni_epost": "kapten@viimsi.ee",
         "max_pikkus": "25.0",
         "max_laius": "6.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "19.05.2026"
       },
       "geometry": {
@@ -1190,7 +1184,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.4",
+        "max_sygavus": "-",
         "modified_date": "07.02.2023"
       },
       "geometry": {
@@ -1215,7 +1209,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "06.03.2023"
       },
       "geometry": {
@@ -1240,7 +1234,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "25.08.2026"
       },
       "geometry": {
@@ -1290,7 +1284,7 @@
         "sadamakapteni_epost": "lohusalu@lohusalu.ee",
         "max_pikkus": "20.0",
         "max_laius": "5.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "11.12.2020"
       },
       "geometry": {
@@ -1305,18 +1299,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 319,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "MUNALAIU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+372 509 7267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
-        "max_pikkus": "45.0",
-        "max_laius": "13.0",
+        "sadamakapteni_telefon": "+372 5688 4443",
+        "sadamakapteni_epost": "munalaiu@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/munalaiu-sadam/",
+        "max_pikkus": "20.0",
+        "max_laius": "8.0",
         "max_sygavus": "3.5",
-        "modified_date": "11.02.2026"
+        "kaikohtade_arv": "30",
+        "allikas": "https://slmarinas.ee/ports/munalaiu-sadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1340,7 +1333,7 @@
         "sadamakapteni_epost": "peipsi.holding@gmail.com",
         "max_pikkus": "18.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.9",
+        "max_sygavus": "-",
         "modified_date": "18.10.2022"
       },
       "geometry": {
@@ -1389,8 +1382,8 @@
         "sadamakapteni_telefon": "+372 56472104",
         "sadamakapteni_epost": "info@lomalasadam.ee",
         "max_pikkus": "15.0",
-        "max_laius": "3.5",
-        "max_sygavus": "1.7",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "06.05.2026"
       },
       "geometry": {
@@ -1413,9 +1406,9 @@
         "sadamakapteni_nimi": "Kaupo Kaasik",
         "sadamakapteni_telefon": "+372 5112278",
         "sadamakapteni_epost": "kaupokaasik@gmail.com",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "10.0",
-        "max_sygavus": "1.1",
+        "max_sygavus": "-",
         "modified_date": "16.01.2026"
       },
       "geometry": {
@@ -1440,7 +1433,7 @@
         "sadamakapteni_epost": "olaf@lounaranna.ee",
         "max_pikkus": "17.0",
         "max_laius": "5.0",
-        "max_sygavus": "2.2",
+        "max_sygavus": "-",
         "modified_date": "12.10.2022"
       },
       "geometry": {
@@ -1464,8 +1457,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "9.0",
-        "max_laius": "2.2",
-        "max_sygavus": "0.9",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "10.03.2026"
       },
       "geometry": {
@@ -1480,18 +1473,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 326,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "NAISSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+372 53328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 5345 0651",
+        "sadamakapteni_epost": "naissaare@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/naissaare/",
         "max_pikkus": "60.0",
         "max_laius": "15.0",
         "max_sygavus": "3.0",
-        "modified_date": "11.02.2026"
+        "kaikohtade_arv": "50",
+        "allikas": "https://slmarinas.ee/ports/naissaare/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1515,7 +1507,7 @@
         "sadamakapteni_epost": "gunnar@tallinnbekkerport.com",
         "max_pikkus": "120.0",
         "max_laius": "24.0",
-        "max_sygavus": "6.3",
+        "max_sygavus": "-",
         "modified_date": "29.05.2026"
       },
       "geometry": {
@@ -1540,7 +1532,7 @@
         "sadamakapteni_epost": "gregor.elm@lahesuu.ee",
         "max_pikkus": "130.0",
         "max_laius": "25.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "01.09.2026"
       },
       "geometry": {
@@ -1565,7 +1557,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "20.0",
         "max_laius": "8.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "13.02.2026"
       },
       "geometry": {
@@ -1614,7 +1606,7 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
-        "max_laius": "1.7",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "20.07.2026"
       },
@@ -1640,7 +1632,7 @@
         "sadamakapteni_epost": "tarvo@iglucraft.com",
         "max_pikkus": "12.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "22.04.2024"
       },
       "geometry": {
@@ -1665,7 +1657,7 @@
         "sadamakapteni_epost": "p.sepp@ts.ee",
         "max_pikkus": "250.0",
         "max_laius": "45.0",
-        "max_sygavus": "14.5",
+        "max_sygavus": "-",
         "modified_date": "27.04.2026"
       },
       "geometry": {
@@ -1689,8 +1681,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
-        "max_laius": "3.1",
-        "max_sygavus": "0.8",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "18.10.2022"
       },
       "geometry": {
@@ -1715,7 +1707,7 @@
         "sadamakapteni_epost": "sadamakapten@illiku.ee",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.8",
+        "max_sygavus": "-",
         "modified_date": "07.10.2024"
       },
       "geometry": {
@@ -1738,9 +1730,9 @@
         "sadamakapteni_nimi": "Siim Arras",
         "sadamakapteni_telefon": "53455059",
         "sadamakapteni_epost": "orjaku@hiiumaa.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "6.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "14.10.2025"
       },
       "geometry": {
@@ -1790,7 +1782,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "11.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.6",
+        "max_sygavus": "-",
         "modified_date": "26.11.2020"
       },
       "geometry": {
@@ -1813,8 +1805,8 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "11.7",
-        "max_laius": "3.1",
+        "max_pikkus": "-",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "25.01.2022"
       },
@@ -1840,7 +1832,7 @@
         "sadamakapteni_epost": "ulomuhhin@gmail.com",
         "max_pikkus": "5.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "13.02.2023"
       },
       "geometry": {
@@ -1855,18 +1847,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 344,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "RUHNU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Andrus Saat",
-        "sadamakapteni_telefon": "+372 529 4467",
-        "sadamakapteni_epost": "andrus.saat@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 509 6239",
+        "sadamakapteni_epost": "ruhnu@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/ruhnu-jahisadam/",
         "max_pikkus": "30.0",
         "max_laius": "15.0",
-        "max_sygavus": "2.6",
-        "modified_date": "11.02.2026"
+        "max_sygavus": "2.7",
+        "kaikohtade_arv": "65",
+        "allikas": "https://slmarinas.ee/ports/ruhnu-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -1890,7 +1881,7 @@
         "sadamakapteni_epost": "enn.ristna@mail.ee",
         "max_pikkus": "15.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.7",
+        "max_sygavus": "-",
         "modified_date": "09.05.2023"
       },
       "geometry": {
@@ -1915,7 +1906,7 @@
         "sadamakapteni_epost": "sadam@hiiumaa.ee",
         "max_pikkus": "20.0",
         "max_laius": "6.0",
-        "max_sygavus": "2.6",
+        "max_sygavus": "-",
         "modified_date": "09.07.2025"
       },
       "geometry": {
@@ -1965,7 +1956,7 @@
         "sadamakapteni_epost": "kuidokoppel@gmail.com",
         "max_pikkus": "30.0",
         "max_laius": "8.0",
-        "max_sygavus": "1.9",
+        "max_sygavus": "-",
         "modified_date": "09.06.2026"
       },
       "geometry": {
@@ -1990,7 +1981,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "03.06.2026"
       },
       "geometry": {
@@ -2015,7 +2006,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "10.10.2025"
       },
       "geometry": {
@@ -2030,18 +2021,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 351,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "ROHUKÜLA SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+372 5097 267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 515 5253",
+        "sadamakapteni_epost": "rohukula@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/rohukula/",
         "max_pikkus": "120.0",
         "max_laius": "20.0",
-        "max_sygavus": "4.8",
-        "modified_date": "11.02.2026"
+        "max_sygavus": "3.3",
+        "kaikohtade_arv": "50",
+        "allikas": "https://slmarinas.ee/ports/rohukula/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2115,7 +2105,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "20.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.8",
+        "max_sygavus": "-",
         "modified_date": "03.11.2023"
       },
       "geometry": {
@@ -2140,7 +2130,7 @@
         "sadamakapteni_epost": "info@roograhu.ee",
         "max_pikkus": "10.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.6",
+        "max_sygavus": "-",
         "modified_date": "31.10.2025"
       },
       "geometry": {
@@ -2155,18 +2145,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 357,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "ROOMASSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Andrus Saat",
-        "sadamakapteni_telefon": "+372 529 4467",
-        "sadamakapteni_epost": "andrus.saat@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 5335 8313",
+        "sadamakapteni_epost": "roomassaare@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/roomassaare-jahisadam/",
         "max_pikkus": "120.0",
         "max_laius": "20.0",
-        "max_sygavus": "4.8",
-        "modified_date": "11.02.2026"
+        "max_sygavus": "4.6",
+        "kaikohtade_arv": "76",
+        "allikas": "https://slmarinas.ee/ports/roomassaare-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2189,8 +2178,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
-        "max_laius": "3.6",
-        "max_sygavus": "0.8",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "28.10.2025"
       },
       "geometry": {
@@ -2215,7 +2204,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "16.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "15.04.2026"
       },
       "geometry": {
@@ -2238,9 +2227,9 @@
         "sadamakapteni_nimi": "Marko Kajasalu",
         "sadamakapteni_telefon": "+372 525 1225",
         "sadamakapteni_epost": "marko@rapinasadam.ee",
-        "max_pikkus": "23.9",
-        "max_laius": "7.5",
-        "max_sygavus": "1.2",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "02.03.2026"
       },
       "geometry": {
@@ -2263,9 +2252,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "13.5",
+        "max_pikkus": "-",
         "max_laius": "5.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "29.01.2026"
       },
       "geometry": {
@@ -2290,7 +2279,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "14.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.4",
+        "max_sygavus": "-",
         "modified_date": "20.04.2018"
       },
       "geometry": {
@@ -2315,7 +2304,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.1",
+        "max_sygavus": "-",
         "modified_date": "22.02.2024"
       },
       "geometry": {
@@ -2363,9 +2352,9 @@
         "sadamakapteni_nimi": "Madis Praks",
         "sadamakapteni_telefon": "+372 53307301",
         "sadamakapteni_epost": "Madis.praks@kuusalu.ee",
-        "max_pikkus": "13.5",
-        "max_laius": "3.5",
-        "max_sygavus": "1.7",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "04.09.2026"
       },
       "geometry": {
@@ -2388,8 +2377,8 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "13.5",
-        "max_laius": "3.6",
+        "max_pikkus": "-",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "27.03.2019"
       },
@@ -2415,7 +2404,7 @@
         "sadamakapteni_epost": "r.sirol@silport.ee",
         "max_pikkus": "275.0",
         "max_laius": "56.0",
-        "max_sygavus": "15.3",
+        "max_sygavus": "-",
         "modified_date": "29.04.2025"
       },
       "geometry": {
@@ -2439,8 +2428,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
-        "max_laius": "2.4",
-        "max_sygavus": "0.3",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "11.08.2026"
       },
       "geometry": {
@@ -2465,7 +2454,7 @@
         "sadamakapteni_epost": "kapten@parnusadam.eu",
         "max_pikkus": "140.0",
         "max_laius": "25.0",
-        "max_sygavus": "6.8",
+        "max_sygavus": "-",
         "modified_date": "14.01.2026"
       },
       "geometry": {
@@ -2490,7 +2479,7 @@
         "sadamakapteni_epost": "raido.martinson.001@gmail.com",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.7",
+        "max_sygavus": "-",
         "modified_date": "05.08.2025"
       },
       "geometry": {
@@ -2514,8 +2503,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
-        "max_laius": "1.6",
-        "max_sygavus": "0.4",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "16.11.2023"
       },
       "geometry": {
@@ -2538,9 +2527,9 @@
         "sadamakapteni_nimi": "Valdo Kivi",
         "sadamakapteni_telefon": "+3725652887",
         "sadamakapteni_epost": "valdo.kivi@ieg.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "6.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "17.06.2024"
       },
       "geometry": {
@@ -2565,7 +2554,7 @@
         "sadamakapteni_epost": "marek.kiiver@gmail.com",
         "max_pikkus": "35.0",
         "max_laius": "7.0",
-        "max_sygavus": "2.6",
+        "max_sygavus": "-",
         "modified_date": "29.03.2022"
       },
       "geometry": {
@@ -2580,18 +2569,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 375,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "SVIBY SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Peeter Saar",
-        "sadamakapteni_telefon": "+372 5097 267",
-        "sadamakapteni_epost": "peeter.saar@saarteliinid.ee",
-        "max_pikkus": "50.0",
-        "max_laius": "15.0",
-        "max_sygavus": "3.2",
-        "modified_date": "11.02.2026"
+        "sadamakapteni_telefon": "+372 5301 2889",
+        "sadamakapteni_epost": "sviby@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/sviby/",
+        "max_pikkus": "20.0",
+        "max_laius": "3.0",
+        "max_sygavus": "2.5",
+        "kaikohtade_arv": "30",
+        "allikas": "https://slmarinas.ee/ports/sviby/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2605,18 +2593,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 376,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "SÕRU SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Andrus Maide",
-        "sadamakapteni_telefon": "+372 5043888",
-        "sadamakapteni_epost": "andrus.maide@saarteliinid.ee",
-        "max_pikkus": "55.0",
-        "max_laius": "15.0",
-        "max_sygavus": "3.9",
-        "modified_date": "18.02.2026"
+        "sadamakapteni_telefon": "+372 527 2865",
+        "sadamakapteni_epost": "soru@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/soru-sadam/",
+        "max_pikkus": "24.0",
+        "max_laius": "8.0",
+        "max_sygavus": "4.2",
+        "kaikohtade_arv": "10",
+        "allikas": "https://slmarinas.ee/ports/soru-sadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2639,7 +2626,7 @@
         "sadamakapteni_telefon": "+372 513 6263",
         "sadamakapteni_epost": "taavisuitsberg@gmail.com",
         "max_pikkus": "12.0",
-        "max_laius": "3.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "31.08.2026"
       },
@@ -2663,9 +2650,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "7.1",
-        "max_laius": "2.3",
-        "max_sygavus": "0.5",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "13.03.2025"
       },
       "geometry": {
@@ -2688,9 +2675,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "8.0",
-        "max_sygavus": "3.5",
+        "max_sygavus": "-",
         "modified_date": "27.07.2023"
       },
       "geometry": {
@@ -2715,7 +2702,7 @@
         "sadamakapteni_epost": "aarne.mandre@gmail.com",
         "max_pikkus": "11.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.7",
+        "max_sygavus": "-",
         "modified_date": "11.06.2024"
       },
       "geometry": {
@@ -2740,7 +2727,7 @@
         "sadamakapteni_epost": "veiko@idavirusadamad.ee",
         "max_pikkus": "18.0",
         "max_laius": "6.0",
-        "max_sygavus": "1.3",
+        "max_sygavus": "-",
         "modified_date": "09.06.2026"
       },
       "geometry": {
@@ -2765,7 +2752,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.7",
+        "max_sygavus": "-",
         "modified_date": "17.08.2022"
       },
       "geometry": {
@@ -2790,7 +2777,7 @@
         "sadamakapteni_epost": "peipus1@mail.ee",
         "max_pikkus": "13.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.3",
+        "max_sygavus": "-",
         "modified_date": "17.11.2023"
       },
       "geometry": {
@@ -2805,18 +2792,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 385,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "TRIIGI SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Janis Osa",
-        "sadamakapteni_telefon": "+372 5302 6741",
-        "sadamakapteni_epost": "janis.osa@saarteliinid.ee",
-        "max_pikkus": "70.0",
-        "max_laius": "15.0",
-        "max_sygavus": "4.0",
-        "modified_date": "11.02.2026"
+        "sadamakapteni_telefon": "+372 5304 9792",
+        "sadamakapteni_epost": "triigi@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/triigi-jahisadam/",
+        "max_pikkus": "13.0",
+        "max_laius": "4.0",
+        "max_sygavus": "3.0",
+        "kaikohtade_arv": "40",
+        "allikas": "https://slmarinas.ee/ports/triigi-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -2839,8 +2825,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
-        "max_laius": "4.6",
-        "max_sygavus": "2.2",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "12.03.2019"
       },
       "geometry": {
@@ -2864,8 +2850,8 @@
         "sadamakapteni_telefon": "+3725043016",
         "sadamakapteni_epost": "margus.kastein@gmail.com",
         "max_pikkus": "8.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.8",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "07.11.2025"
       },
       "geometry": {
@@ -2890,7 +2876,7 @@
         "sadamakapteni_epost": "mikk@sfe.ee",
         "max_pikkus": "35.0",
         "max_laius": "20.0",
-        "max_sygavus": "3.5",
+        "max_sygavus": "-",
         "modified_date": "21.06.2023"
       },
       "geometry": {
@@ -2913,9 +2899,9 @@
         "sadamakapteni_nimi": "Aivar Oja",
         "sadamakapteni_telefon": "+372 5304 0818",
         "sadamakapteni_epost": "aivar.oja@alutagusemaa.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "8.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "26.09.2024"
       },
       "geometry": {
@@ -2940,7 +2926,7 @@
         "sadamakapteni_epost": "marek.rauk@blrt.ee",
         "max_pikkus": "200.0",
         "max_laius": "35.0",
-        "max_sygavus": "10.2",
+        "max_sygavus": "-",
         "modified_date": "01.07.2026"
       },
       "geometry": {
@@ -2965,7 +2951,7 @@
         "sadamakapteni_epost": "viljar.viil@saarteliinid.ee",
         "max_pikkus": "130.0",
         "max_laius": "20.0",
-        "max_sygavus": "6.5",
+        "max_sygavus": "-",
         "modified_date": "11.02.2026"
       },
       "geometry": {
@@ -2990,7 +2976,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "09.12.2025"
       },
       "geometry": {
@@ -3015,7 +3001,7 @@
         "sadamakapteni_epost": "mardo@kmet.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.7",
+        "max_sygavus": "-",
         "modified_date": "19.05.2022"
       },
       "geometry": {
@@ -3065,7 +3051,7 @@
         "sadamakapteni_epost": "argomengel@gmail.com",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.9",
+        "max_sygavus": "-",
         "modified_date": "17.02.2026"
       },
       "geometry": {
@@ -3090,7 +3076,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "13.07.2022"
       },
       "geometry": {
@@ -3115,7 +3101,7 @@
         "sadamakapteni_epost": "allan.jurmann@riigilaevastik.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "04.09.2025"
       },
       "geometry": {
@@ -3138,9 +3124,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "13.5",
+        "max_pikkus": "-",
         "max_laius": "5.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "29.01.2026"
       },
       "geometry": {
@@ -3165,7 +3151,7 @@
         "sadamakapteni_epost": "ainkarlson@gmail.com",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "2.3",
+        "max_sygavus": "-",
         "modified_date": "05.03.2026"
       },
       "geometry": {
@@ -3190,7 +3176,7 @@
         "sadamakapteni_epost": "info@westmeri.ee",
         "max_pikkus": "35.0",
         "max_laius": "12.0",
-        "max_sygavus": "3.2",
+        "max_sygavus": "-",
         "modified_date": "28.07.2026"
       },
       "geometry": {
@@ -3215,7 +3201,7 @@
         "sadamakapteni_epost": "info@westmeri.ee",
         "max_pikkus": "24.0",
         "max_laius": "4.0",
-        "max_sygavus": "2.2",
+        "max_sygavus": "-",
         "modified_date": "25.08.2026"
       },
       "geometry": {
@@ -3240,7 +3226,7 @@
         "sadamakapteni_epost": "sadam@osterbyresto.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.4",
+        "max_sygavus": "-",
         "modified_date": "31.08.2026"
       },
       "geometry": {
@@ -3290,7 +3276,7 @@
         "sadamakapteni_epost": "sadam@hiiumaa.ee",
         "max_pikkus": "24.0",
         "max_laius": "8.0",
-        "max_sygavus": "3.2",
+        "max_sygavus": "-",
         "modified_date": "09.07.2025"
       },
       "geometry": {
@@ -3314,7 +3300,7 @@
         "sadamakapteni_telefon": "+372 56986655",
         "sadamakapteni_epost": "Topusadam@gmail.com",
         "max_pikkus": "14.0",
-        "max_laius": "3.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "24.04.2026"
       },
@@ -3339,7 +3325,7 @@
         "sadamakapteni_telefon": "+372 5028040",
         "sadamakapteni_epost": "rein@paatsalu.ee",
         "max_pikkus": "15.0",
-        "max_laius": "4.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "04.09.2025"
       },
@@ -3390,7 +3376,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "03.04.2023"
       },
       "geometry": {
@@ -3440,7 +3426,7 @@
         "sadamakapteni_epost": "marko.puusepp@gmail.com",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.6",
+        "max_sygavus": "-",
         "modified_date": "03.02.2026"
       },
       "geometry": {
@@ -3465,7 +3451,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.6",
+        "max_sygavus": "-",
         "modified_date": "07.12.2023"
       },
       "geometry": {
@@ -3490,7 +3476,7 @@
         "sadamakapteni_epost": "info@neememarina.ee.",
         "max_pikkus": "24.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "28.05.2024"
       },
       "geometry": {
@@ -3515,7 +3501,7 @@
         "sadamakapteni_epost": "heigoprits@gmail.com",
         "max_pikkus": "13.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "16.08.2022"
       },
       "geometry": {
@@ -3590,7 +3576,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "7.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "30.09.2025"
       },
       "geometry": {
@@ -3613,9 +3599,9 @@
         "sadamakapteni_nimi": "Elmo Ehrlich",
         "sadamakapteni_telefon": "+372 55567349",
         "sadamakapteni_epost": "elmo@kroonikeskus.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "10.0",
-        "max_sygavus": "2.8",
+        "max_sygavus": "-",
         "modified_date": "17.08.2026"
       },
       "geometry": {
@@ -3639,7 +3625,7 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "10.0",
-        "max_laius": "2.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "26.03.2019"
       },
@@ -3665,7 +3651,7 @@
         "sadamakapteni_epost": "sadam@jahtklubi.ee",
         "max_pikkus": "24.0",
         "max_laius": "8.0",
-        "max_sygavus": "3.5",
+        "max_sygavus": "-",
         "modified_date": "12.05.2026"
       },
       "geometry": {
@@ -3688,9 +3674,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "5.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "13.04.2023"
       },
       "geometry": {
@@ -3713,9 +3699,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "2.5",
+        "max_pikkus": "-",
         "max_laius": "1.0",
-        "max_sygavus": "0.3",
+        "max_sygavus": "-",
         "modified_date": "22.03.2019"
       },
       "geometry": {
@@ -3738,9 +3724,9 @@
         "sadamakapteni_nimi": "Niklas John Alexander Jansson",
         "sadamakapteni_telefon": "+372 5580970",
         "sadamakapteni_epost": "espumeru@mailasail.com",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "5.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "02.12.2025"
       },
       "geometry": {
@@ -3765,7 +3751,7 @@
         "sadamakapteni_epost": "info@kaberneememarina.ee",
         "max_pikkus": "24.0",
         "max_laius": "5.0",
-        "max_sygavus": "2.1",
+        "max_sygavus": "-",
         "modified_date": "17.04.2023"
       },
       "geometry": {
@@ -3788,7 +3774,7 @@
         "sadamakapteni_nimi": "Harry Raudvere",
         "sadamakapteni_telefon": "+372 5066740",
         "sadamakapteni_epost": "harry@windrose.ee",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "5.0",
         "max_sygavus": "2.0",
         "modified_date": "09.06.2025"
@@ -3813,7 +3799,7 @@
         "sadamakapteni_nimi": "Deniss Uglanov",
         "sadamakapteni_telefon": "+372 58503008",
         "sadamakapteni_epost": "dennisea@mail.ru",
-        "max_pikkus": "23.9",
+        "max_pikkus": "-",
         "max_laius": "6.0",
         "max_sygavus": "2.0",
         "modified_date": "04.07.2017"
@@ -3840,7 +3826,7 @@
         "sadamakapteni_epost": "sadam@hiiumaa.ee",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
-        "max_sygavus": "2.3",
+        "max_sygavus": "-",
         "modified_date": "09.07.2025"
       },
       "geometry": {
@@ -3865,7 +3851,7 @@
         "sadamakapteni_epost": "varblapk@gmail.com",
         "max_pikkus": "24.0",
         "max_laius": "4.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "09.04.2025"
       },
       "geometry": {
@@ -3890,7 +3876,7 @@
         "sadamakapteni_epost": "info@setoline.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
-        "max_sygavus": "1.9",
+        "max_sygavus": "-",
         "modified_date": "09.08.2023"
       },
       "geometry": {
@@ -3915,7 +3901,7 @@
         "sadamakapteni_epost": "kalamees@kodu.ee",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "03.07.2018"
       },
       "geometry": {
@@ -3940,7 +3926,7 @@
         "sadamakapteni_epost": "info@narvasadam.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
-        "max_sygavus": "2.2",
+        "max_sygavus": "-",
         "modified_date": "05.07.2024"
       },
       "geometry": {
@@ -3990,7 +3976,7 @@
         "sadamakapteni_epost": "info@vosusadam.ee",
         "max_pikkus": "10.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.1",
+        "max_sygavus": "-",
         "modified_date": "12.11.2024"
       },
       "geometry": {
@@ -4014,8 +4000,8 @@
         "sadamakapteni_telefon": "5135680",
         "sadamakapteni_epost": "imre@kivikala.ee",
         "max_pikkus": "12.0",
-        "max_laius": "3.2",
-        "max_sygavus": "0.9",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "15.05.2025"
       },
       "geometry": {
@@ -4039,8 +4025,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "16.0",
-        "max_laius": "4.5",
-        "max_sygavus": "1.7",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "05.10.2020"
       },
       "geometry": {
@@ -4080,18 +4066,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 1930,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "PIIRISSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Jaanus Jürivete",
-        "sadamakapteni_telefon": "+372 53328095",
-        "sadamakapteni_epost": "jaanus.jyrivete@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 5309 1897",
+        "sadamakapteni_epost": "piirissaare@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/piirissaare-jahisadam/",
         "max_pikkus": "40.0",
         "max_laius": "10.0",
-        "max_sygavus": "1.7",
-        "modified_date": "02.09.2026"
+        "max_sygavus": "1.2",
+        "kaikohtade_arv": "23",
+        "allikas": "https://slmarinas.ee/ports/piirissaare-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4115,7 +4100,7 @@
         "sadamakapteni_epost": "jyrivete@gmail.com",
         "max_pikkus": "10.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.3",
+        "max_sygavus": "-",
         "modified_date": "09.02.2026"
       },
       "geometry": {
@@ -4139,7 +4124,7 @@
         "sadamakapteni_telefon": "58026290",
         "sadamakapteni_epost": "rait@cke.ee ",
         "max_pikkus": "7.0",
-        "max_laius": "2.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "10.10.2024"
       },
@@ -4165,7 +4150,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "19.03.2025"
       },
       "geometry": {
@@ -4188,9 +4173,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "6.5",
-        "max_laius": "1.5",
-        "max_sygavus": "0.5",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "09.02.2024"
       },
       "geometry": {
@@ -4215,7 +4200,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.7",
+        "max_sygavus": "-",
         "modified_date": "28.07.2025"
       },
       "geometry": {
@@ -4239,8 +4224,8 @@
         "sadamakapteni_telefon": "+37253461647",
         "sadamakapteni_epost": "sadam@saaga.ee",
         "max_pikkus": "15.0",
-        "max_laius": "4.5",
-        "max_sygavus": "1.6",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "24.07.2026"
       },
       "geometry": {
@@ -4264,7 +4249,7 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "9.0",
-        "max_laius": "2.8",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "26.07.2023"
       },
@@ -4290,7 +4275,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.1",
+        "max_sygavus": "-",
         "modified_date": "17.11.2025"
       },
       "geometry": {
@@ -4315,7 +4300,7 @@
         "sadamakapteni_epost": "liina.jutt@gmail.com",
         "max_pikkus": "10.0",
         "max_laius": "5.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "03.08.2026"
       },
       "geometry": {
@@ -4340,7 +4325,7 @@
         "sadamakapteni_epost": "mihkel@undrest.ee",
         "max_pikkus": "24.0",
         "max_laius": "5.0",
-        "max_sygavus": "2.8",
+        "max_sygavus": "-",
         "modified_date": "16.06.2023"
       },
       "geometry": {
@@ -4365,7 +4350,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "01.06.2023"
       },
       "geometry": {
@@ -4415,7 +4400,7 @@
         "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "24.0",
         "max_laius": "15.0",
-        "max_sygavus": "2.7",
+        "max_sygavus": "-",
         "modified_date": "16.09.2025"
       },
       "geometry": {
@@ -4465,7 +4450,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "0.9",
+        "max_sygavus": "-",
         "modified_date": "30.06.2026"
       },
       "geometry": {
@@ -4490,7 +4475,7 @@
         "sadamakapteni_epost": "lauri@sahkar.ee",
         "max_pikkus": "9.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.3",
+        "max_sygavus": "-",
         "modified_date": "25.09.2025"
       },
       "geometry": {
@@ -4514,7 +4499,7 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
-        "max_laius": "2.4",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "11.01.2024"
       },
@@ -4565,7 +4550,7 @@
         "sadamakapteni_epost": "lasnmati@gmail.com",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "07.03.2023"
       },
       "geometry": {
@@ -4590,7 +4575,7 @@
         "sadamakapteni_epost": "aivar@kalasaba.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "22.09.2025"
       },
       "geometry": {
@@ -4615,7 +4600,7 @@
         "sadamakapteni_epost": "varnjasadam@gmail.com",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "30.10.2025"
       },
       "geometry": {
@@ -4640,7 +4625,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.1",
+        "max_sygavus": "-",
         "modified_date": "29.10.2025"
       },
       "geometry": {
@@ -4664,7 +4649,7 @@
         "sadamakapteni_telefon": "+372 53974722",
         "sadamakapteni_epost": "sadam@muratsi.ee",
         "max_pikkus": "8.0",
-        "max_laius": "1.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "14.08.2025"
       },
@@ -4680,18 +4665,17 @@
       "type": "Feature",
       "properties": {
         "sadamaregister": 2257,
+        "omanik": "AS Saarte Liinid",
         "sadama_nimi": "PAPISSAARE SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Meelis Saarlaid",
-        "sadamakapteni_telefon": "+372 5092932",
-        "sadamakapteni_epost": "meelis.saarlaid@saarteliinid.ee",
+        "sadamakapteni_telefon": "+372 509 2932",
+        "sadamakapteni_epost": "papissaare@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/papissaare-jahisadam/",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
         "max_sygavus": "1.2",
-        "modified_date": "12.08.2026"
+        "kaikohtade_arv": "4",
+        "allikas": "https://slmarinas.ee/ports/papissaare-jahisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4715,7 +4699,7 @@
         "sadamakapteni_epost": "martin@korrapidaja.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.7",
+        "max_sygavus": "-",
         "modified_date": "09.06.2026"
       },
       "geometry": {
@@ -4740,7 +4724,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "09.08.2023"
       },
       "geometry": {
@@ -4789,7 +4773,7 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "10.0",
-        "max_laius": "2.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "20.11.2024"
       },
@@ -4814,8 +4798,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.8",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "09.06.2026"
       },
       "geometry": {
@@ -4840,7 +4824,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "15.04.2025"
       },
       "geometry": {
@@ -4856,17 +4840,16 @@
       "properties": {
         "sadamaregister": 2551,
         "sadama_nimi": "VIKATI SADAM",
-        "omanik": "aktsiaselts Saarte Liinid",
-        "omanik_telefon": "+372 4530140",
-        "omanik_epost": "info@saarteliinid.ee",
-        "koduleht": "https://www.saarteliinid.ee/",
-        "sadamakapteni_nimi": "Meelis Saarlaid",
-        "sadamakapteni_telefon": "+372 5092932",
-        "sadamakapteni_epost": "meelis.saarlaid@saarteliinid.ee",
+        "omanik": "AS Saarte Liinid",
+        "sadamakapteni_telefon": "+372 509 2932",
+        "sadamakapteni_epost": "vikati@slmarinas.ee",
+        "koduleht": "https://slmarinas.ee/ports/vikati-paadisadam/",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.2",
-        "modified_date": "12.08.2026"
+        "max_sygavus": "0.8",
+        "kaikohtade_arv": "4",
+        "allikas": "https://slmarinas.ee/ports/vikati-paadisadam/",
+        "modified_date": "10.09.2026"
       },
       "geometry": {
         "type": "Point",
@@ -4890,7 +4873,7 @@
         "sadamakapteni_epost": "sadamayhing.kassari@mail.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "05.12.2023"
       },
       "geometry": {
@@ -4915,7 +4898,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.4",
+        "max_sygavus": "-",
         "modified_date": "02.12.2025"
       },
       "geometry": {
@@ -4940,7 +4923,7 @@
         "sadamakapteni_epost": "sadam@viinistu.ee",
         "max_pikkus": "24.0",
         "max_laius": "9.0",
-        "max_sygavus": "2.2",
+        "max_sygavus": "-",
         "modified_date": "18.03.2025"
       },
       "geometry": {
@@ -4963,9 +4946,9 @@
         "sadamakapteni_nimi": "Märt Rask",
         "sadamakapteni_telefon": "+3725258735",
         "sadamakapteni_epost": "info@alliklepasadam.ee",
-        "max_pikkus": "12.2",
+        "max_pikkus": "-",
         "max_laius": "4.0",
-        "max_sygavus": "2.3",
+        "max_sygavus": "-",
         "modified_date": "07.10.2024"
       },
       "geometry": {
@@ -4990,7 +4973,7 @@
         "sadamakapteni_epost": "hillarlipp@gmail.com",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "31.03.2023"
       },
       "geometry": {
@@ -5015,7 +4998,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "27.10.2025"
       },
       "geometry": {
@@ -5039,7 +5022,7 @@
         "sadamakapteni_telefon": "+372 50 92 358",
         "sadamakapteni_epost": "tonis@eviljasalv.ee",
         "max_pikkus": "12.0",
-        "max_laius": "3.5",
+        "max_laius": "-",
         "max_sygavus": "1.0",
         "modified_date": "03.12.2025"
       },
@@ -5090,7 +5073,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.3",
+        "max_sygavus": "-",
         "modified_date": "02.06.2025"
       },
       "geometry": {
@@ -5115,7 +5098,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "28.07.2026"
       },
       "geometry": {
@@ -5164,8 +5147,8 @@
         "sadamakapteni_telefon": "+372 56218594",
         "sadamakapteni_epost": "veigo.raamat@gmail.com",
         "max_pikkus": "6.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.6",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "01.04.2026"
       },
       "geometry": {
@@ -5189,8 +5172,8 @@
         "sadamakapteni_telefon": "5153793",
         "sadamakapteni_epost": "enn051@hot.ee",
         "max_pikkus": "8.0",
-        "max_laius": "2.5",
-        "max_sygavus": "0.8",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "11.08.2026"
       },
       "geometry": {
@@ -5213,9 +5196,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "8.5",
-        "max_laius": "2.5",
-        "max_sygavus": "0.3",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "12.03.2026"
       },
       "geometry": {
@@ -5240,7 +5223,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "30.10.2023"
       },
       "geometry": {
@@ -5265,7 +5248,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "26.06.2023"
       },
       "geometry": {
@@ -5290,7 +5273,7 @@
         "sadamakapteni_epost": "sadam@luunja.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "11.08.2026"
       },
       "geometry": {
@@ -5315,7 +5298,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "9.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "14.01.2026"
       },
       "geometry": {
@@ -5340,7 +5323,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "12.08.2026"
       },
       "geometry": {
@@ -5365,7 +5348,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "07.11.2025"
       },
       "geometry": {
@@ -5390,7 +5373,7 @@
         "sadamakapteni_epost": "sadam@narva-joesuu.ee",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "30.10.2025"
       },
       "geometry": {
@@ -5415,7 +5398,7 @@
         "sadamakapteni_epost": "varskasadam@setoline.ee",
         "max_pikkus": "23.0",
         "max_laius": "5.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "22.03.2023"
       },
       "geometry": {
@@ -5440,7 +5423,7 @@
         "sadamakapteni_epost": "jorma@aiboland.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.6",
+        "max_sygavus": "-",
         "modified_date": "18.06.2026"
       },
       "geometry": {
@@ -5463,9 +5446,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "12.5",
+        "max_pikkus": "-",
         "max_laius": "4.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "12.12.2023"
       },
       "geometry": {
@@ -5490,7 +5473,7 @@
         "sadamakapteni_epost": "enriko@desala.ee",
         "max_pikkus": "8.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.3",
+        "max_sygavus": "-",
         "modified_date": "04.09.2025"
       },
       "geometry": {
@@ -5513,9 +5496,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "4.5",
-        "max_laius": "1.5",
-        "max_sygavus": "0.8",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "03.11.2023"
       },
       "geometry": {
@@ -5540,7 +5523,7 @@
         "sadamakapteni_epost": "tonis.teemets@mail.ee",
         "max_pikkus": "24.0",
         "max_laius": "7.0",
-        "max_sygavus": "1.3",
+        "max_sygavus": "-",
         "modified_date": "03.04.2023"
       },
       "geometry": {
@@ -5565,7 +5548,7 @@
         "sadamakapteni_epost": "sadam@kasmusadam.ee",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "22.09.2025"
       },
       "geometry": {
@@ -5590,7 +5573,7 @@
         "sadamakapteni_epost": "Raivo.Pukk@abiveod.ee",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "11.11.2022"
       },
       "geometry": {
@@ -5613,9 +5596,9 @@
         "sadamakapteni_nimi": "- -",
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
-        "max_pikkus": "6.1",
-        "max_laius": "2.4",
-        "max_sygavus": "1.5",
+        "max_pikkus": "-",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "31.08.2026"
       },
       "geometry": {
@@ -5665,7 +5648,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "23.02.2026"
       },
       "geometry": {
@@ -5690,7 +5673,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "9.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "19.03.2025"
       },
       "geometry": {
@@ -5714,8 +5697,8 @@
         "sadamakapteni_telefon": "-",
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
-        "max_laius": "2.2",
-        "max_sygavus": "0.9",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "21.08.2024"
       },
       "geometry": {
@@ -5765,7 +5748,7 @@
         "sadamakapteni_epost": "Siim@heysip.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "16.10.2024"
       },
       "geometry": {
@@ -5790,7 +5773,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "6.0",
         "max_laius": "2.0",
-        "max_sygavus": "0.5",
+        "max_sygavus": "-",
         "modified_date": "28.10.2025"
       },
       "geometry": {
@@ -5814,8 +5797,8 @@
         "sadamakapteni_telefon": "+3725161460",
         "sadamakapteni_epost": "andres@weldmets.com",
         "max_pikkus": "12.0",
-        "max_laius": "3.5",
-        "max_sygavus": "1.4",
+        "max_laius": "-",
+        "max_sygavus": "-",
         "modified_date": "07.01.2025"
       },
       "geometry": {
@@ -5840,7 +5823,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "3.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "20.05.2025"
       },
       "geometry": {
@@ -5865,7 +5848,7 @@
         "sadamakapteni_epost": "Gerrit@brggrupp.ee",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.2",
+        "max_sygavus": "-",
         "modified_date": "07.05.2025"
       },
       "geometry": {
@@ -5915,7 +5898,7 @@
         "sadamakapteni_epost": "lauri@sahkar.ee",
         "max_pikkus": "24.0",
         "max_laius": "10.0",
-        "max_sygavus": "1.9",
+        "max_sygavus": "-",
         "modified_date": "01.04.2026"
       },
       "geometry": {
@@ -5940,7 +5923,7 @@
         "sadamakapteni_epost": "valdo.kivi@ieg.ee",
         "max_pikkus": "24.0",
         "max_laius": "6.0",
-        "max_sygavus": "2.5",
+        "max_sygavus": "-",
         "modified_date": "17.04.2026"
       },
       "geometry": {
@@ -5965,7 +5948,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "18.10.2023"
       },
       "geometry": {
@@ -6015,7 +5998,7 @@
         "sadamakapteni_epost": "anmar@vortsjarv.com",
         "max_pikkus": "24.0",
         "max_laius": "8.0",
-        "max_sygavus": "0.6",
+        "max_sygavus": "-",
         "modified_date": "06.02.2026"
       },
       "geometry": {
@@ -6040,7 +6023,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "15.0",
         "max_laius": "4.0",
-        "max_sygavus": "1.5",
+        "max_sygavus": "-",
         "modified_date": "26.06.2024"
       },
       "geometry": {
@@ -6065,7 +6048,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "8.0",
         "max_laius": "3.0",
-        "max_sygavus": "0.4",
+        "max_sygavus": "-",
         "modified_date": "28.08.2025"
       },
       "geometry": {
@@ -6115,7 +6098,7 @@
         "sadamakapteni_epost": "-",
         "max_pikkus": "12.0",
         "max_laius": "4.0",
-        "max_sygavus": "0.8",
+        "max_sygavus": "-",
         "modified_date": "08.02.2024"
       },
       "geometry": {
