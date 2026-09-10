@@ -73,7 +73,7 @@ const fetchPorts = async () => {
     const feature = await fetchPort(port, options);
     if (feature) geojson.features.push(feature);
 
-    await sleep(123);
+    await sleep(50);
   }
 
   geojson.features.sort(function (a, b) {
