@@ -1,7 +1,12 @@
 import { writeFile } from "node:fs";
 import * as reproject from "reproject";
+import slmarinasData from "./slmarinas.json" with { type: "json" };
 
 const DEBUG = false;
+
+const SLMARINAS = new Map(
+  slmarinasData.map((item) => [item.sadamaregister, item]),
+);
 
 const EPSG = {
   "EPSG:3301":
@@ -13,20 +18,21 @@ const EPSG = {
 const options = {
   headers: {
     accept: "application/json, text/plain, */*",
-    "accept-language": "en-GB,en;q=0.9",
+    "accept-language": "en-US,en;q=0.9,et;q=0.8,en-GB;q=0.7,et-EE;q=0.6",
     "cache-control": "no-cache",
     pragma: "no-cache",
+    priority: "u=1, i",
+    "sec-ch-ua":
+      '"Chromium";v="152", "Not?A_Brand";v="24", "Microsoft Edge";v="152"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"macOS"',
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
-    "sec-fetch-site": "same-origin",
-    "user-agent":
-      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0",
+    "sec-fetch-site": "same-site",
+    Referer: "https://www.sadamaregister.ee/",
   },
-  referrer: "https://www.sadamaregister.ee/",
-  referrerPolicy: "strict-origin-when-cross-origin",
   body: null,
   method: "GET",
-  mode: "cors",
 };
 
 const formatNumbers = (val) => {
@@ -34,6 +40,8 @@ const formatNumbers = (val) => {
 
   return Number(val).toFixed(1);
 };
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const fetchPorts = async () => {
   const url = "https://sadamaregister.ee/api/ports/public-active";
@@ -53,41 +61,35 @@ const fetchPorts = async () => {
 
   console.log("Total ports:", ports.length);
 
-  ports.forEach((port, i) => {
-    setTimeout(async () => {
-      const feature = await fetchPort(port, options);
-      if (feature) geojson.features.push(feature);
+  for (const port of ports) {
+    const feature = await fetchPort(port, options);
+    if (feature) geojson.features.push(feature);
 
-      if (i == ports.length - 1) {
-        geojson.features.sort(function (a, b) {
-          return (
-            parseFloat(a.properties.sadamaregister) -
-            parseFloat(b.properties.sadamaregister)
-          );
-        });
+    await sleep(123);
+  }
 
-        writeFile(
-          "public/raw.json",
-          JSON.stringify(geojson, null, 2),
-          (err) => {
-            if (err) throw err;
-          },
-        );
-
-        writeFile("public/data.json", JSON.stringify(geojson), (err) => {
-          if (err) throw err;
-        });
-
-        writeFile(
-          "public/data.js",
-          `var sadamadgeoJson = ${JSON.stringify(geojson)};`,
-          (err) => {
-            if (err) throw err;
-          },
-        );
-      }
-    }, i * 200); // 0.2s delay for scraping
+  geojson.features.sort(function (a, b) {
+    return (
+      parseFloat(a.properties.sadamaregister) -
+      parseFloat(b.properties.sadamaregister)
+    );
   });
+
+  writeFile("public/raw.json", JSON.stringify(geojson, null, 2), (err) => {
+    if (err) throw err;
+  });
+
+  writeFile("public/data.json", JSON.stringify(geojson), (err) => {
+    if (err) throw err;
+  });
+
+  writeFile(
+    "public/data.js",
+    `var sadamadgeoJson = ${JSON.stringify(geojson)};`,
+    (err) => {
+      if (err) throw err;
+    },
+  );
 };
 
 const fetchPort = async (port) => {
@@ -193,23 +195,28 @@ const fetchPort = async (port) => {
   const output = reproject.reproject(input, "EPSG:3301", "EPSG:4326", EPSG);
   const [lon, lat] = output.coordinates;
 
+  let properties = {
+    sadamaregister: id,
+    sadama_nimi: name,
+    omanik: omanik,
+    omanik_telefon: omanik_telefon,
+    omanik_epost: omanik_epost,
+    koduleht: koduleht,
+    sadamakapteni_nimi: sadamakapteni_nimi,
+    sadamakapteni_telefon: sadamakapteni_telefon,
+    sadamakapteni_epost: sadamakapteni_epost,
+    max_pikkus: max_pikkus,
+    max_laius: max_laius,
+    max_sygavus: max_sygavus,
+    modified_date: muutmineKp,
+  };
+
+  const override = SLMARINAS.get(id);
+  if (override) properties = { ...override };
+
   let feature = {
     type: "Feature",
-    properties: {
-      sadamaregister: id,
-      sadama_nimi: name,
-      omanik: omanik,
-      omanik_telefon: omanik_telefon,
-      omanik_epost: omanik_epost,
-      koduleht: koduleht,
-      sadamakapteni_nimi: sadamakapteni_nimi,
-      sadamakapteni_telefon: sadamakapteni_telefon,
-      sadamakapteni_epost: sadamakapteni_epost,
-      max_pikkus: max_pikkus,
-      max_laius: max_laius,
-      max_sygavus: max_sygavus,
-      modified_date: muutmineKp,
-    },
+    properties: properties,
     geometry: {
       type: "Point",
       coordinates: [+lon.toFixed(5), +lat.toFixed(5)],
