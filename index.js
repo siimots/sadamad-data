@@ -36,7 +36,15 @@ const options = {
 };
 
 const formatNumbers = (val) => {
-  if (isNaN(val)) return "-";
+  if (val === null || val === undefined || val === "" || val === "-") {
+    return "-";
+  }
+
+  val = String(val).replace(",", ".");
+
+  if (isNaN(val)) {
+    return "-";
+  }
 
   return Number(val).toFixed(1);
 };
@@ -132,7 +140,12 @@ const fetchPort = async (port) => {
   } = harbourMasterData;
 
   let omanik = "-";
-  if (sadamaPidajaEesnimi && sadamaPidajaArinimiPerenimi) {
+  if (
+    sadamaPidajaEesnimi &&
+    sadamaPidajaEesnimi != "-" &&
+    sadamaPidajaArinimiPerenimi &&
+    sadamaPidajaArinimiPerenimi != "-"
+  ) {
     omanik = sadamaPidajaEesnimi + " " + sadamaPidajaArinimiPerenimi;
   } else if (sadamaPidajaArinimiPerenimi) {
     omanik = sadamaPidajaArinimiPerenimi;
@@ -154,7 +167,12 @@ const fetchPort = async (port) => {
   }
 
   let sadamakapteni_nimi = "-";
-  if (sadamaKaptenEesnimi && sadamaKaptenPerenimi) {
+  if (
+    sadamaKaptenEesnimi &&
+    sadamaKaptenEesnimi != "-" &&
+    sadamaKaptenPerenimi &&
+    sadamaKaptenPerenimi != "-"
+  ) {
     sadamakapteni_nimi = sadamaKaptenEesnimi + " " + sadamaKaptenPerenimi;
   }
 
