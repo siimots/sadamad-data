@@ -339,15 +339,15 @@
         "sadama_nimi": "ATLA SADAM",
         "omanik": "ATLA SADAM MTÜ",
         "omanik_telefon": "+372 5141492",
-        "omanik_epost": "Info@atlasadam.ee",
-        "koduleht": "https://atlasadam.ee/",
-        "sadamakapteni_nimi": "Paul-Robert Helk",
-        "sadamakapteni_telefon": "+372 58504210",
-        "sadamakapteni_epost": "Info@atlasadam.ee",
+        "omanik_epost": "toivo.naagel@mail.ee",
+        "koduleht": "-",
+        "sadamakapteni_nimi": "Kristjan Penu",
+        "sadamakapteni_telefon": "+372 501 5988",
+        "sadamakapteni_epost": "krikristjan.penu@gmail.com ",
         "max_pikkus": "12.0",
-        "max_laius": "6.0",
-        "max_sygavus": "1.4",
-        "modified_date": "11.03.2026"
+        "max_laius": "4.0",
+        "max_sygavus": "1.2",
+        "modified_date": "14.09.2026"
       },
       "geometry": {
         "type": "Point",
