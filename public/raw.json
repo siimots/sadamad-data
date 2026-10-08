@@ -2537,31 +2537,6 @@
     {
       "type": "Feature",
       "properties": {
-        "sadamaregister": 372,
-        "sadama_nimi": "SOO SADAM",
-        "omanik": "Olev Rätsep",
-        "omanik_telefon": "+372 565 3250",
-        "omanik_epost": "olevratsep@gmail.com",
-        "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
-        "max_pikkus": "6.0",
-        "max_laius": "1.6",
-        "max_sygavus": "0.4",
-        "modified_date": "16.11.2023"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.12044,
-          58.72245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "sadamaregister": 373,
         "sadama_nimi": "SUUR-HOLMI SADAM",
         "omanik": "GHM Halduse OÜ",
@@ -5940,9 +5915,9 @@
         "sadamakapteni_telefon": "53432489",
         "sadamakapteni_epost": "parnuoldharbour@veeteed.com",
         "max_pikkus": "120.0",
-        "max_laius": "12.0",
-        "max_sygavus": "6.0",
-        "modified_date": "25.09.2026"
+        "max_laius": "25.0",
+        "max_sygavus": "5.8",
+        "modified_date": "07.10.2026"
       },
       "geometry": {
         "type": "Point",
