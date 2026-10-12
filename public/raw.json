@@ -1200,16 +1200,16 @@
         "sadamaregister": 314,
         "sadama_nimi": "LEPPNEEME KALASADAM",
         "omanik": "Mittetulundusühing Räimeühing",
-        "omanik_telefon": "+372 5087786",
-        "omanik_epost": "erko.veltson@gmail.com",
+        "omanik_telefon": "+372 5139047",
+        "omanik_epost": "leppneeme-kalurid@harjukalandus.eu",
         "koduleht": "-",
-        "sadamakapteni_nimi": "-",
-        "sadamakapteni_telefon": "-",
-        "sadamakapteni_epost": "-",
+        "sadamakapteni_nimi": "PEEP PÄRNAMAA",
+        "sadamakapteni_telefon": "56623410",
+        "sadamakapteni_epost": "peep.parnamaa@gmail.com",
         "max_pikkus": "15.0",
         "max_laius": "6.0",
         "max_sygavus": "1.4",
-        "modified_date": "07.02.2023"
+        "modified_date": "12.10.2026"
       },
       "geometry": {
         "type": "Point",
