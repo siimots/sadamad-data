@@ -3949,16 +3949,16 @@
         "sadamaregister": 1552,
         "sadama_nimi": "NARVA LINNASADAM",
         "omanik": "Sihtasutus Narva Sadam",
-        "omanik_telefon": "+372 55699195",
+        "omanik_telefon": "+372 58473132",
         "omanik_epost": "info@narvasadam.ee",
         "koduleht": "http://www.narvasadam.ee/",
-        "sadamakapteni_nimi": "Anatoli Ivanov",
-        "sadamakapteni_telefon": "+372 55699195",
-        "sadamakapteni_epost": "info@narvasadam.ee",
-        "max_pikkus": "24.0",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "30.0",
         "max_laius": "15.0",
-        "max_sygavus": "2.2",
-        "modified_date": "05.07.2024"
+        "max_sygavus": "2.5",
+        "modified_date": "15.10.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3974,16 +3974,16 @@
         "sadamaregister": 1553,
         "sadama_nimi": "NARVA KULGU SADAM",
         "omanik": "Sihtasutus Narva Sadam",
-        "omanik_telefon": "+372 55699195",
+        "omanik_telefon": "+372 58473132",
         "omanik_epost": "info@narvasadam.ee",
         "koduleht": "http://www.narvasadam.ee/",
-        "sadamakapteni_nimi": "Anatoli Ivanov",
-        "sadamakapteni_telefon": "+372 55699195",
-        "sadamakapteni_epost": "info@narvasadam.ee",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
         "max_pikkus": "18.0",
         "max_laius": "7.0",
         "max_sygavus": "1.0",
-        "modified_date": "08.04.2026"
+        "modified_date": "15.10.2026"
       },
       "geometry": {
         "type": "Point",
@@ -5974,6 +5974,31 @@
         "coordinates": [
           23.50935,
           58.95943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sadamaregister": 9013,
+        "sadama_nimi": "NORRBY SADAM",
+        "omanik": "Vormsi Vallavalitsus",
+        "omanik_telefon": "+372 5296318",
+        "omanik_epost": "vv@vormsi.ee",
+        "koduleht": "https://vormsi.ee/",
+        "sadamakapteni_nimi": "-",
+        "sadamakapteni_telefon": "-",
+        "sadamakapteni_epost": "-",
+        "max_pikkus": "9.0",
+        "max_laius": "2.5",
+        "max_sygavus": "0.8",
+        "modified_date": "19.10.2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.35802,
+          59.02037
         ]
       }
     },
