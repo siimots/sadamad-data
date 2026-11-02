@@ -397,7 +397,7 @@
         "max_pikkus": "30.0",
         "max_laius": "9.0",
         "max_sygavus": "3.4",
-        "modified_date": "28.10.2026"
+        "modified_date": "30.10.2026"
       },
       "geometry": {
         "type": "Point",
@@ -3754,11 +3754,11 @@
         "koduleht": "-",
         "sadamakapteni_nimi": "Niklas John Alexander Jansson",
         "sadamakapteni_telefon": "+372 5580970",
-        "sadamakapteni_epost": "espumeru@mailasail.com",
+        "sadamakapteni_epost": "njajansson@gmail.com",
         "max_pikkus": "23.9",
         "max_laius": "5.0",
         "max_sygavus": "2.5",
-        "modified_date": "02.12.2025"
+        "modified_date": "02.11.2026"
       },
       "geometry": {
         "type": "Point",
